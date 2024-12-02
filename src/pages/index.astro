@@ -1,11 +1,51 @@
 ---
-import Welcome from '../components/Welcome.astro';
-import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+const teams = await getCollection('teams', ({ data }) => {
+  return data.classification !== null;
+});
 
-// Welcome to Astro! Wondering what to do next? Check out the Astro documentation at https://docs.astro.build
-// Don't want to use any of this? Delete everything in this file, the `assets`, `components`, and `layouts` directories, and start fresh.
+var fbsTeams = teams.filter(function (team) {
+  return team.data.classification == 'fbs';
+});
+
+var fcsTeams = teams.filter(function (team) {
+  return team.data.classification == 'fcs';
+});
+
+var d2Teams = teams.filter(function (team) {
+  return team.data.classification == 'ii';
+});
+
+var d3Teams = teams.filter(function (team) {
+  return team.data.classification == 'iii';
+});
 ---
+<h1>Teams</h1>
+<h2>FBS</h2>
+<ul>
+  {fbsTeams.map(team => (
+    <li>{team.data.school} {team.data.mascot}</li>
+  ))}
+</ul>
 
-<Layout>
-	<Welcome />
-</Layout>
+<h2>FCS</h2>
+<ul>
+  {fcsTeams.map(team => (
+    <li>{team.data.school} {team.data.mascot}</li>
+  ))}
+</ul>
+
+<h2>D2</h2>
+<ul>
+  {d2Teams.map(team => (
+    <li>{team.data.school} {team.data.mascot} - <small>{team.data.location.name}</small></li>
+
+  ))}
+</ul>
+
+<h2>D3</h2>
+<ul>
+  {d3Teams.map(team => (
+    <li>{team.data.school} {team.data.mascot}</li>
+  ))}
+</ul>
