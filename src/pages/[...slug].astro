@@ -1,0 +1,28 @@
+---
+import { getCollection } from 'astro:content';
+import slugify from 'slugify';
+
+export const prerender = true
+
+export async function getStaticPaths() {
+  const teams = await getCollection('teams', ({ data }) => {
+    return data.classification !== null;
+  });
+
+
+  return teams
+      .map(team => {
+          return {
+              params: { slug: slugify(team.data.school, {lower: true}) },
+              props: team
+          }
+      });
+};
+
+const team = Astro.props;
+console.log(team.data.school);
+
+---
+
+<h1>{team.data.school}</h1>
+<h2>test</h2>
