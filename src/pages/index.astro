@@ -1,5 +1,8 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import slugify from 'slugify';
+
 const teams = await getCollection('teams', ({ data }) => {
   return data.classification !== null;
 });
@@ -19,33 +22,38 @@ var d2Teams = teams.filter(function (team) {
 var d3Teams = teams.filter(function (team) {
   return team.data.classification == 'iii';
 });
+
+const pageTitle = "Home |"
 ---
-<h1>Teams</h1>
-<h2>FBS</h2>
-<ul>
-  {fbsTeams.map(team => (
-    <li>{team.data.school} {team.data.mascot}</li>
-  ))}
-</ul>
 
-<h2>FCS</h2>
-<ul>
-  {fcsTeams.map(team => (
-    <li>{team.data.school} {team.data.mascot}</li>
-  ))}
-</ul>
-
-<h2>D2</h2>
-<ul>
-  {d2Teams.map(team => (
-    <li>{team.data.school} {team.data.mascot} - <small>{team.data.location.name}</small></li>
-
-  ))}
-</ul>
-
-<h2>D3</h2>
-<ul>
-  {d3Teams.map(team => (
-    <li>{team.data.school} {team.data.mascot}</li>
-  ))}
-</ul>
+<BaseLayout pageTitle={pageTitle}>
+  <h1>Teams</h1>
+  <h2>FBS</h2>
+  <ul>
+    {fbsTeams.map(team => (
+      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
+    ))}
+  </ul>
+  
+  <h2>FCS</h2>
+  <ul>
+    {fcsTeams.map(team => (
+      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
+      ))}
+  </ul>
+  
+  <h2>D2</h2>
+  <ul>
+    {d2Teams.map(team => (
+      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
+  
+    ))}
+  </ul>
+  
+  <h2>D3</h2>
+  <ul>
+    {d3Teams.map(team => (
+      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
+      ))}
+  </ul>
+</BaseLayout>

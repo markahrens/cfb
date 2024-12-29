@@ -1,6 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TeamMasthead from '../components/TeamMasthead.astro';
 import slugify from 'slugify';
+import contrast from 'get-contrast'
 
 export const prerender = true
 
@@ -19,10 +22,25 @@ export async function getStaticPaths() {
       });
 };
 
+
+
 const team = Astro.props;
-console.log(team.data.school);
+let teamColor = '#000';
+let textColor = '#FFF';
+if(team.data.color) {
+  teamColor = team.data.color
+}
+if(!contrast.isAccessible(teamColor, textColor)) {
+  textColor = '#000';
+}
 
 ---
 
-<h1>{team.data.school}</h1>
-<h2>test</h2>
+<BaseLayout pageTitle={`${team.data.school} |`}>
+
+  <TeamMasthead id={team.data.id}/>
+
+</BaseLayout>
+
+
+

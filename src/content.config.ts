@@ -1,5 +1,6 @@
 import { defineCollection, z } from 'astro:content';
-import { file } from 'astro/loaders'; // Not available with legacy API
+import { glob, file } from 'astro/loaders'; 
+
 const teams = defineCollection({
   loader: file("src/data/teams.json"),
   schema: z.object({
@@ -33,4 +34,22 @@ const teams = defineCollection({
   }),
 });
 
-export const collections = { teams };
+const bowlseasons = defineCollection({
+  loader: glob({pattern: "**/*.json", base: "./src/data/bowls"}),
+  schema: z.array(z.object({
+    id: z.number(),
+    start_date: z.coerce.date(),
+    attendance: z.coerce.number().nullable(),
+    venue_id: z.coerce.number().nullable(),
+    venue: z.string().nullable(),
+    home_id: z.number(),
+    home_conference: z.string().nullable(),
+    home_points: z.number(),
+    away_id: z.number(),
+    away_conference: z.string().nullable(),
+    away_points: z.number(),
+    notes: z.string(),
+  }))
+})
+
+export const collections = { teams, bowlseasons };

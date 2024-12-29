@@ -1,0 +1,52 @@
+---
+import { getEntry } from 'astro:content';
+import contrast from 'get-contrast'
+
+const { id } = Astro.props;
+
+const team = await getEntry('teams',id );
+
+let teamColor = '#000';
+let textColor = '#FFF';
+if(team.data.color) {
+  teamColor = team.data.color
+}
+if(!contrast.isAccessible(teamColor, textColor)) {
+  textColor = '#000';
+}
+
+---
+
+<div class="masthead" style={`background-color:${teamColor};color:${textColor}`}>
+  <img class="masthead__logo" src={`/logos/light/${team.data.id}.png`} width="250" />
+  <div class="masthead__title">
+    <h1>{team.data.school}</h1>
+    <h2>{team.data.mascot}</h2>
+  </div>  
+</div>
+
+<style>
+  .masthead {
+    display: flex;
+    flex-direction: row;
+
+    .masthead__logo {
+      background-color: #fff;
+      display: block;
+      border-radius: 40px;
+      width: 125px;
+      height: 125px;
+      padding: 10px;
+      margin: 20px;
+    }
+    .masthead__title {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+    h1, h2 {
+      margin: 0;
+      font-weight: 400;
+    }
+  }
+</style>

@@ -1,0 +1,17 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SimpleTeamCard from '../../components/SimpleTeamCard.astro';
+
+const seasons = await getCollection('bowlseasons');
+
+---
+
+<BaseLayout pageTitle="Bowl Seasons | ">
+  <h1>Bowl Seasons</h1>
+  <ul>
+    {seasons.map(season => (
+      <li><a href={`/bowls/${season.id}`}>{season.id}</a> - {season.data.length} games</li>
+    ))}
+  </ul>
+</BaseLayout>

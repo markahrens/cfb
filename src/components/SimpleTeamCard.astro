@@ -1,0 +1,14 @@
+---
+import { getEntry } from 'astro:content';
+import contrast from 'get-contrast'
+
+const { id } = Astro.props;
+
+const team = await getEntry('teams',id );
+
+---
+
+<div class="teamcard">
+    <p class="teamcard__title">{team.data.school}</p>
+    <p class="teamcard__mascot">{team.data.mascot}</>  
+</div>
