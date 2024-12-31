@@ -1,0 +1,39 @@
+---
+import SimpleTeamCard from '../components/SimpleTeamCard.astro';
+
+const { game } = Astro.props;
+---
+
+<div class="game">
+  <div class="score">
+    <SimpleTeamCard id={game.home_id} />
+    <div class={game.home_points > game.away_points ? 'winner score' : 'score'}>{game.home_points}</div>
+  </div>
+  <div class="score">
+    <SimpleTeamCard id={game.away_id} />
+    <div class={game.away_points > game.home_points ? 'winner score' : 'score'}>{game.away_points}</div>
+  </div>
+  <p>{game.notes}</p>
+  <p>{game.attendance}</p>
+  <p>{game.start_date.toLocaleString('en-US')}</p>
+</div>
+
+<style>
+  .game {
+      width: 600px;
+      max-width: 100%;
+      .score {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: row;
+        align-items: center;
+        font-family: 'Radio Canada Big';
+        .score {
+          font-size: 1.4rem;
+        }
+        .winner {
+          font-weight: 600;
+        }
+      }
+    };
+</style>

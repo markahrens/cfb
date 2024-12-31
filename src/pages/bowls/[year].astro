@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import SimpleTeamCard from '../../components/SimpleTeamCard.astro';
+import GameResult from '../../components/GameResult.astro';
 
 export async function getStaticPaths() {
   const seasons = await getCollection('bowlseasons');
@@ -17,21 +17,10 @@ const { season } = Astro.props;
 ---
 
 <BaseLayout pageTitle={`${season.id} |`}>
+  <h1>{season.id} Bowl Season</h1>
   <div class="games">
     {season.data.map(game => (
-      <div class="game">
-        <div class="score">
-          <SimpleTeamCard id={game.home_id} />
-          <div>{game.home_points}</div>
-        </div>
-        <div class="score">
-          <SimpleTeamCard id={game.away_id} />
-          <div>{game.away_points}</div>
-        </div>
-        <p>{game.notes}</p>
-        <p>{game.attendance}</p>
-        <p>{game.start_date.toLocaleString('en-US')}</p>
-      </div>
+      <GameResult game={game} />
     ))}
   </div>
 </BaseLayout>
@@ -43,20 +32,5 @@ const { season } = Astro.props;
     flex-wrap: wrap;
     justify-content: space-around;
     gap: 40px;
-    .game {
-      width: 600px;
-      max-width: 100%;
-      .score {
-        display: flex;
-        justify-content: space-between;
-        flex-direction: row;
-        .teamcard {
-          p {
-            margin: 0;
-          }
-        }
-      }
-
-    };
   }
 </style>

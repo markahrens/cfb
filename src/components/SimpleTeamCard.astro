@@ -9,6 +9,29 @@ const team = await getEntry('teams',id );
 ---
 
 <div class="teamcard">
-    <p class="teamcard__title">{team.data.school}</p>
-    <p class="teamcard__mascot">{team.data.mascot}</>  
+    <img class="logo" src={`/logos/small/${team.data.id}.png`} width="40" />
+    <div class="name">
+        <span class="teamcard__title">{team.data.school}</span> {team.data.mascot} 
+    </div>
 </div>
+
+<style>
+    .teamcard {
+          display: grid;
+          grid-template-columns: 50px 1fr;
+          align-items: center;
+          grid-template-areas:
+            "logo name";
+          .logo {
+            grid-area: logo;
+          }
+          .name {
+            grid-area: name;
+            .teamcard__title {
+              font-size: 1.4rem;
+              font-weight: 500;
+            }
+          }
+          
+        }
+</style>

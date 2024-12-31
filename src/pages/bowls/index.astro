@@ -3,7 +3,8 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro';
 
-const seasons = await getCollection('bowlseasons');
+const seasons = (await getCollection('bowlseasons'))
+  .sort((a, b) => parseInt(b.id) - parseInt(a.id));
 
 ---
 

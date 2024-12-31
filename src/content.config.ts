@@ -48,7 +48,7 @@ const bowlseasons = defineCollection({
     away_id: z.number(),
     away_conference: z.string().nullable(),
     away_points: z.number(),
-    notes: z.string(),
+    notes: z.string().nullable(),
   }))
 })
 
