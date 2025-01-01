@@ -1,15 +1,22 @@
 ---
 import { getEntry } from 'astro:content';
-import contrast from 'get-contrast'
+import * as fs from 'fs';
 
-const { id } = Astro.props;
+const { id, showLogo = true } = Astro.props;
 
 const team = await getEntry('teams',id );
+var hasLogo = true;
+
+if(!fs.existsSync('./public/logos/small/' + team.data.id + '.png')) {
+  hasLogo = false;
+}
 
 ---
 
 <div class="teamcard">
-    <img class="logo" src={`/logos/small/${team.data.id}.png`} width="40" />
+
+    {(hasLogo && showLogo) && <img class="logo" src={`/logos/small/${team.data.id}.png`} width="40" />}
+    
     <div class="name">
         <span class="teamcard__title">{team.data.school}</span> {team.data.mascot} 
     </div>
@@ -18,7 +25,7 @@ const team = await getEntry('teams',id );
 <style>
     .teamcard {
           display: grid;
-          grid-template-columns: 50px 1fr;
+          grid-template-columns: fit-content(50px) 1fr;
           align-items: center;
           grid-template-areas:
             "logo name";

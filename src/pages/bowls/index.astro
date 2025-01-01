@@ -6,13 +6,49 @@ import SimpleTeamCard from '../../components/SimpleTeamCard.astro';
 const seasons = (await getCollection('bowlseasons'))
   .sort((a, b) => parseInt(b.id) - parseInt(a.id));
 
+var bowlTeams = {};
+
+seasons.map(season => (
+  season.data.map(game => {
+    if(bowlTeams[game.home_id]) {
+      bowlTeams[game.home_id]++;
+    }
+    else {
+      bowlTeams[game.home_id] = 1;
+    }
+    if(bowlTeams[game.away_id]) {
+      bowlTeams[game.away_id]++;
+    }
+    else {
+      bowlTeams[game.away_id] = 1;
+    }
+  })
+));
+
+
 ---
 
 <BaseLayout pageTitle="Bowl Seasons | ">
-  <h1>Bowl Seasons</h1>
-  <ul>
-    {seasons.map(season => (
-      <li><a href={`/bowls/${season.id}`}>{season.id}</a> - {season.data.length} games</li>
-    ))}
-  </ul>
+  <h1>Bowl Report</h1>
+  <div>
+    <h2>Seasons</h2>
+    <ul>
+      {seasons.map(season => (
+        <li><a href={`/bowls/${season.id}`}>{season.id}</a> - {season.data.length} games</li>
+      ))}
+    </ul>
+  </div>
+  <div>
+    <h2>Teams</h2>
+    <ul>
+      {Object.entries(bowlTeams).sort((a, b) => b[1] - a[1]).map(element => (
+        <div>
+          <SimpleTeamCard id={parseInt(element[0])} showLogo={false}/>
+          {element[1]} games
+        </div>
+        
+      ))}
+    </ul>
+  </div>
+
 </BaseLayout>
