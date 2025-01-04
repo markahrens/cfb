@@ -25,30 +25,64 @@ seasons.map(season => (
   })
 ));
 
-
+console.log(bowlTeams);
 ---
 
 <BaseLayout pageTitle="Bowl Seasons | ">
   <h1>Bowl Report</h1>
-  <div>
-    <h2>Seasons</h2>
-    <ul>
-      {seasons.map(season => (
-        <li><a href={`/bowls/${season.id}`}>{season.id}</a> - {season.data.length} games</li>
-      ))}
-    </ul>
-  </div>
-  <div>
-    <h2>Teams</h2>
-    <ul>
+  <div class="columns">
+    <div>
+      <h2>Teams</h2>
       {Object.entries(bowlTeams).sort((a, b) => b[1] - a[1]).map(element => (
-        <div>
-          <SimpleTeamCard id={parseInt(element[0])} showLogo={false}/>
-          {element[1]} games
+        <div class="bowl-team">
+          <SimpleTeamCard id={parseInt(element[0])} showLogo={false} linkedName={true}/>
+          <div>{element[1]} games</div>
         </div>
-        
       ))}
-    </ul>
+    </div>
+    <div>
+      <h2>Seasons</h2>
+      <ul class="seasons">
+        {seasons.map(season => (
+          <li><span><a href={`/bowls/${season.id}`}>{season.id}</a></span> {season.data.length} games</li>
+        ))}
+      </ul>
+    </div>
+
   </div>
+  
 
 </BaseLayout>
+
+<style>
+  .columns {
+    display: grid;
+    max-width: 1200px;
+    margin: 0 auto;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+  }
+
+  .bowl-team {
+    display: grid;
+    grid-template-columns: 300px 1fr;
+    gap: 20px;
+    align-items: baseline;
+    padding: 5px;
+  }
+
+  .seasons {
+    padding: 0;
+    list-style-type: none;
+    li {
+      display: grid;
+    grid-template-columns: 200px 1fr;
+    gap: 20px;
+    align-items: baseline;
+      padding: 5px;
+      span {
+        font-size: 1.4rem;
+      }
+    }
+  }
+</style>
