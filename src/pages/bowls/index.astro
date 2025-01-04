@@ -10,22 +10,21 @@ var bowlTeams = {};
 
 seasons.map(season => (
   season.data.map(game => {
-    if(bowlTeams[game.home_id]) {
-      bowlTeams[game.home_id]++;
+    if(bowlTeams[game.homeId]) {
+      bowlTeams[game.homeId]++;
     }
     else {
-      bowlTeams[game.home_id] = 1;
+      bowlTeams[game.homeId] = 1;
     }
-    if(bowlTeams[game.away_id]) {
-      bowlTeams[game.away_id]++;
+    if(bowlTeams[game.awayId]) {
+      bowlTeams[game.awayId]++;
     }
     else {
-      bowlTeams[game.away_id] = 1;
+      bowlTeams[game.awayId] = 1;
     }
   })
 ));
 
-console.log(bowlTeams);
 ---
 
 <BaseLayout pageTitle="Bowl Seasons | ">

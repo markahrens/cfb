@@ -31,27 +31,27 @@ var bowlTies = 0;
 
 bowlseasons.map(season => (
   season.data.map(game => {
-    if (game.home_id == parseInt(team.id)) {
+    if (game.homeId == parseInt(team.id)) {
       bowls.push(game);
-      if (game.home_points > game.away_points) {
+      if (game.homePoints > game.awayPoints) {
         bowlWins++;
       }
-      else if (game.home_points < game.away_points) {
+      else if (game.homePoints < game.awayPoints) {
         bowlLosses++;
       }
-      else if (game.home_points == game.away_points) {
+      else if (game.homePoints == game.awayPoints) {
         bowlTies++;
       }
     }
-    else if (game.away_id == parseInt(team.id)) {
+    else if (game.awayId == parseInt(team.id)) {
       bowls.push(game);
-      if (game.home_points > game.away_points) {
+      if (game.homePoints > game.awayPoints) {
         bowlLosses++;
       }
-      else if (game.home_points < game.away_points) {
+      else if (game.homePoints < game.awayPoints) {
         bowlWins++;
       }
-      else if (game.home_points == game.away_points) {
+      else if (game.homePoints == game.awayPoints) {
         bowlTies++;
       }
     }
