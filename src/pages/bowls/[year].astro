@@ -17,11 +17,13 @@ const { season } = Astro.props;
 ---
 
 <BaseLayout pageTitle={`${season.id} |`}>
-  <h1>{season.id} Bowl Season</h1>
-  <div class="games">
-    {season.data.map(game => (
-      <GameResult game={game} />
-    ))}
+  <div class="page-content">
+    <h1>{season.id} Bowl Season</h1>
+    <div class="games">
+      {season.data.map(game => (
+        <GameResult game={game} />
+      ))}
+    </div>
   </div>
 </BaseLayout>
 

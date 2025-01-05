@@ -28,28 +28,29 @@ seasons.map(season => (
 ---
 
 <BaseLayout pageTitle="Bowl Seasons | ">
-  <h1>Bowl Report</h1>
-  <div class="columns">
-    <div>
-      <h2>Teams</h2>
-      {Object.entries(bowlTeams).sort((a, b) => b[1] - a[1]).map(element => (
-        <div class="bowl-team">
-          <SimpleTeamCard id={parseInt(element[0])} showLogo={false} linkedName={true}/>
-          <div>{element[1]} games</div>
-        </div>
-      ))}
-    </div>
-    <div>
-      <h2>Seasons</h2>
-      <ul class="seasons">
-        {seasons.map(season => (
-          <li><span><a href={`/bowls/${season.id}`}>{season.id}</a></span> {season.data.length} games</li>
+  <div class="page-content">
+    <h1>Bowl Report</h1>
+    <div class="columns">
+      
+      <div>
+        <h2>Seasons</h2>
+        <ul class="seasons">
+          {seasons.map(season => (
+            <li><span><a href={`/bowls/${season.id}`}>{season.id}</a></span> {season.data.length} games</li>
+          ))}
+        </ul>
+      </div>
+      <div>
+        <h2>Teams</h2>
+        {Object.entries(bowlTeams).sort((a, b) => b[1] - a[1]).map(element => (
+          <div class="bowl-team">
+            <SimpleTeamCard id={parseInt(element[0])} showLogo={false} linkedName={true}/>
+            <div>{element[1]} games</div>
+          </div>
         ))}
-      </ul>
+      </div>
     </div>
-
   </div>
-  
 
 </BaseLayout>
 
@@ -75,7 +76,7 @@ seasons.map(season => (
     list-style-type: none;
     li {
       display: grid;
-    grid-template-columns: 200px 1fr;
+    grid-template-columns: 100px 1fr;
     gap: 20px;
     align-items: baseline;
       padding: 5px;

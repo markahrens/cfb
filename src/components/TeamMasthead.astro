@@ -7,9 +7,13 @@ const { id } = Astro.props;
 const team = await getEntry('teams',id );
 
 let teamColor = '#000';
+let teamAltColor = '#000';
 let textColor = '#FFF';
 if(team.data.color) {
   teamColor = team.data.color
+}
+if(team.data.alt_color) {
+  teamAltColor = team.data.alt_color
 }
 if(!contrast.isAccessible(teamColor, textColor)) {
   textColor = '#000';
@@ -17,7 +21,7 @@ if(!contrast.isAccessible(teamColor, textColor)) {
 
 ---
 
-<div class="masthead" style={`background-color:${teamColor};color:${textColor}`}>
+<div class="masthead" style={`background-color:${teamColor};color:${textColor};border-top: 10px solid ${teamAltColor};`}>
   <img class="masthead__logo" src={`/logos/orig/${team.data.id}.png`} width="250" />
   <div class="masthead__title">
     <h1>{team.data.school}</h1>

@@ -15,11 +15,23 @@ const { pageTitle } = Astro.props;
 		<title>{pageTitle} College Football Report | MyTungsten</title>
 	</head>
 	<body>
+		<nav>
+			<a href="/" class="site-title">CFB Report</a>
+			<ul>
+				<li><a href="/bowls">Bowls</a></li>
+			</ul>
+		</nav>
 		<slot />
 	</body>
 </html>
 
 <style is:global>
+	:root {
+		--light-color: #F7F9FB;
+		--dark-color: #0D19A3;
+		--alt-color: #080F5B
+	}
+
  body {
 	margin: 0;
 	font-family: "Radio Canada", sans-serif;
@@ -27,8 +39,42 @@ const { pageTitle } = Astro.props;
 	font-weight: 400;
 	font-style: normal;
 	font-variation-settings: "wdth" 87.5;
+	background-color: var(--light-color);
+ }
+ a {
+	color: var(--dark-color);
+ }
+ nav {
+	display: flex;
+	justify-content:space-between;
+	flex-direction:row;
+	align-items:center;
+	padding: 10px;
+	font-family: "Radio Canada Big", sans-serif;
+	background-color: var(--dark-color);
+	.site-title {
+		font-size: 1.4rem;
+		font-weight: 700;
+	}
+	a {
+		color: var(--light-color);
+		text-decoration: none;
+	}
+	ul {
+		margin: 0;
+		padding: 0;
+		li {
+			list-style-type: none;
+			
+		}
+	}
  }
  h1, h2, h3 {
 	font-family: 'Radio Canada Big', sans-serif;
+ }
+
+ .page-content {
+	max-width: 1200px;
+	margin: 0 auto;
  }
 </style>

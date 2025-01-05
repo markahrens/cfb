@@ -58,24 +58,34 @@ bowlseasons.map(season => (
   }
 )))
 
+bowls.sort((a, b) => b.startDate - a.startDate);
+
 ---
 
 <BaseLayout pageTitle={`${team.data.school} |`}>
 
   <TeamMasthead id={team.data.id}/>
 
-  <div class="bowlresults">
+  <div class="page-content">
     <h2>Bowl Record</h2>
     <h3>{bowlWins} - {bowlLosses} - {bowlTies}</h3>
-
-    {bowls.map(game => (
-      <GameResult game={game} />
-    ))}
+    <div class="bowl-results">
+      {bowls.map(game => (
+        <GameResult game={game} />
+      ))}
+    </div>
   </div>
-
-
-
 </BaseLayout>
 
+<style>
+  .bowl-results {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap;
 
-
+    .game {
+      margin-bottom: 40px;
+    }
+  }
+</style>

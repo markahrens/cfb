@@ -27,33 +27,7 @@ const pageTitle = "Home |"
 ---
 
 <BaseLayout pageTitle={pageTitle}>
-  <h1>Teams</h1>
-  <h2>FBS</h2>
-  <ul>
-    {fbsTeams.map(team => (
-      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
-    ))}
-  </ul>
-  
-  <h2>FCS</h2>
-  <ul>
-    {fcsTeams.map(team => (
-      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
-      ))}
-  </ul>
-  
-  <h2>D2</h2>
-  <ul>
-    {d2Teams.map(team => (
-      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
-  
-    ))}
-  </ul>
-  
-  <h2>D3</h2>
-  <ul>
-    {d3Teams.map(team => (
-      <li><a href={ slugify(team.data.school, {lower: true}) }>{team.data.school} {team.data.mascot}</a></li>
-      ))}
-  </ul>
+  <div class="page-content">
+    <h1>College Football Report</h1>
+  </div>
 </BaseLayout>
