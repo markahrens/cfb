@@ -1,4 +1,5 @@
 ---
+// @ts-nocheck
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro';
@@ -42,7 +43,10 @@ seasons.map(season => (
       </div>
       <div>
         <h2>Teams</h2>
-        {Object.entries(bowlTeams).sort((a, b) => b[1] - a[1]).map(element => (
+        
+        {
+        // @ts-ignore
+        Object.entries(bowlTeams).sort((a, b) => b[1] - a[1]).map(element => (
           <div class="bowl-team">
             <SimpleTeamCard id={parseInt(element[0])} showLogo={false} linkedName={true}/>
             <div>{element[1]} games</div>

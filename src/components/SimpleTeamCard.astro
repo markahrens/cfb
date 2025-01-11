@@ -1,23 +1,17 @@
 ---
 import { getEntry } from 'astro:content';
-import * as fs from 'fs';
 import slugify from 'slugify';
 
 
 const { id, showLogo = true, linkedName = false } = Astro.props;
 
 const team = await getEntry('teams',id );
-var hasLogo = true;
-
-if(!fs.existsSync('./public/logos/small/' + team.data.id + '.png')) {
-  hasLogo = false;
-}
 
 ---
 
 <div class="teamcard">
 
-    {(hasLogo && showLogo) && <img class="logo" src={`/logos/small/${team.data.id}.png`} width="40" />}
+    {(showLogo) && <img class="logo" src={`/logos/small/${team.data.id}.png`} width="40" />}
     
     <div class="name">
         {linkedName && <a href={ slugify(team.data.school, {lower: true}) }><span class="teamcard__title">{team.data.school}</span></a>}
