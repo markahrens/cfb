@@ -23,7 +23,7 @@
       0,
       10
     ],
-    "homePostgameWinProbability": 0.015012444106523066,
+    "homePostgameWinProbability": 0.02249851112315563,
     "homePregameElo": 1254,
     "homePostgameElo": 1268,
     "awayId": 6,
@@ -37,10 +37,10 @@
       7,
       7
     ],
-    "awayPostgameWinProbability": 0.984987555893477,
+    "awayPostgameWinProbability": 0.9775014888768444,
     "awayPregameElo": 1597,
     "awayPostgameElo": 1583,
-    "excitementIndex": 4.4247230358,
+    "excitementIndex": 4.4973213292,
     "highlights": "",
     "notes": "IS4S Salute to Veterans Bowl"
   },
@@ -113,7 +113,7 @@
       10,
       10
     ],
-    "homePostgameWinProbability": 0.9841528303062262,
+    "homePostgameWinProbability": 0.9810198099411617,
     "homePregameElo": 1692,
     "homePostgameElo": 1691,
     "awayId": 98,
@@ -127,10 +127,10 @@
       0,
       3
     ],
-    "awayPostgameWinProbability": 0.015847169693773755,
+    "awayPostgameWinProbability": 0.01898019005883833,
     "awayPregameElo": 1363,
     "awayPostgameElo": 1364,
-    "excitementIndex": 7.0794544515,
+    "excitementIndex": 7.0899967251,
     "highlights": "",
     "notes": "Boca Raton Bowl"
   },
@@ -158,7 +158,7 @@
       7,
       3
     ],
-    "homePostgameWinProbability": 0.9103774391604974,
+    "homePostgameWinProbability": 0.9069849660336801,
     "homePregameElo": 1662,
     "homePostgameElo": 1679,
     "awayId": 25,
@@ -172,10 +172,10 @@
       0,
       0
     ],
-    "awayPostgameWinProbability": 0.0896225608395026,
+    "awayPostgameWinProbability": 0.09301503396631994,
     "awayPregameElo": 1546,
     "awayPostgameElo": 1529,
-    "excitementIndex": 7.1052190545,
+    "excitementIndex": 7.1072484735,
     "highlights": "",
     "notes": "Art of Sport LA Bowl"
   },
@@ -203,7 +203,7 @@
       0,
       10
     ],
-    "homePostgameWinProbability": 0.6536591635653362,
+    "homePostgameWinProbability": 0.6338031775254644,
     "homePregameElo": 1415,
     "homePostgameElo": 1428,
     "awayId": 290,
@@ -217,10 +217,10 @@
       9,
       7
     ],
-    "awayPostgameWinProbability": 0.34634083643466385,
+    "awayPostgameWinProbability": 0.36619682247453555,
     "awayPregameElo": 1449,
     "awayPostgameElo": 1436,
-    "excitementIndex": 6.6175007407,
+    "excitementIndex": 6.5770738605,
     "highlights": "",
     "notes": "R+L Carriers New Orleans Bowl"
   },
@@ -248,7 +248,7 @@
       7,
       13
     ],
-    "homePostgameWinProbability": 0.12734925846086273,
+    "homePostgameWinProbability": 0.22228901289772124,
     "homePregameElo": 1729,
     "homePostgameElo": 1726,
     "awayId": 195,
@@ -262,10 +262,10 @@
       0,
       3
     ],
-    "awayPostgameWinProbability": 0.8726507415391372,
+    "awayPostgameWinProbability": 0.7777109871022787,
     "awayPregameElo": 1679,
     "awayPostgameElo": 1682,
-    "excitementIndex": 4.3797537055,
+    "excitementIndex": 4.4705058447,
     "highlights": "",
     "notes": "StaffDNA Cure Bowl"
   },
@@ -293,7 +293,7 @@
       10,
       17
     ],
-    "homePostgameWinProbability": 0.989416944707181,
+    "homePostgameWinProbability": 0.9951515352137683,
     "homePregameElo": 1687,
     "homePostgameElo": 1767,
     "awayId": 2655,
@@ -307,7 +307,7 @@
       0,
       8
     ],
-    "awayPostgameWinProbability": 0.010583055292819,
+    "awayPostgameWinProbability": 0.004848464786231688,
     "awayPregameElo": 1754,
     "awayPostgameElo": 1674,
     "excitementIndex": 4.8200118821,
@@ -400,7 +400,7 @@
     "awayPostgameWinProbability": 0.00406596623422828,
     "awayPregameElo": 1886,
     "awayPostgameElo": 1826,
-    "excitementIndex": 3.6643633115,
+    "excitementIndex": 3.6507935569,
     "highlights": "",
     "notes": "College Football Playoff First Round Game Presented by Allstate"
   },
@@ -428,7 +428,7 @@
       3,
       7
     ],
-    "homePostgameWinProbability": null,
+    "homePostgameWinProbability": 0.9909378784033441,
     "homePregameElo": 2057,
     "homePostgameElo": 2065,
     "awayId": 228,
@@ -442,10 +442,10 @@
       7,
       7
     ],
-    "awayPostgameWinProbability": null,
+    "awayPostgameWinProbability": 0.00906212159665587,
     "awayPregameElo": 1815,
     "awayPostgameElo": 1807,
-    "excitementIndex": null,
+    "excitementIndex": 4.2034374366,
     "highlights": "",
     "notes": "College Football Playoff First Round Game Presented by Allstate"
   },
@@ -490,7 +490,7 @@
     "awayPostgameWinProbability": 0.001098146182653248,
     "awayPregameElo": 1963,
     "awayPostgameElo": 1915,
-    "excitementIndex": 3.1114136368,
+    "excitementIndex": 3.1029131242,
     "highlights": "",
     "notes": "College Football Playoff First Round Game Presented by Allstate"
   },
@@ -518,7 +518,7 @@
       6,
       17
     ],
-    "homePostgameWinProbability": 0.9983033904245412,
+    "homePostgameWinProbability": 0.9989343630708838,
     "homePregameElo": 1479,
     "homePostgameElo": 1544,
     "awayId": 324,
@@ -532,10 +532,10 @@
       0,
       15
     ],
-    "awayPostgameWinProbability": 0.0016966095754588073,
+    "awayPostgameWinProbability": 0.0010656369291162093,
     "awayPregameElo": 1384,
     "awayPostgameElo": 1319,
-    "excitementIndex": 3.4220382342,
+    "excitementIndex": 2.4640394735,
     "highlights": "",
     "notes": "Myrtle Beach Bowl"
   },
@@ -562,9 +562,10 @@
       0,
       0,
       0,
-      7
+      7,
+      0
     ],
-    "homePostgameWinProbability": 0.37589931857006564,
+    "homePostgameWinProbability": 0.2619760543324627,
     "homePregameElo": 1499,
     "homePostgameElo": 1485,
     "awayId": 2459,
@@ -577,12 +578,13 @@
       0,
       10,
       0,
-      15
+      7,
+      8
     ],
-    "awayPostgameWinProbability": 0.6241006814299344,
+    "awayPostgameWinProbability": 0.7380239456675373,
     "awayPregameElo": 1441,
     "awayPostgameElo": 1455,
-    "excitementIndex": 8.6028421211,
+    "excitementIndex": 8.6516250657,
     "highlights": "",
     "notes": "Famous Idaho Potato Bowl"
   },
@@ -609,7 +611,11 @@
       10,
       10,
       7,
-      12
+      7,
+      3,
+      2,
+      0,
+      0
     ],
     "homePostgameWinProbability": 0.25592949168822304,
     "homePregameElo": 1478,
@@ -624,12 +630,16 @@
       14,
       0,
       6,
-      14
+      7,
+      3,
+      2,
+      0,
+      2
     ],
     "awayPostgameWinProbability": 0.7440705083117769,
     "awayPregameElo": 1433,
     "awayPostgameElo": 1434,
-    "excitementIndex": 9.535444498,
+    "excitementIndex": 9.6979470848,
     "highlights": "",
     "notes": "Hawaiʻi Bowl"
   },
@@ -656,7 +666,12 @@
       14,
       0,
       10,
-      18
+      7,
+      3,
+      2,
+      2,
+      2,
+      2
     ],
     "homePostgameWinProbability": 0.4181882797043905,
     "homePregameElo": 1426,
@@ -671,12 +686,17 @@
       10,
       11,
       7,
-      16
+      7,
+      3,
+      2,
+      2,
+      2,
+      0
     ],
     "awayPostgameWinProbability": 0.5818117202956095,
     "awayPregameElo": 1461,
     "awayPostgameElo": 1456,
-    "excitementIndex": 12.3890020999,
+    "excitementIndex": 11.7159615311,
     "highlights": "",
     "notes": "GameAbove Sports Bowl"
   },
@@ -704,7 +724,7 @@
       12,
       15
     ],
-    "homePostgameWinProbability": 0.7702445384626828,
+    "homePostgameWinProbability": 0.8182037428655105,
     "homePregameElo": 1758,
     "homePostgameElo": 1754,
     "awayId": 164,
@@ -718,10 +738,10 @@
       7,
       7
     ],
-    "awayPostgameWinProbability": 0.22975546153731718,
+    "awayPostgameWinProbability": 0.18179625713448955,
     "awayPregameElo": 1529,
     "awayPostgameElo": 1533,
-    "excitementIndex": 7.0326457434,
+    "excitementIndex": 7.1278355532,
     "highlights": "",
     "notes": "Rate Bowl"
   },
@@ -794,7 +814,7 @@
       7,
       7
     ],
-    "homePostgameWinProbability": 0.8978244245749644,
+    "homePostgameWinProbability": 0.8898845178243395,
     "homePregameElo": 1559,
     "homePostgameElo": 1565,
     "awayId": 201,
@@ -808,7 +828,7 @@
       0,
       6
     ],
-    "awayPostgameWinProbability": 0.10217557542503564,
+    "awayPostgameWinProbability": 0.11011548217566047,
     "awayPregameElo": 1731,
     "awayPostgameElo": 1725,
     "excitementIndex": 7.0798084582,
@@ -884,7 +904,7 @@
       10,
       5
     ],
-    "homePostgameWinProbability": 0.9671964548785164,
+    "homePostgameWinProbability": 0.9642203154408353,
     "homePregameElo": 1571,
     "homePostgameElo": 1611,
     "awayId": 2641,
@@ -898,10 +918,10 @@
       0,
       7
     ],
-    "awayPostgameWinProbability": 0.032803545121483646,
+    "awayPostgameWinProbability": 0.03577968455916469,
     "awayPregameElo": 1647,
     "awayPostgameElo": 1607,
-    "excitementIndex": 4.723166991,
+    "excitementIndex": 4.7237799352,
     "highlights": "",
     "notes": "AutoZone Liberty Bowl"
   },
@@ -929,7 +949,7 @@
       7,
       7
     ],
-    "homePostgameWinProbability": 0.10383829379435568,
+    "homePostgameWinProbability": 0.10704664667979548,
     "homePregameElo": 1578,
     "homePostgameElo": 1531,
     "awayId": 183,
@@ -943,10 +963,10 @@
       7,
       10
     ],
-    "awayPostgameWinProbability": 0.8961617062056443,
+    "awayPostgameWinProbability": 0.8929533533202045,
     "awayPregameElo": 1452,
     "awayPostgameElo": 1499,
-    "excitementIndex": 3.5846599671,
+    "excitementIndex": 3.6048256489,
     "highlights": "",
     "notes": "DirecTV Holiday Bowl"
   },
@@ -974,7 +994,7 @@
       7,
       21
     ],
-    "homePostgameWinProbability": 0.8040459708594263,
+    "homePostgameWinProbability": 0.6340165315113608,
     "homePregameElo": 1756,
     "homePostgameElo": 1765,
     "awayId": 245,
@@ -988,10 +1008,10 @@
       17,
       7
     ],
-    "awayPostgameWinProbability": 0.1959540291405737,
+    "awayPostgameWinProbability": 0.36598346848863916,
     "awayPregameElo": 1771,
     "awayPostgameElo": 1762,
-    "excitementIndex": 9.7751136574,
+    "excitementIndex": 9.0830057562,
     "highlights": "",
     "notes": "SRS Distribution Las Vegas Bowl"
   },
@@ -1036,7 +1056,7 @@
     "awayPostgameWinProbability": 0.8964954156579907,
     "awayPregameElo": 1397,
     "awayPostgameElo": 1432,
-    "excitementIndex": 3.1722326443,
+    "excitementIndex": 3.1390350773,
     "highlights": "",
     "notes": "Wasabi Fenway Bowl"
   },
@@ -1064,7 +1084,7 @@
       7,
       0
     ],
-    "homePostgameWinProbability": 0.9802376408338124,
+    "homePostgameWinProbability": 0.9699308245418528,
     "homePregameElo": 1526,
     "homePostgameElo": 1537,
     "awayId": 103,
@@ -1078,10 +1098,10 @@
       0,
       13
     ],
-    "awayPostgameWinProbability": 0.019762359166187626,
+    "awayPostgameWinProbability": 0.030069175458147246,
     "awayPregameElo": 1524,
     "awayPostgameElo": 1513,
-    "excitementIndex": 4.8979832747,
+    "excitementIndex": 4.8080961029,
     "highlights": "",
     "notes": "Bad Boy Mowers Pinstripe Bowl"
   },
@@ -1154,7 +1174,7 @@
       7,
       3
     ],
-    "homePostgameWinProbability": 0.8229736140932706,
+    "homePostgameWinProbability": 0.7631943280801643,
     "homePregameElo": 1859,
     "homePostgameElo": 1855,
     "awayId": 66,
@@ -1168,7 +1188,7 @@
       7,
       7
     ],
-    "awayPostgameWinProbability": 0.17702638590672937,
+    "awayPostgameWinProbability": 0.2368056719198357,
     "awayPregameElo": 1671,
     "awayPostgameElo": 1675,
     "excitementIndex": 7.3165535627,
@@ -1199,7 +1219,7 @@
       7,
       7
     ],
-    "homePostgameWinProbability": null,
+    "homePostgameWinProbability": 0.29455732297715526,
     "homePregameElo": 1371,
     "homePostgameElo": 1324,
     "awayId": 193,
@@ -1213,10 +1233,10 @@
       20,
       14
     ],
-    "awayPostgameWinProbability": null,
+    "awayPostgameWinProbability": 0.7054426770228448,
     "awayPregameElo": 1496,
     "awayPostgameElo": 1543,
-    "excitementIndex": null,
+    "excitementIndex": 3.7317972183,
     "highlights": "",
     "notes": "Snoop Dogg Arizona Bowl"
   },
@@ -1261,7 +1281,7 @@
     "awayPostgameWinProbability": 0.2601778803005138,
     "awayPregameElo": 1392,
     "awayPostgameElo": 1403,
-    "excitementIndex": 7.197589532,
+    "excitementIndex": 7.0119358752,
     "highlights": "",
     "notes": "Go Bowling Military Bowl"
   },
@@ -1514,7 +1534,7 @@
       7,
       7
     ],
-    "homePostgameWinProbability": 0.5199310076077072,
+    "homePostgameWinProbability": 0.6051449672024576,
     "homePregameElo": 1596,
     "homePostgameElo": 1618,
     "awayId": 2579,
@@ -1528,10 +1548,10 @@
       7,
       7
     ],
-    "awayPostgameWinProbability": 0.48006899239229284,
+    "awayPostgameWinProbability": 0.3948550327975424,
     "awayPregameElo": 1832,
     "awayPostgameElo": 1810,
-    "excitementIndex": 7.5779827543,
+    "excitementIndex": 7.5385665603,
     "highlights": "",
     "notes": "Cheez-It Citrus Bowl"
   },
@@ -1648,7 +1668,8 @@
       0,
       5,
       16,
-      7
+      7,
+      0
     ],
     "homePostgameWinProbability": 0.12922675819084697,
     "homePregameElo": 1792,
@@ -1663,12 +1684,13 @@
       3,
       0,
       7,
-      15
+      7,
+      8
     ],
     "awayPostgameWinProbability": 0.870773241809153,
     "awayPregameElo": 2065,
     "awayPostgameElo": 2056,
-    "excitementIndex": 7.5305038668,
+    "excitementIndex": 7.1227909598,
     "highlights": "",
     "notes": "College Football Playoff Quarterfinal at the Chick-fil-A Peach Bowl"
   },
@@ -1741,7 +1763,7 @@
       7,
       0
     ],
-    "homePostgameWinProbability": 0.40903645801565125,
+    "homePostgameWinProbability": 0.32159129911977324,
     "homePregameElo": 2019,
     "homePostgameElo": 2009,
     "awayId": 87,
@@ -1755,10 +1777,10 @@
       7,
       3
     ],
-    "awayPostgameWinProbability": 0.5909635419843488,
+    "awayPostgameWinProbability": 0.6784087008802268,
     "awayPregameElo": 2163,
     "awayPostgameElo": 2173,
-    "excitementIndex": 4.0648248712,
+    "excitementIndex": 4.6517847629,
     "highlights": "",
     "notes": "College Football Playoff Quarterfinal at the Allstate Sugar Bowl - Rescheduled from Jan 1"
   },
@@ -1803,7 +1825,7 @@
     "awayPostgameWinProbability": 0.001086224730727614,
     "awayPregameElo": 1591,
     "awayPostgameElo": 1540,
-    "excitementIndex": 3.4107582513,
+    "excitementIndex": 3.4055817071,
     "highlights": "",
     "notes": "TaxSlayer Gator Bowl"
   },
@@ -1831,7 +1853,7 @@
       7,
       7
     ],
-    "homePostgameWinProbability": 0.8602342923689735,
+    "homePostgameWinProbability": 0.9274631766046904,
     "homePregameElo": 1646,
     "homePostgameElo": 1640,
     "awayId": 249,
@@ -1845,10 +1867,10 @@
       0,
       14
     ],
-    "awayPostgameWinProbability": 0.13976570763102647,
+    "awayPostgameWinProbability": 0.07253682339530965,
     "awayPregameElo": 1361,
     "awayPostgameElo": 1367,
-    "excitementIndex": 8.6820793446,
+    "excitementIndex": 8.3408217724,
     "highlights": "",
     "notes": "SERVPRO First Responder Bowl"
   },
@@ -1876,7 +1898,7 @@
       0,
       0
     ],
-    "homePostgameWinProbability": 0.004747049988851532,
+    "homePostgameWinProbability": 0.005565973567240598,
     "homePregameElo": 1675,
     "homePostgameElo": 1647,
     "awayId": 135,
@@ -1890,7 +1912,7 @@
       0,
       3
     ],
-    "awayPostgameWinProbability": 0.9952529500111484,
+    "awayPostgameWinProbability": 0.9944340264327594,
     "awayPregameElo": 1646,
     "awayPostgameElo": 1674,
     "excitementIndex": 3.7220185025,
@@ -1921,9 +1943,9 @@
       0,
       7
     ],
-    "homePostgameWinProbability": 0.00648843486353707,
+    "homePostgameWinProbability": 0.005420552011978689,
     "homePregameElo": 1573,
-    "homePostgameElo": 1513,
+    "homePostgameElo": 1503,
     "awayId": 2084,
     "awayTeam": "Buffalo",
     "awayClassification": "fbs",
@@ -1935,10 +1957,10 @@
       7,
       10
     ],
-    "awayPostgameWinProbability": 0.9935115651364629,
+    "awayPostgameWinProbability": 0.9945794479880213,
     "awayPregameElo": 1304,
-    "awayPostgameElo": 1364,
-    "excitementIndex": 3.7890399211,
+    "awayPostgameElo": 1374,
+    "excitementIndex": 3.7884982341,
     "highlights": "",
     "notes": "Bahamas Bowl Presented by Atlantis Resorts"
   },
@@ -1949,7 +1971,7 @@
     "seasonType": "postseason",
     "startDate": "2025-01-10T00:30:00.000Z",
     "startTimeTBD": false,
-    "completed": false,
+    "completed": true,
     "neutralSite": true,
     "conferenceGame": false,
     "attendance": null,
@@ -1959,21 +1981,31 @@
     "homeTeam": "Penn State",
     "homeClassification": "fbs",
     "homeConference": "Big Ten",
-    "homePoints": null,
-    "homeLineScores": null,
-    "homePostgameWinProbability": null,
+    "homePoints": 24,
+    "homeLineScores": [
+      0,
+      10,
+      0,
+      14
+    ],
+    "homePostgameWinProbability": 0.4115724290185415,
     "homePregameElo": 2063,
-    "homePostgameElo": null,
+    "homePostgameElo": 2067,
     "awayId": 87,
     "awayTeam": "Notre Dame",
     "awayClassification": "fbs",
     "awayConference": "FBS Independents",
-    "awayPoints": null,
-    "awayLineScores": null,
-    "awayPostgameWinProbability": null,
+    "awayPoints": 27,
+    "awayLineScores": [
+      0,
+      3,
+      7,
+      17
+    ],
+    "awayPostgameWinProbability": 0.5884275709814585,
     "awayPregameElo": 2173,
-    "awayPostgameElo": null,
-    "excitementIndex": null,
+    "awayPostgameElo": 2169,
+    "excitementIndex": 8.4503242074,
     "highlights": "",
     "notes": "College Football Playoff Semifinal at the Capital One Orange Bowl"
   },
@@ -1984,7 +2016,7 @@
     "seasonType": "postseason",
     "startDate": "2025-01-11T00:30:00.000Z",
     "startTimeTBD": false,
-    "completed": false,
+    "completed": true,
     "neutralSite": true,
     "conferenceGame": false,
     "attendance": null,
@@ -1994,10 +2026,55 @@
     "homeTeam": "Texas",
     "homeClassification": "fbs",
     "homeConference": "SEC",
+    "homePoints": 14,
+    "homeLineScores": [
+      0,
+      7,
+      7,
+      0
+    ],
+    "homePostgameWinProbability": 0.013624010007870398,
+    "homePregameElo": 2056,
+    "homePostgameElo": 2042,
+    "awayId": 194,
+    "awayTeam": "Ohio State",
+    "awayClassification": "fbs",
+    "awayConference": "Big Ten",
+    "awayPoints": 28,
+    "awayLineScores": [
+      7,
+      7,
+      0,
+      14
+    ],
+    "awayPostgameWinProbability": 0.9863759899921296,
+    "awayPregameElo": 2182,
+    "awayPostgameElo": 2196,
+    "excitementIndex": 6.1552033872,
+    "highlights": "",
+    "notes": "College Football Playoff Semifinal at the Goodyear Cotton Bowl Classic"
+  },
+  {
+    "id": 401677192,
+    "season": 2024,
+    "week": 1,
+    "seasonType": "postseason",
+    "startDate": "2025-01-21T00:30:00.000Z",
+    "startTimeTBD": false,
+    "completed": false,
+    "neutralSite": true,
+    "conferenceGame": false,
+    "attendance": null,
+    "venueId": 5348,
+    "venue": "Mercedes-Benz Stadium",
+    "homeId": 87,
+    "homeTeam": "Notre Dame",
+    "homeClassification": "fbs",
+    "homeConference": "FBS Independents",
     "homePoints": null,
     "homeLineScores": null,
     "homePostgameWinProbability": null,
-    "homePregameElo": 2056,
+    "homePregameElo": 2169,
     "homePostgameElo": null,
     "awayId": 194,
     "awayTeam": "Ohio State",
@@ -2006,10 +2083,10 @@
     "awayPoints": null,
     "awayLineScores": null,
     "awayPostgameWinProbability": null,
-    "awayPregameElo": 2182,
+    "awayPregameElo": 2196,
     "awayPostgameElo": null,
     "excitementIndex": null,
     "highlights": "",
-    "notes": "College Football Playoff Semifinal at the Goodyear Cotton Bowl Classic"
+    "notes": "College Football Playoff National Championship Presented by AT&T"
   }
 ]

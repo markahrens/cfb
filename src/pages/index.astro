@@ -1,27 +1,13 @@
 ---
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
+import GameResult from '../components/GameResult.astro';
 import slugify from 'slugify';
 
-const teams = await getCollection('teams', ({ data }) => {
-  return data.classification !== null;
-});
+const seasons = (await getCollection('bowlseasons'))
+  .sort((a, b) => parseInt(b.id) - parseInt(a.id));
 
-var fbsTeams = teams.filter(function (team) {
-  return team.data.classification == 'fbs';
-});
-
-var fcsTeams = teams.filter(function (team) {
-  return team.data.classification == 'fcs';
-});
-
-var d2Teams = teams.filter(function (team) {
-  return team.data.classification == 'ii';
-});
-
-var d3Teams = teams.filter(function (team) {
-  return team.data.classification == 'iii';
-});
+let lastBowl = seasons[0].data.slice(-1);
 
 const pageTitle = "Home |"
 ---
@@ -29,5 +15,10 @@ const pageTitle = "Home |"
 <BaseLayout pageTitle={pageTitle}>
   <div class="page-content">
     <h1>College Football Report</h1>
+    <div>
+      <h2>Bowls</h2>
+      <h3>Most Recent Bowl Game</h3>
+      <GameResult game={lastBowl[0]} />
+    </div>
   </div>
 </BaseLayout>
