@@ -9,16 +9,74 @@ const seasons = (await getCollection('bowlseasons'))
 
 let lastBowl = seasons[0].data.slice(-1);
 
+const teams = await getCollection('teams', ({ data }) => {
+  return data.classification !== null;
+});
+
+var conferences = []
+
+teams.map(team => {
+  if(conferences[team.data.classification]) {
+    conferences[team.data.classification].push(team.data.conference);
+  }
+  else {
+    conferences[team.data.classification] = [];
+    conferences[team.data.classification].push(team.data.conference);
+  }
+})
+
 const pageTitle = "Home |"
 ---
 
 <BaseLayout pageTitle={pageTitle}>
   <div class="page-content">
     <h1>College Football Report</h1>
-    <div>
-      <h2>Bowls</h2>
-      <h3>Most Recent Bowl Game</h3>
-      <GameResult game={lastBowl[0]} />
+    <div class="topics">
+      <div>
+        <h2>Bowls</h2>
+        <h3>Most Recent Bowl Game</h3>
+        <GameResult game={lastBowl[0]} />
+      </div>
+      <div>
+        <h2>Conferences</h2>
+        <h3>FBS</h3>
+        <ul>
+          {[...new Set(conferences['fbs'])].sort().map(conf => (
+            <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+          ))}
+        </ul>
+        <h3>FCS</h3>
+        <ul>
+          {[...new Set(conferences['fcs'])].sort().map(conf => (
+            <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+          ))}
+        </ul>
+        <h3>Division 2</h3>
+        <ul>
+          {[...new Set(conferences['ii'])].sort().map(conf => (
+          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+          ))}
+        </ul>
+        <h3>Division 3</h3>
+        <ul>
+          {[...new Set(conferences['iii'])].sort().map(conf => (
+            <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+          ))}
+        </ul>
+      </div>
     </div>
   </div>
 </BaseLayout>
+
+<style>
+  .topics {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 40px;
+  > div {
+    flex-basis: 100%;
+    flex: 1;
+  }
+}

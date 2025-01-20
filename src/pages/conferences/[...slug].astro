@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
+import slugify from 'slugify';
+
+export const prerender = true
+
+export async function getStaticPaths() {
+  const teams = await getCollection('teams', ({ data }) => {
+    return data.classification !== null;
+  });
+
+  var conferences = []
+
+  teams.map(team => {
+    conferences.push(team.data.conference);
+  });
+
+  return [...new Set(conferences)].map(conf => {
+    return {
+              params: { slug: slugify(conf, {lower: true}) },
+              props: {conf}
+          }
+  })
+}
+
+const conf = Astro.props;
+
+var conferenceTeams = await getCollection('teams', ({ data }) => {
+  return data.conference == conf.conf;
+});
+
+
+---
+
+<BaseLayout pageTitle={`${conf.conf} |`}>
+  <div class="page-content">
+    <h1>{conf.conf}</h1>
+    <div class="teams-list">
+    {conferenceTeams.sort().map(team => (
+      <SimpleTeamCard id={team.data.id} />
+    ))}
+    </div>
+  </div>
+</BaseLayout>
