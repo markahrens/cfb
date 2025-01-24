@@ -2,6 +2,8 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
+import ConferenceMap from '../../components/ConferenceMap.jsx';
+
 import slugify from 'slugify';
 
 export const prerender = true
@@ -37,10 +39,28 @@ var conferenceTeams = await getCollection('teams', ({ data }) => {
 <BaseLayout pageTitle={`${conf.conf} |`}>
   <div class="page-content">
     <h1>{conf.conf}</h1>
-    <div class="teams-list">
-    {conferenceTeams.sort().map(team => (
-      <SimpleTeamCard id={team.data.id} />
-    ))}
+    <div class="conference-page">
+      <div class="teams">
+        {conferenceTeams.sort().map(team => (
+          <SimpleTeamCard id={team.data.id} />
+        ))}
+        </div>
+        <div class="map">
+          <ConferenceMap client:only="react" teams={conferenceTeams}/>
+        </div>
     </div>
+
   </div>
 </BaseLayout>
+
+<style is:global>
+  .conference-page {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 40px;
+  }
+   .map-container {
+    height: 600px;
+    width: 100%;
+  }
+</style>
