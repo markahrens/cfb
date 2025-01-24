@@ -63,4 +63,21 @@ var conferenceTeams = await getCollection('teams', ({ data }) => {
     height: 600px;
     width: 100%;
   }
+  .name-tooltip {
+    background-color: rgba(255,255,255,1);
+    height: 16px;
+    border: none !important;
+    border-radius: 16px;
+    font-family: "Radio Canada Big", sans-serif;
+    font-weight: 500;
+    box-shadow: none;
+    opacity: 1 !important;
+  }
+
+  .leaflet-tooltip-top:before,
+  .leaflet-tooltip-bottom:before,
+  .leaflet-tooltip-left:before,
+  .leaflet-tooltip-right:before {
+    border: none !important
+  }
 </style>
