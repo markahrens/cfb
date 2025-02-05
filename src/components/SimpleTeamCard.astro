@@ -11,7 +11,7 @@ const team = await getEntry('teams',id );
 
 <div class="teamcard">
 
-    {(showLogo) && <img class="logo" src={`/logos/small/${team.data.id}.png`} width="40" />}
+    {(showLogo) && <div class="logo"><img src={`/logos/small/${team.data.id}.png`} width="40" /></div>}
     
     <div class="name">
         {linkedName && <a href={ slugify(team.data.school, {lower: true}) }><span class="teamcard__title">{team.data.school}</span></a>}
@@ -30,6 +30,9 @@ const team = await getEntry('teams',id );
             "logo name";
           .logo {
             grid-area: logo;
+            min-height: 40px;
+            display: grid;
+            place-items: center;
           }
           .name {
             grid-area: name;
