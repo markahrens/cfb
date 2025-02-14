@@ -1,0 +1,38 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import GameResult from '../../../components/GameResult.astro';
+
+export async function getStaticPaths() {
+  const playoffs = await getCollection('playoffs');
+  
+  return playoffs.map(playoff => {
+    var pathElements = playoff.id.split("/");
+    return {
+      params: { division: pathElements[0], year: pathElements[1] },
+      props: { playoff, pathElements },
+    }
+  });
+}
+
+export const prerender = true
+
+const { playoff, pathElements } = Astro.props;
+---
+
+<BaseLayout pageTitle={`${pathElements[1]} ${pathElements[0].toUpperCase()} Playoffs |`}>
+  <div class="page-content">
+    <h1>{pathElements[1]} {pathElements[0].toUpperCase()} Playoffs</h1>
+    <div class="columns">
+      {playoff.data.map(round => (
+        <div>
+          {round.map(game => (
+            <GameResult game={game} />
+          ))}
+        </div>
+      ))}
+    <div>
+
+
+  </div>
+</BaseLayout> 

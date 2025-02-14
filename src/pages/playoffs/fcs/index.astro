@@ -1,0 +1,13 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+const seasons = await getCollection('playoffs', ({ id }) => {
+  return id.startsWith('fcs/');
+});
+console.log(seasons)
+---
+<BaseLayout pageTitle="Playoffs">
+  <div class="page-content">
+    <h1>FCS Playoffs</h1>
+  </div>
+</BaseLayout> 

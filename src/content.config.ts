@@ -52,4 +52,22 @@ const bowlseasons = defineCollection({
   }))
 })
 
-export const collections = { teams, bowlseasons };
+const playoffs = defineCollection({
+  loader: glob({pattern: "**/*.json", base: "./src/data/playoffs"}),
+  schema: z.array(z.array(z.object({
+    id: z.number(),
+    startDate: z.coerce.date(),
+    attendance: z.coerce.number().nullable(),
+    venueId: z.coerce.number().nullable(),
+    venue: z.string().nullable(),
+    homeId: z.number(),
+    homeConference: z.string().nullable(),
+    homePoints: z.number().nullable(),
+    awayId: z.number(),
+    awayConference: z.string().nullable(),
+    awayPoints: z.number().nullable(),
+    notes: z.string().nullable(),
+  })))
+})
+
+export const collections = { teams, bowlseasons, playoffs };
