@@ -6,11 +6,11 @@ const { game } = Astro.props;
 
 <div class="game">
   <div class="score">
-    <SimpleTeamCard id={game.homeId} />
+    <SimpleTeamCard id={game.homeId} linkedName=true/>
     <div class={game.homePoints > game.awayPoints ? 'winner score' : 'score'}>{game.homePoints}</div>
   </div>
   <div class="score">
-    <SimpleTeamCard id={game.awayId} />
+    <SimpleTeamCard id={game.awayId} linkedName=true/>
     <div class={game.awayPoints > game.homePoints ? 'winner score' : 'score'}>{game.awayPoints}</div>
   </div>
   <p>{game.notes}</p>
