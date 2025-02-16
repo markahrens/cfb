@@ -32,7 +32,25 @@ const { playoff, pathElements } = Astro.props;
         </div>
       ))}
     <div>
-
-
   </div>
+
 </BaseLayout> 
+
+<style>
+  .page-content { 
+    max-width: none;
+    padding: 0 40px;
+  }
+  .columns {
+    display: flex;
+    flex-direction: row;
+    overflow: auto;
+    max-width: none;
+    > div {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+      gap: 40px;
+    }
+  }
+</style>

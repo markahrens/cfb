@@ -9,5 +9,17 @@ console.log(seasons)
 <BaseLayout pageTitle="Playoffs">
   <div class="page-content">
     <h1>FCS Playoffs</h1>
+
+    <ul class="seasons">
+      {seasons.map(season => (
+        <li><span><a href={season.id}>{season.id.split("/")[1]}</a></span></li>
+      ))}
+    </ul>
   </div>
 </BaseLayout> 
+
+<style>
+  .seasons {
+    font-size: 1.4rem;
+  }
+</style>
