@@ -1,0 +1,34 @@
+{
+  "id": 2449,
+  "school": "North Dakota State",
+  "mascot": "Bison",
+  "abbreviation": "NDSU",
+  "alt_name1": null,
+  "alt_name2": "NDSU",
+  "alt_name3": "N Dakota St",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#01402A",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2449.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2449.png"
+  ],
+  "twitter": "@NDSUFootball",
+  "location": {
+    "venue_id": 3714,
+    "name": "Fargodome",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "51802",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 46.9029938,
+    "longitude": -96.8003251,
+    "elevation": "274.4847717",
+    "capacity": 18700,
+    "year_constructed": 1992,
+    "grass": false,
+    "dome": true
+  }
+}

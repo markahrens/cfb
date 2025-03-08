@@ -1,0 +1,31 @@
+{
+  "id": 125974,
+  "school": "Hilbert College",
+  "mascot": "Hawks",
+  "abbreviation": "HIL",
+  "alt_name1": null,
+  "alt_name2": "HIL",
+  "alt_name3": "Hilbert College",
+  "conference": "Empire 8",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": "Hamburg",
+    "state": "NY",
+    "zip": "14010",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.77,
+    "longitude": -78.863889,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

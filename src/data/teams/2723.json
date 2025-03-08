@@ -1,0 +1,34 @@
+{
+  "id": 2723,
+  "school": "Wisconsin-River Falls",
+  "mascot": "Falcons",
+  "abbreviation": "WIRF",
+  "alt_name1": null,
+  "alt_name2": "WIRF",
+  "alt_name3": "Wis RF",
+  "conference": "Wisconsin",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2723.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2723.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5901,
+    "name": "David Smith Stadium at Ramer Field",
+    "city": "River Falls",
+    "state": "WI",
+    "zip": "54022",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.8595111,
+    "longitude": -92.6265897,
+    "elevation": null,
+    "capacity": 2300,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

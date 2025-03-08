@@ -1,0 +1,34 @@
+{
+  "id": 2633,
+  "school": "Tennessee",
+  "mascot": "Volunteers",
+  "abbreviation": "TENN",
+  "alt_name1": null,
+  "alt_name2": "TENN",
+  "alt_name3": "Tennessee",
+  "conference": "SEC",
+  "classification": "fbs",
+  "color": "#ff8200",
+  "alt_color": "#58595b",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2633.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2633.png"
+  ],
+  "twitter": "@Vol_Football",
+  "location": {
+    "venue_id": 3853,
+    "name": "Neyland Stadium",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37996",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.9550131,
+    "longitude": -83.9250128,
+    "elevation": "271.9517212",
+    "capacity": 102455,
+    "year_constructed": 1921,
+    "grass": true,
+    "dome": false
+  }
+}

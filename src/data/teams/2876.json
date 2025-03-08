@@ -1,0 +1,34 @@
+{
+  "id": 2876,
+  "school": "Lincoln (MO)",
+  "mascot": "Blue Tigers",
+  "abbreviation": "LIN",
+  "alt_name1": null,
+  "alt_name2": "LIN",
+  "alt_name3": "Lincoln (MO)",
+  "conference": "Great Lakes",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2876.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2876.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6045,
+    "name": "Dwight T. Reed Stadium",
+    "city": "Jefferson City",
+    "state": "MO",
+    "zip": "65101",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.577359,
+    "longitude": -92.1724265,
+    "elevation": null,
+    "capacity": 5500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

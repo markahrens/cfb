@@ -1,0 +1,34 @@
+{
+  "id": 2747,
+  "school": "Wofford",
+  "mascot": "Terriers",
+  "abbreviation": "WOF",
+  "alt_name1": null,
+  "alt_name2": "WOF",
+  "alt_name3": "Wofford",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#533B23",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2747.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2747.png"
+  ],
+  "twitter": "@Wofford_FB",
+  "location": {
+    "venue_id": 3737,
+    "name": "Gibbs Stadium",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29303",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 34.9618606,
+    "longitude": -81.9328915,
+    "elevation": "231.6300049",
+    "capacity": 13000,
+    "year_constructed": 1996,
+    "grass": true,
+    "dome": false
+  }
+}

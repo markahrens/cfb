@@ -1,0 +1,34 @@
+{
+  "id": 2535,
+  "school": "Samford",
+  "mascot": "Bulldogs",
+  "abbreviation": "SAM",
+  "alt_name1": null,
+  "alt_name2": "SAM",
+  "alt_name3": "Samford",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#005485",
+  "alt_color": "#bc0023",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2535.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2535.png"
+  ],
+  "twitter": "@SamfordFootball",
+  "location": {
+    "venue_id": 3925,
+    "name": "Seibert Stadium",
+    "city": "Homewood",
+    "state": "AL",
+    "zip": "35229",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 33.463273,
+    "longitude": -86.795326,
+    "elevation": "208.0207825",
+    "capacity": 6700,
+    "year_constructed": 1958,
+    "grass": false,
+    "dome": false
+  }
+}

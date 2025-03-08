@@ -1,0 +1,31 @@
+{
+  "id": 2608,
+  "school": "St. Mary's (CA)",
+  "mascot": "Gaels",
+  "abbreviation": "SMC",
+  "alt_name1": "St. Mary's CA",
+  "alt_name2": "SMC",
+  "alt_name3": "St. Mary's (CA)",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

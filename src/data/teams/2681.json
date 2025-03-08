@@ -1,0 +1,34 @@
+{
+  "id": 2681,
+  "school": "Wagner",
+  "mascot": "Seahawks",
+  "abbreviation": "WAG",
+  "alt_name1": null,
+  "alt_name2": "WAG",
+  "alt_name3": "Wagner",
+  "conference": "NEC",
+  "classification": "fcs",
+  "color": "#00483A",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2681.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2681.png"
+  ],
+  "twitter": "@Wagner_Football",
+  "location": {
+    "venue_id": 3979,
+    "name": "Wagner College Stadium",
+    "city": "Staten Island",
+    "state": "NY",
+    "zip": "10301",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.614688,
+    "longitude": -74.090639,
+    "elevation": "63.39014053",
+    "capacity": 3300,
+    "year_constructed": 1967,
+    "grass": false,
+    "dome": false
+  }
+}

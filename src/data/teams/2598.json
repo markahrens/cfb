@@ -1,0 +1,34 @@
+{
+  "id": 2598,
+  "school": "St. Francis (PA)",
+  "mascot": "Red Flash",
+  "abbreviation": "SFPA",
+  "alt_name1": "St. Francis PA",
+  "alt_name2": "SFPA",
+  "alt_name3": "St Francis PA",
+  "conference": "NEC",
+  "classification": "fcs",
+  "color": "#a20012",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2598.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2598.png"
+  ],
+  "twitter": "@RedFlashFB",
+  "location": {
+    "venue_id": 3694,
+    "name": "DeGol Field",
+    "city": "Loretto",
+    "state": "PA",
+    "zip": "15940",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.5063173,
+    "longitude": -78.637214,
+    "elevation": "586.9408569",
+    "capacity": 3500,
+    "year_constructed": 2006,
+    "grass": false,
+    "dome": false
+  }
+}

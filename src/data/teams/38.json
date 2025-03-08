@@ -1,0 +1,34 @@
+{
+  "id": 38,
+  "school": "Colorado",
+  "mascot": "Buffaloes",
+  "abbreviation": "COLO",
+  "alt_name1": null,
+  "alt_name2": "COLO",
+  "alt_name3": "Colorado",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#CFB87C",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/38.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/38.png"
+  ],
+  "twitter": "@CUBuffsFootball",
+  "location": {
+    "venue_id": 3726,
+    "name": "Folsom Field",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80309",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 40.0094746,
+    "longitude": -105.266905,
+    "elevation": "1634.041138",
+    "capacity": 50183,
+    "year_constructed": 1924,
+    "grass": true,
+    "dome": false
+  }
+}

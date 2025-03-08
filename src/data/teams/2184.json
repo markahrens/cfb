@@ -1,0 +1,34 @@
+{
+  "id": 2184,
+  "school": "Duquesne",
+  "mascot": "Dukes",
+  "abbreviation": "DUQ",
+  "alt_name1": null,
+  "alt_name2": "DUQ",
+  "alt_name3": "Duquesne",
+  "conference": "NEC",
+  "classification": "fcs",
+  "color": "#002D62",
+  "alt_color": "#b90b2e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2184.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2184.png"
+  ],
+  "twitter": "@DuqFB",
+  "location": {
+    "venue_id": 3623,
+    "name": "Arthur J. Rooney Athletic Field",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15282",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.4355808,
+    "longitude": -79.9900263,
+    "elevation": "269.4302979",
+    "capacity": 2200,
+    "year_constructed": 1993,
+    "grass": false,
+    "dome": false
+  }
+}

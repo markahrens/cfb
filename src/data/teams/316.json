@@ -1,0 +1,34 @@
+{
+  "id": 316,
+  "school": "Dickinson State University",
+  "mascot": "Blue Hawks",
+  "abbreviation": "DIC",
+  "alt_name1": null,
+  "alt_name2": "DIC",
+  "alt_name3": "Dicknsn St",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/316.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/316.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

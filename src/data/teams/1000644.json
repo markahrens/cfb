@@ -1,0 +1,31 @@
+{
+  "id": 1000644,
+  "school": "Wesley",
+  "mascot": null,
+  "abbreviation": null,
+  "alt_name1": null,
+  "alt_name2": null,
+  "alt_name3": null,
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

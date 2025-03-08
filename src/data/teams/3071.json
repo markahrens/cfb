@@ -1,0 +1,34 @@
+{
+  "id": 3071,
+  "school": "North Central College",
+  "mascot": "Cardinals",
+  "abbreviation": "NOR",
+  "alt_name1": null,
+  "alt_name2": "NOR",
+  "alt_name3": "N Central",
+  "conference": "CCIW",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/3071.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/3071.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 980,
+    "name": "Benedetti-Wehrli Stadium",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60540",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.7728699,
+    "longitude": -88.1479278,
+    "elevation": null,
+    "capacity": 4839,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

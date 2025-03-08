@@ -1,0 +1,34 @@
+{
+  "id": 2545,
+  "school": "SE Louisiana",
+  "mascot": "Lions",
+  "abbreviation": "SELA",
+  "alt_name1": "Southeast Louisiana",
+  "alt_name2": "SELA",
+  "alt_name3": "SE Louisiana",
+  "conference": "Southland",
+  "classification": "fcs",
+  "color": "#215732",
+  "alt_color": "#ffc72c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2545.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2545.png"
+  ],
+  "twitter": "@SLUFootball",
+  "location": {
+    "venue_id": 3944,
+    "name": "Strawberry Stadium",
+    "city": "Hammond",
+    "state": "LA",
+    "zip": "70401",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 30.5110264,
+    "longitude": -90.4685792,
+    "elevation": "13.7104578",
+    "capacity": 7408,
+    "year_constructed": 1936,
+    "grass": false,
+    "dome": false
+  }
+}

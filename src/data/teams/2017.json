@@ -1,0 +1,34 @@
+{
+  "id": 2017,
+  "school": "Alderson-Broaddus",
+  "mascot": "Battlers",
+  "abbreviation": "ABC",
+  "alt_name1": null,
+  "alt_name2": "ABC",
+  "alt_name3": "Ald.-Broaddus",
+  "conference": "Mountain East",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2017.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2017.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4421,
+    "name": "Multi-Sport Performance Stadium",
+    "city": "Philippi",
+    "state": "WV",
+    "zip": "26416",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.1523198,
+    "longitude": -80.0403578,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

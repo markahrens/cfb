@@ -1,0 +1,34 @@
+{
+  "id": 2685,
+  "school": "Wartburg",
+  "mascot": "Knights",
+  "abbreviation": "WAR",
+  "alt_name1": null,
+  "alt_name2": "WAR",
+  "alt_name3": "Wartburg",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": "#f5822b",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2685.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2685.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6137,
+    "name": "Walston-Hoover Stadium",
+    "city": "Waverly",
+    "state": "IA",
+    "zip": "50677",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.7258451,
+    "longitude": -92.4746033,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

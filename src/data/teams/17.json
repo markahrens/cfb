@@ -1,0 +1,34 @@
+{
+  "id": 17,
+  "school": "Claremont-Mudd-Scripps College",
+  "mascot": "Stags",
+  "abbreviation": "CLA",
+  "alt_name1": null,
+  "alt_name2": "CLA",
+  "alt_name3": "Clare Mudd",
+  "conference": "So. Cal.",
+  "classification": "iii",
+  "color": "#981a31",
+  "alt_color": "#feba15",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/17.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/17.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5821,
+    "name": "Fritz B. Burns Stadium",
+    "city": "Claremont",
+    "state": "CA",
+    "zip": "91711",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.0966764,
+    "longitude": -117.7197785,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

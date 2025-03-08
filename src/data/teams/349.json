@@ -1,0 +1,34 @@
+{
+  "id": 349,
+  "school": "Army",
+  "mascot": "Black Knights",
+  "abbreviation": "ARMY",
+  "alt_name1": null,
+  "alt_name2": "ARMY",
+  "alt_name3": "Army",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#ce9c00",
+  "alt_color": "#231f20",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/349.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/349.png"
+  ],
+  "twitter": "@ArmyWP_Football",
+  "location": {
+    "venue_id": 3841,
+    "name": "Michie Stadium",
+    "city": "West Point",
+    "state": "NY",
+    "zip": "10996",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.3874924,
+    "longitude": -73.9640891,
+    "elevation": "99.21277618",
+    "capacity": 38000,
+    "year_constructed": 1924,
+    "grass": false,
+    "dome": false
+  }
+}

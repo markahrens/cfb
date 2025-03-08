@@ -1,0 +1,34 @@
+{
+  "id": 2630,
+  "school": "UT Martin",
+  "mascot": "Skyhawks",
+  "abbreviation": "UTM",
+  "alt_name1": "Tennessee Martin",
+  "alt_name2": "UTM",
+  "alt_name3": "UT Martin",
+  "conference": "Big South-OVC",
+  "classification": "fcs",
+  "color": "#FF6700",
+  "alt_color": "#102a5c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2630.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2630.png"
+  ],
+  "twitter": "@UTM_FOOTBALL",
+  "location": {
+    "venue_id": 3748,
+    "name": "Graham Stadium",
+    "city": "Martin",
+    "state": "TN",
+    "zip": "38238",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 36.3448341,
+    "longitude": -88.8616245,
+    "elevation": "124.6879349",
+    "capacity": 7500,
+    "year_constructed": 1964,
+    "grass": false,
+    "dome": false
+  }
+}

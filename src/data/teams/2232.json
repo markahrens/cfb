@@ -1,0 +1,34 @@
+{
+  "id": 2232,
+  "school": "Fort Valley State",
+  "mascot": "Wildcats",
+  "abbreviation": "FOR",
+  "alt_name1": null,
+  "alt_name2": "FOR",
+  "alt_name3": "Ft Valley",
+  "conference": "SIAC",
+  "classification": "ii",
+  "color": "#f9bd0a",
+  "alt_color": "#2a307f",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2232.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2232.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5945,
+    "name": "Wildcat Stadium (GA)",
+    "city": "Fort Valley",
+    "state": "GA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.5537585,
+    "longitude": -83.8874084,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

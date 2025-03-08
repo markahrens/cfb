@@ -1,0 +1,34 @@
+{
+  "id": 2509,
+  "school": "Purdue",
+  "mascot": "Boilermakers",
+  "abbreviation": "PUR",
+  "alt_name1": null,
+  "alt_name2": "PUR",
+  "alt_name3": "Purdue",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#000000",
+  "alt_color": "#ceb888",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2509.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2509.png"
+  ],
+  "twitter": "@BoilerFootball",
+  "location": {
+    "venue_id": 3907,
+    "name": "Ross-Ade Stadium",
+    "city": "West Lafayette",
+    "state": "IN",
+    "zip": "47907",
+    "country_code": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "latitude": 40.4352253,
+    "longitude": -86.9186843,
+    "elevation": "197.5337677",
+    "capacity": 57282,
+    "year_constructed": 1924,
+    "grass": true,
+    "dome": false
+  }
+}

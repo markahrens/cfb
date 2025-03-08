@@ -1,0 +1,34 @@
+{
+  "id": 3101,
+  "school": "Utah Tech",
+  "mascot": "Trailblazers",
+  "abbreviation": "UTU",
+  "alt_name1": "Dixie State",
+  "alt_name2": "UTU",
+  "alt_name3": "Utah Tech",
+  "conference": "UAC",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/3101.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/3101.png"
+  ],
+  "twitter": "@UtahTechFB",
+  "location": {
+    "venue_id": 3745,
+    "name": "Greater Zion Stadium",
+    "city": "Saint George",
+    "state": "UT",
+    "zip": "84771",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.1098868,
+    "longitude": -113.5674494,
+    "elevation": null,
+    "capacity": 10500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

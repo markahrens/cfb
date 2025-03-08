@@ -1,0 +1,34 @@
+{
+  "id": 2107,
+  "school": "Catawba",
+  "mascot": "Indians",
+  "abbreviation": "CAT",
+  "alt_name1": "Catawba College",
+  "alt_name2": "CAT",
+  "alt_name3": "Catawba",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": "#0c233f",
+  "alt_color": "#cb152f",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2107.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2107.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5122,
+    "name": "Shuford Stadium",
+    "city": "Salisbury",
+    "state": "NC",
+    "zip": "28144",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.6709727,
+    "longitude": -80.4742261,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

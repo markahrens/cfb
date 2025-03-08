@@ -1,0 +1,34 @@
+{
+  "id": 112,
+  "school": "Tufts",
+  "mascot": "Jumbos",
+  "abbreviation": "TUF",
+  "alt_name1": null,
+  "alt_name2": "TUF",
+  "alt_name3": "Tufts",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#3e8ede",
+  "alt_color": "#c6beb6",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/112.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/112.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6133,
+    "name": "Ellis Oval at Zimman Field",
+    "city": "Medford",
+    "state": "MA",
+    "zip": "02155",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.4184296,
+    "longitude": -71.1061639,
+    "elevation": null,
+    "capacity": 1000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

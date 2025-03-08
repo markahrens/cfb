@@ -1,0 +1,34 @@
+{
+  "id": 2930,
+  "school": "Willamette",
+  "mascot": "Bearcats",
+  "abbreviation": "WLLMTT",
+  "alt_name1": null,
+  "alt_name2": "WLLMTT",
+  "alt_name3": "Willamette",
+  "conference": "Northwest",
+  "classification": "iii",
+  "color": "#960a2c",
+  "alt_color": "#ab9e76",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2930.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2930.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6149,
+    "name": "McCulloch Stadium",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97310",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.9391565,
+    "longitude": -123.033121,
+    "elevation": null,
+    "capacity": 7000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

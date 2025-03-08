@@ -1,0 +1,34 @@
+{
+  "id": 96,
+  "school": "Kentucky",
+  "mascot": "Wildcats",
+  "abbreviation": "UK",
+  "alt_name1": null,
+  "alt_name2": "UK",
+  "alt_name3": "Kentucky",
+  "conference": "SEC",
+  "classification": "fbs",
+  "color": "#0033a0",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/96.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/96.png"
+  ],
+  "twitter": "@UKFootball",
+  "location": {
+    "venue_id": 3683,
+    "name": "Kroger Field",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40506",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 38.0220905,
+    "longitude": -84.5053408,
+    "elevation": "307.4248962",
+    "capacity": 61000,
+    "year_constructed": 1973,
+    "grass": false,
+    "dome": false
+  }
+}

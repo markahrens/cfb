@@ -1,0 +1,34 @@
+{
+  "id": 252,
+  "school": "BYU",
+  "mascot": "Cougars",
+  "abbreviation": "BYU",
+  "alt_name1": "Brigham Young",
+  "alt_name2": "BYU",
+  "alt_name3": "BYU",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#003da5",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/252.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/252.png"
+  ],
+  "twitter": "@BYUFootball",
+  "location": {
+    "venue_id": 3801,
+    "name": "LaVell Edwards Stadium",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84602",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 40.2575347,
+    "longitude": -111.6545247,
+    "elevation": "1412.097046",
+    "capacity": 63470,
+    "year_constructed": 1964,
+    "grass": true,
+    "dome": false
+  }
+}

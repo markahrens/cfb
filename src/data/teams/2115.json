@@ -1,0 +1,34 @@
+{
+  "id": 2115,
+  "school": "Central Connecticut",
+  "mascot": "Blue Devils",
+  "abbreviation": "CCSU",
+  "alt_name1": "Central Connecticut State",
+  "alt_name2": "CCSU",
+  "alt_name3": "C Connecticut",
+  "conference": "NEC",
+  "classification": "fcs",
+  "color": "#1B49A2",
+  "alt_color": "#d1d5d8",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2115.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2115.png"
+  ],
+  "twitter": "@CCSUfootball",
+  "location": {
+    "venue_id": 3624,
+    "name": "Arute Field",
+    "city": "New Britain",
+    "state": "CT",
+    "zip": "6053 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.6950591,
+    "longitude": -72.7616197,
+    "elevation": "41.29866409",
+    "capacity": 5500,
+    "year_constructed": 1969,
+    "grass": false,
+    "dome": false
+  }
+}

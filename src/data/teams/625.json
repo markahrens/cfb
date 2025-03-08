@@ -1,0 +1,31 @@
+{
+  "id": 625,
+  "school": "Tiffin University",
+  "mascot": "Dragons",
+  "abbreviation": "TIF",
+  "alt_name1": null,
+  "alt_name2": "TIF",
+  "alt_name3": "Tiffin",
+  "conference": "Great Midwest Athletic",
+  "classification": "ii",
+  "color": "#446c5d",
+  "alt_color": "#daaa00",
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Frost Kalnow Stadium",
+    "city": "Tiffin",
+    "state": "OH",
+    "zip": "44883",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.108864,
+    "longitude": -83.1798975,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

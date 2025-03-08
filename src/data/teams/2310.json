@@ -1,0 +1,34 @@
+{
+  "id": 2310,
+  "school": "Kentucky State",
+  "mascot": "Thorobreds",
+  "abbreviation": "KYST",
+  "alt_name1": null,
+  "alt_name2": "KYST",
+  "alt_name3": "Kentucky St",
+  "conference": "SIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2310.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2310.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6042,
+    "name": "Alumni Stadium (KY)",
+    "city": "Frankfort",
+    "state": "KY",
+    "zip": "40601",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.2009055,
+    "longitude": -84.8732836,
+    "elevation": null,
+    "capacity": 6000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

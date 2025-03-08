@@ -1,0 +1,34 @@
+{
+  "id": 2287,
+  "school": "Illinois State",
+  "mascot": "Redbirds",
+  "abbreviation": "ILST",
+  "alt_name1": null,
+  "alt_name2": "ILST",
+  "alt_name3": "Illinois St",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#CE1126",
+  "alt_color": "#ffe716",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2287.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2287.png"
+  ],
+  "twitter": "@RedbirdFB",
+  "location": {
+    "venue_id": 3744,
+    "name": "Hancock Stadium",
+    "city": "Normal",
+    "state": "IL",
+    "zip": "61761",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 40.5125091,
+    "longitude": -88.9967177,
+    "elevation": "242.8722687",
+    "capacity": 15000,
+    "year_constructed": 1963,
+    "grass": false,
+    "dome": false
+  }
+}

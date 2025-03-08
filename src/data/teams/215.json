@@ -1,0 +1,34 @@
+{
+  "id": 215,
+  "school": "Slippery Rock",
+  "mascot": "The Rock",
+  "abbreviation": "SRU",
+  "alt_name1": null,
+  "alt_name2": "SRU",
+  "alt_name3": "Sliprock",
+  "conference": "Pennsylvania State Athletic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/215.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/215.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4430,
+    "name": "Mihalik-Thompson Stadium",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.0639506,
+    "longitude": -80.0564468,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

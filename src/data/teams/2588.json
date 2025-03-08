@@ -1,0 +1,34 @@
+{
+  "id": 2588,
+  "school": "Southwestern University",
+  "mascot": "Pirates",
+  "abbreviation": "SW",
+  "alt_name1": "Southwestern (TX)",
+  "alt_name2": "SW",
+  "alt_name3": "SW Univ",
+  "conference": "Southern Athletic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": "#ffcd00",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2588.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2588.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6118,
+    "name": "Birkelbach Field",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78633",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 30.6326942,
+    "longitude": -97.6772311,
+    "elevation": null,
+    "capacity": 12442,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

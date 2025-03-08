@@ -1,0 +1,34 @@
+{
+  "id": 89,
+  "school": "Wabash College",
+  "mascot": "Little Giants",
+  "abbreviation": "WAB",
+  "alt_name1": "Wabash",
+  "alt_name2": "WAB",
+  "alt_name3": "Wabash",
+  "conference": "North Coast",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/89.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/89.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5123,
+    "name": "Little Giant Stadium",
+    "city": "Crawfordsville",
+    "state": "IN",
+    "zip": "47933",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.0401991,
+    "longitude": -86.8990249,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

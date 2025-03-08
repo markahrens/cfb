@@ -1,0 +1,34 @@
+{
+  "id": 2571,
+  "school": "South Dakota State",
+  "mascot": "Jackrabbits",
+  "abbreviation": "SDST",
+  "alt_name1": null,
+  "alt_name2": "SDST",
+  "alt_name3": "S Dakota St",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#0033a0",
+  "alt_color": "#ffd100",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2571.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2571.png"
+  ],
+  "twitter": "@GoJacksFB",
+  "location": {
+    "venue_id": 5237,
+    "name": "Dana J. Dykhouse Stadium",
+    "city": "Brookings",
+    "state": "SD",
+    "zip": "57006",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 44.3210182,
+    "longitude": -96.7801386,
+    "elevation": "495.7769775",
+    "capacity": 19340,
+    "year_constructed": 2016,
+    "grass": false,
+    "dome": false
+  }
+}

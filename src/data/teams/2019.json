@@ -1,0 +1,31 @@
+{
+  "id": 2019,
+  "school": "Allen",
+  "mascot": "Yellow Jackets",
+  "abbreviation": "ALL",
+  "alt_name1": null,
+  "alt_name2": "ALL",
+  "alt_name3": "Allen",
+  "conference": "SIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 6217,
+    "name": "W.C. Hawkins Stadium",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.0007493,
+    "longitude": -81.0343313,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

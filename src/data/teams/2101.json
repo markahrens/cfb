@@ -1,0 +1,34 @@
+{
+  "id": 2101,
+  "school": "Carleton",
+  "mascot": "Knights",
+  "abbreviation": "CARLETON",
+  "alt_name1": null,
+  "alt_name2": "CARLETON",
+  "alt_name3": "Carleton",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": "#173a79",
+  "alt_color": "#edac09",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2101.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2101.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 7079,
+    "name": "Laird Stadium",
+    "city": "Northfield",
+    "state": "MN",
+    "zip": "55057",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.4582041,
+    "longitude": -93.161159,
+    "elevation": null,
+    "capacity": 7500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

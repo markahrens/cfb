@@ -1,0 +1,34 @@
+{
+  "id": 2000,
+  "school": "Abilene Christian",
+  "mascot": "Wildcats",
+  "abbreviation": "ACU",
+  "alt_name1": null,
+  "alt_name2": "ACU",
+  "alt_name3": "Abilene Chrstn",
+  "conference": "UAC",
+  "classification": "fcs",
+  "color": "#592d82",
+  "alt_color": "#b1b3b3",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2000.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2000.png"
+  ],
+  "twitter": "@ACUFootball",
+  "location": {
+    "venue_id": 5440,
+    "name": "Wildcat Stadium (TX)",
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79601",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 32.472275,
+    "longitude": -99.710464,
+    "elevation": "520.9",
+    "capacity": 12000,
+    "year_constructed": 2017,
+    "grass": false,
+    "dome": false
+  }
+}

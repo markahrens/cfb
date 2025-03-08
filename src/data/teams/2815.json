@@ -1,0 +1,34 @@
+{
+  "id": 2815,
+  "school": "Lindenwood",
+  "mascot": "Lions",
+  "abbreviation": "LIN",
+  "alt_name1": null,
+  "alt_name2": "LIN",
+  "alt_name3": "Lindenwood",
+  "conference": "Big South-OVC",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2815.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2815.png"
+  ],
+  "twitter": "@LindenwoodFB",
+  "location": {
+    "venue_id": 3749,
+    "name": "Hunter Stadium",
+    "city": "Saint Charles",
+    "state": "MO",
+    "zip": "63301",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.7946252,
+    "longitude": -90.519829,
+    "elevation": null,
+    "capacity": 7450,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

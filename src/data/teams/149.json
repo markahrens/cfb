@@ -1,0 +1,34 @@
+{
+  "id": 149,
+  "school": "Montana",
+  "mascot": "Grizzlies",
+  "abbreviation": "MONT",
+  "alt_name1": null,
+  "alt_name2": "MONT",
+  "alt_name3": "Montana",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#751D4A",
+  "alt_color": "#666666",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/149.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/149.png"
+  ],
+  "twitter": "@MontanaGrizFB",
+  "location": {
+    "venue_id": 3987,
+    "name": "Washington-Grizzly Stadium",
+    "city": "Missoula",
+    "state": "MT",
+    "zip": "59812",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 46.8638753,
+    "longitude": -113.9815042,
+    "elevation": "970.345459",
+    "capacity": 25217,
+    "year_constructed": 1986,
+    "grass": false,
+    "dome": false
+  }
+}

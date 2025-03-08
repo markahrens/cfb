@@ -1,0 +1,34 @@
+{
+  "id": 2065,
+  "school": "Bethune-Cookman",
+  "mascot": "Wildcats",
+  "abbreviation": "BCU",
+  "alt_name1": null,
+  "alt_name2": "BCU",
+  "alt_name3": "Bethune",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#7b1831",
+  "alt_color": "#e9aa12",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2065.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2065.png"
+  ],
+  "twitter": "@BCUGridiron",
+  "location": {
+    "venue_id": 3850,
+    "name": "Municipal Stadium",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "zip": "32114",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 29.173466,
+    "longitude": -81.117511,
+    "elevation": "9.516305923",
+    "capacity": 10000,
+    "year_constructed": 1979,
+    "grass": false,
+    "dome": false
+  }
+}

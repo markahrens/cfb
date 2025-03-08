@@ -1,0 +1,34 @@
+{
+  "id": 142,
+  "school": "Missouri",
+  "mascot": "Tigers",
+  "abbreviation": "MIZ",
+  "alt_name1": null,
+  "alt_name2": "MIZ",
+  "alt_name3": "Missouri",
+  "conference": "SEC",
+  "classification": "fbs",
+  "color": "#f1b82d",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/142.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/142.png"
+  ],
+  "twitter": "@MizzouFootball",
+  "location": {
+    "venue_id": 3838,
+    "name": "Memorial Stadium",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "65211",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 38.9358491,
+    "longitude": -92.3332009,
+    "elevation": "212.6865692",
+    "capacity": 71168,
+    "year_constructed": 1927,
+    "grass": false,
+    "dome": false
+  }
+}

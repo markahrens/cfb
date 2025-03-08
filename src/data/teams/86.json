@@ -1,0 +1,34 @@
+{
+  "id": 86,
+  "school": "Rose-Hulman",
+  "mascot": "Fightin' Engineers",
+  "abbreviation": "ROSEHUL",
+  "alt_name1": null,
+  "alt_name2": "ROSEHUL",
+  "alt_name3": "Rosehulman",
+  "conference": "Heartland",
+  "classification": "iii",
+  "color": "#800000",
+  "alt_color": "#b3b2b1",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/86.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/86.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6111,
+    "name": "Cook Stadium",
+    "city": "Terre Haute",
+    "state": "IN",
+    "zip": "47809",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.4667025,
+    "longitude": -87.4139119,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

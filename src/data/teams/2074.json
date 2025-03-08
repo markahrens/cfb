@@ -1,0 +1,34 @@
+{
+  "id": 2074,
+  "school": "Bluffton",
+  "mascot": "Beavers",
+  "abbreviation": "BLUFFTON",
+  "alt_name1": null,
+  "alt_name2": "BLUFFTON",
+  "alt_name3": "Bluffton",
+  "conference": "Heartland",
+  "classification": "iii",
+  "color": "#46166a",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2074.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2074.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5805,
+    "name": "Alumni Field (OH)",
+    "city": "Bluffton",
+    "state": "OH",
+    "zip": "45817",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.8934459,
+    "longitude": -83.8917849,
+    "elevation": null,
+    "capacity": 2600,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

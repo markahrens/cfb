@@ -1,0 +1,34 @@
+{
+  "id": 365,
+  "school": "Alfred University",
+  "mascot": "Saxons",
+  "abbreviation": "ALF",
+  "alt_name1": null,
+  "alt_name2": "ALF",
+  "alt_name3": "Alfred",
+  "conference": "Empire 8",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/365.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/365.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5788,
+    "name": "Merrill Field at Yunevich Stadium",
+    "city": "Alfred",
+    "state": "NY",
+    "zip": "14802",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.2542334,
+    "longitude": -77.7906062,
+    "elevation": null,
+    "capacity": 1435,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

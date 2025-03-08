@@ -1,0 +1,34 @@
+{
+  "id": 2210,
+  "school": "Elon",
+  "mascot": "Phoenix",
+  "abbreviation": "ELON",
+  "alt_name1": null,
+  "alt_name2": "ELON",
+  "alt_name3": "Elon",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#020303",
+  "alt_color": "#b59a57",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2210.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2210.png"
+  ],
+  "twitter": "@ElonFootball",
+  "location": {
+    "venue_id": 3894,
+    "name": "Rhodes Stadium",
+    "city": "Elon",
+    "state": "NC",
+    "zip": "77493",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 36.1101269,
+    "longitude": -79.5079979,
+    "elevation": "204.2487793",
+    "capacity": 14000,
+    "year_constructed": 2001,
+    "grass": true,
+    "dome": false
+  }
+}

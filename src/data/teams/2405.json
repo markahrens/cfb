@@ -1,0 +1,34 @@
+{
+  "id": 2405,
+  "school": "Monmouth",
+  "mascot": "Hawks",
+  "abbreviation": "MONM",
+  "alt_name1": "Monmouth NJ",
+  "alt_name2": "MONM",
+  "alt_name3": "Monmouth",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#051844",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2405.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2405.png"
+  ],
+  "twitter": "@MUHawksFB",
+  "location": {
+    "venue_id": 5389,
+    "name": "Kessler Stadium",
+    "city": "West Long Branch",
+    "state": "NJ",
+    "zip": "7764 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.278953,
+    "longitude": -74.009451,
+    "elevation": "9.9",
+    "capacity": 4200,
+    "year_constructed": 1993,
+    "grass": false,
+    "dome": false
+  }
+}

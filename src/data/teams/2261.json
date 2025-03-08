@@ -1,0 +1,34 @@
+{
+  "id": 2261,
+  "school": "Hampton",
+  "mascot": "Pirates",
+  "abbreviation": "HAMP",
+  "alt_name1": null,
+  "alt_name2": "HAMP",
+  "alt_name3": "Hampton",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#0067AC",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2261.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2261.png"
+  ],
+  "twitter": "@Hampton_FB",
+  "location": {
+    "venue_id": 3620,
+    "name": "Armstrong Stadium",
+    "city": "Hampton",
+    "state": "VA",
+    "zip": "23669",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 37.0200894,
+    "longitude": -76.3331555,
+    "elevation": "2.574624538",
+    "capacity": 12000,
+    "year_constructed": 1928,
+    "grass": false,
+    "dome": false
+  }
+}

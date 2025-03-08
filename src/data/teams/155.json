@@ -1,0 +1,34 @@
+{
+  "id": 155,
+  "school": "North Dakota",
+  "mascot": "Fighting Hawks",
+  "abbreviation": "UND",
+  "alt_name1": null,
+  "alt_name2": "UND",
+  "alt_name3": "North Dakota",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#00A26B",
+  "alt_color": "#c2c3c0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/155.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/155.png"
+  ],
+  "twitter": "@UNDFootball",
+  "location": {
+    "venue_id": 3605,
+    "name": "Alerus Center",
+    "city": "Grand Forks",
+    "state": "ND",
+    "zip": "58201",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 47.910622,
+    "longitude": -97.090996,
+    "elevation": "255.2472076",
+    "capacity": 12283,
+    "year_constructed": 2001,
+    "grass": false,
+    "dome": true
+  }
+}

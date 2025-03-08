@@ -1,0 +1,34 @@
+{
+  "id": 189,
+  "school": "Bowling Green",
+  "mascot": "Falcons",
+  "abbreviation": "BGSU",
+  "alt_name1": "Bowling Green State",
+  "alt_name2": "BGSU",
+  "alt_name3": "Bowling Green",
+  "conference": "Mid-American",
+  "classification": "fbs",
+  "color": "#2b1000",
+  "alt_color": "#492000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/189.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/189.png"
+  ],
+  "twitter": "@BG_Football",
+  "location": {
+    "venue_id": 3700,
+    "name": "Doyt L. Perry Stadium",
+    "city": "Bowling Green",
+    "state": "OH",
+    "zip": "43403",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.3780114,
+    "longitude": -83.6225,
+    "elevation": "205.9057465",
+    "capacity": 24000,
+    "year_constructed": 1966,
+    "grass": false,
+    "dome": false
+  }
+}

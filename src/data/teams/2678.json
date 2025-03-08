@@ -1,0 +1,34 @@
+{
+  "id": 2678,
+  "school": "VMI",
+  "mascot": "Keydets",
+  "abbreviation": "VMI",
+  "alt_name1": "Virginia Military Institute",
+  "alt_name2": "VMI",
+  "alt_name3": "VMI",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#E52D37",
+  "alt_color": "#eec52b",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2678.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2678.png"
+  ],
+  "twitter": "@VMI_Football",
+  "location": {
+    "venue_id": 3597,
+    "name": "Alumni Memorial Field",
+    "city": "Lexington",
+    "state": "VA",
+    "zip": "24450",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 37.788983,
+    "longitude": -79.43505,
+    "elevation": "294.958252",
+    "capacity": 10000,
+    "year_constructed": 1962,
+    "grass": true,
+    "dome": false
+  }
+}

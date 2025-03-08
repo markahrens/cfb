@@ -1,8 +1,8 @@
-import { defineCollection, z } from 'astro:content';
-import { glob, file } from 'astro/loaders'; 
+import { defineCollection,reference, z } from 'astro:content';
+import { glob } from 'astro/loaders'; 
 
 const teams = defineCollection({
-  loader: file("src/data/teams.json"),
+  loader: glob({pattern: "**/*.json", base: "./src/data/teams"}),
   schema: z.object({
     id: z.number(),
     school: z.string(),
@@ -52,4 +52,19 @@ const bowlseasons = defineCollection({
   }))
 })
 
-export const collections = { teams, bowlseasons };
+const conferences = defineCollection({
+  loader: glob({pattern: "**/*.json", base: "./src/data/conferences"}),
+  schema: z.object({
+    id: z.number(),
+    name: z.string(),
+    shortName: z.string().nullable(),
+    abbreviation: z.string().nullable(),
+    classification: z.string().nullable(),
+    current:  z.array(z.object({
+      id: reference('teams'),
+      joined: z.number()
+    })).optional()
+  })
+})
+
+export const collections = { teams, bowlseasons, conferences };

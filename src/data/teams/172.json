@@ -1,0 +1,34 @@
+{
+  "id": 172,
+  "school": "Cornell",
+  "mascot": "Big Red",
+  "abbreviation": "COR",
+  "alt_name1": null,
+  "alt_name2": "COR",
+  "alt_name3": "Cornell",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": "#d60027",
+  "alt_color": "#101010",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/172.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/172.png"
+  ],
+  "twitter": "@BigRed_Football",
+  "location": {
+    "venue_id": 3921,
+    "name": "Schoellkopf Field",
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 42.4439016,
+    "longitude": -76.4785398,
+    "elevation": "257.3187561",
+    "capacity": 21500,
+    "year_constructed": 1915,
+    "grass": false,
+    "dome": false
+  }
+}

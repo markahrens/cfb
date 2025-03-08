@@ -1,0 +1,34 @@
+{
+  "id": 2804,
+  "school": "Chowan",
+  "mascot": "Hawks",
+  "abbreviation": "CHOWA",
+  "alt_name1": null,
+  "alt_name2": "CHOWA",
+  "alt_name3": "Chowan",
+  "conference": "Gulf South",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2804.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2804.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5220,
+    "name": "Garrison Stadium",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.434053,
+    "longitude": -77.098431,
+    "elevation": "18.69116974",
+    "capacity": 5000,
+    "year_constructed": 2007,
+    "grass": null,
+    "dome": false
+  }
+}

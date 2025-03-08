@@ -1,0 +1,48 @@
+{
+  "id": 12,
+  "name": "Conference USA",
+  "shortName": "Conference USA",
+  "abbreviation": "CUSA",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "166",
+      "joined": 2018
+    },
+    {
+      "id": "2229",
+      "joined": 2018
+    },
+    {
+      "id": "2335",
+      "joined": 2018
+    },
+    {
+      "id": "2348",
+      "joined": 2018
+    },
+    {
+      "id": "2393",
+      "joined": 2018
+    },
+    {
+      "id": "2534",
+      "joined": 2018
+    },
+    {
+      "id": "2638",
+      "joined": 2018
+    },
+    {
+      "id": "338",
+      "joined": 2018
+    },
+    {
+      "id": "55",
+      "joined": 2018
+    },
+    {
+      "id": "98",
+      "joined": 2018
+    }]
+}

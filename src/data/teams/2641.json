@@ -1,0 +1,34 @@
+{
+  "id": 2641,
+  "school": "Texas Tech",
+  "mascot": "Red Raiders",
+  "abbreviation": "TTU",
+  "alt_name1": null,
+  "alt_name2": "TTU",
+  "alt_name3": "Texas Tech",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#CC0000",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2641.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2641.png"
+  ],
+  "twitter": "@TexasTechFB",
+  "location": {
+    "venue_id": 3784,
+    "name": "Jones AT&T Stadium",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79409",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 33.5910518,
+    "longitude": -101.8728824,
+    "elevation": "980.7632446",
+    "capacity": 60454,
+    "year_constructed": 1947,
+    "grass": false,
+    "dome": false
+  }
+}

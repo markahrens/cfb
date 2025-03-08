@@ -1,0 +1,34 @@
+{
+  "id": 2843,
+  "school": "Western Connecticut St",
+  "mascot": "Wolves",
+  "abbreviation": "WES",
+  "alt_name1": null,
+  "alt_name2": "WES",
+  "alt_name3": "W Conn St",
+  "conference": "MSCAC",
+  "classification": "iii",
+  "color": "#002857",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2843.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2843.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6142,
+    "name": "Westside Athletic Complex",
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06811",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.394817,
+    "longitude": -73.4540111,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

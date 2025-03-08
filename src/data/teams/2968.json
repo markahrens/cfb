@@ -1,0 +1,34 @@
+{
+  "id": 2968,
+  "school": "Gustavus Adolphus",
+  "mascot": "Golden Gusties",
+  "abbreviation": "GUSADOL",
+  "alt_name1": null,
+  "alt_name2": "GUSADOL",
+  "alt_name3": "Gustvs Adl",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": null,
+  "alt_color": "#ebb700",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2968.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2968.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5893,
+    "name": "Hollingsworth Field",
+    "city": "Saint Peter",
+    "state": "MN",
+    "zip": "56082",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.3238384,
+    "longitude": -93.9585295,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 75,
+  "school": "North Park",
+  "mascot": "Vikings",
+  "abbreviation": "NOR",
+  "alt_name1": null,
+  "alt_name2": "NOR",
+  "alt_name3": "North Park",
+  "conference": "CCIW",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/75.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/75.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6093,
+    "name": "Holmgren Athletic Complex",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60022",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.8755616,
+    "longitude": -87.6244212,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

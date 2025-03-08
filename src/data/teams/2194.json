@@ -1,0 +1,34 @@
+{
+  "id": 2194,
+  "school": "East Texas Baptist University",
+  "mascot": "Tigers",
+  "abbreviation": "EAS",
+  "alt_name1": null,
+  "alt_name2": "EAS",
+  "alt_name3": "E TX Bapt",
+  "conference": "American Southwest",
+  "classification": "iii",
+  "color": "#002b44",
+  "alt_color": "#e0ad13",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2194.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2194.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5838,
+    "name": "Ornelas Stadium",
+    "city": "Marshall",
+    "state": "TX",
+    "zip": "75670",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.5447756,
+    "longitude": -94.3661004,
+    "elevation": null,
+    "capacity": 2046,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

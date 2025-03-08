@@ -1,0 +1,34 @@
+{
+  "id": 2166,
+  "school": "Davidson",
+  "mascot": "Wildcats",
+  "abbreviation": "DAV",
+  "alt_name1": null,
+  "alt_name2": "DAV",
+  "alt_name3": "Davidson",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": "#e51837",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2166.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2166.png"
+  ],
+  "twitter": "@DavidsonFB",
+  "location": {
+    "venue_id": 3897,
+    "name": "Richardson Stadium",
+    "city": "Davidson",
+    "state": "NC",
+    "zip": "28036",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.4995744,
+    "longitude": -80.8428419,
+    "elevation": "249.4658203",
+    "capacity": 6000,
+    "year_constructed": 1923,
+    "grass": false,
+    "dome": false
+  }
+}

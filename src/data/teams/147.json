@@ -1,0 +1,34 @@
+{
+  "id": 147,
+  "school": "Montana State",
+  "mascot": "Bobcats",
+  "abbreviation": "MTST",
+  "alt_name1": null,
+  "alt_name2": "MTST",
+  "alt_name3": "Montana St",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#00205c",
+  "alt_color": "#bc955c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/147.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/147.png"
+  ],
+  "twitter": "@MSUBobcatsFB",
+  "location": {
+    "venue_id": 3643,
+    "name": "Bobcat Stadium",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59718",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 45.659048,
+    "longitude": -111.049547,
+    "elevation": "1507.508667",
+    "capacity": 17000,
+    "year_constructed": 1973,
+    "grass": false,
+    "dome": false
+  }
+}

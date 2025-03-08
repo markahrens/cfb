@@ -1,0 +1,73 @@
+{
+  "id": 8,
+  "name": "SEC",
+  "shortName": "Southeastern Conference",
+  "abbreviation": "SEC",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "142",
+      "joined": 2018
+    },
+    {
+      "id": "145",
+      "joined": 2018
+    },
+    {
+      "id": "2",
+      "joined": 2018
+    },
+    {
+      "id": "201",
+      "joined": 2018
+    },
+    {
+      "id": "238",
+      "joined": 2018
+    },
+    {
+      "id": "245",
+      "joined": 2018
+    },
+    {
+      "id": "251",
+      "joined": 2018
+    },
+    {
+      "id": "2579",
+      "joined": 2018
+    },
+    {
+      "id": "2633",
+      "joined": 2018
+    },
+    {
+      "id": "333",
+      "joined": 2018
+    },
+    {
+      "id": "344",
+      "joined": 2018
+    },
+    {
+      "id": "57",
+      "joined": 2018
+    },
+    {
+      "id": "61",
+      "joined": 2018
+    },
+    {
+      "id": "8",
+      "joined": 2018
+    },
+    {
+      "id": "96",
+      "joined": 2018
+    },
+    {
+      "id": "99",
+      "joined": 2018
+    }
+  ]
+}

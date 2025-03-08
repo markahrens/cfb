@@ -1,0 +1,34 @@
+{
+  "id": 2444,
+  "school": "Newberry",
+  "mascot": "Wolves",
+  "abbreviation": "NBY",
+  "alt_name1": null,
+  "alt_name2": "NBY",
+  "alt_name3": "Newberry",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": "#d02030",
+  "alt_color": "#8a8c8f",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2444.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2444.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3926,
+    "name": "Setzler Field",
+    "city": "Newberry",
+    "state": "SC",
+    "zip": "29108",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.286133,
+    "longitude": -81.622539,
+    "elevation": "160.5950775",
+    "capacity": 4000,
+    "year_constructed": 1922,
+    "grass": null,
+    "dome": false
+  }
+}

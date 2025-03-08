@@ -1,0 +1,34 @@
+{
+  "id": 2882,
+  "school": "UNC Pembroke",
+  "mascot": "Braves",
+  "abbreviation": "NCPEMB",
+  "alt_name1": null,
+  "alt_name2": "NCPEMB",
+  "alt_name3": "NC Pembrke",
+  "conference": "Mountain East",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2882.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2882.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6060,
+    "name": "Grace P. Johnson Stadium",
+    "city": "Pembroke",
+    "state": "NC",
+    "zip": "28372",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.6801627,
+    "longitude": -79.1950373,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 67,
+  "school": "Luther",
+  "mascot": "Norse",
+  "abbreviation": "LUT",
+  "alt_name1": null,
+  "alt_name2": "LUT",
+  "alt_name3": "Luther",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": "#015a9c",
+  "alt_color": "#a5bbda",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/67.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/67.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5923,
+    "name": "Legacy Field in Carlson Stadium",
+    "city": "Decorah",
+    "state": "IA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 43.3041609,
+    "longitude": -91.7859098,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

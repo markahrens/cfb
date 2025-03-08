@@ -1,0 +1,34 @@
+{
+  "id": 2824,
+  "school": "Oklahoma Panhandle St",
+  "mascot": "Aggies",
+  "abbreviation": "OKLAH",
+  "alt_name1": "Panhandle State",
+  "alt_name2": "OKLAH",
+  "alt_name3": "Okpanhndle",
+  "conference": "Independent DII",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2824.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2824.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": "Goodwell",
+    "state": "OK",
+    "zip": "73939",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.591799,
+    "longitude": -101.638888,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": true,
+    "dome": false
+  }
+}

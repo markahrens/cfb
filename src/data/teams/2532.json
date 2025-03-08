@@ -1,0 +1,34 @@
+{
+  "id": 2532,
+  "school": "Salisbury",
+  "mascot": "Sea Gulls",
+  "abbreviation": "SALIS",
+  "alt_name1": null,
+  "alt_name2": "SALIS",
+  "alt_name3": "Salisbury",
+  "conference": "New Jersey",
+  "classification": "iii",
+  "color": "#8b0e04",
+  "alt_color": "#fdb913",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2532.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2532.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6114,
+    "name": "Sea Gull Stadium",
+    "city": "Salisbury",
+    "state": "MD",
+    "zip": "21803",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.366027,
+    "longitude": -75.6009964,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 433,
+  "school": "Westminster College (MO)",
+  "mascot": "Blue Jays",
+  "abbreviation": "WMN",
+  "alt_name1": null,
+  "alt_name2": "WMN",
+  "alt_name3": "Wmnstermo",
+  "conference": "Upper Midwest",
+  "classification": "iii",
+  "color": "#06496f",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/433.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/433.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6145,
+    "name": "Blue Jay Stadium",
+    "city": "Fulton",
+    "state": "MO",
+    "zip": "65251",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.8467082,
+    "longitude": -91.9479586,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": 37,
+  "name": "Sun Belt",
+  "shortName": "Sun Belt Conference",
+  "abbreviation": "SBC",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "2026",
+      "joined": 2018
+    },
+    {
+      "id": "2032",
+      "joined": 2018
+    },
+    {
+      "id": "2247",
+      "joined": 2018
+    },
+    {
+      "id": "2433",
+      "joined": 2018
+    },
+    {
+      "id": "256",
+      "joined": 2018
+    },
+    {
+      "id": "2572",
+      "joined": 2018
+    },
+    {
+      "id": "2653",
+      "joined": 2018
+    },
+    {
+      "id": "276",
+      "joined": 2018
+    },
+    {
+      "id": "290",
+      "joined": 2018
+    },
+    {
+      "id": "295",
+      "joined": 2018
+    },
+    {
+      "id": "309",
+      "joined": 2018
+    },
+    {
+      "id": "324",
+      "joined": 2018
+    },
+    {
+      "id": "326",
+      "joined": 2018
+    },
+    {
+      "id": "6",
+      "joined": 2018
+    }
+  ]
+}

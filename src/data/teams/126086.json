@@ -1,0 +1,31 @@
+{
+  "id": 126086,
+  "school": "Post University",
+  "mascot": "Eagles",
+  "abbreviation": "POS",
+  "alt_name1": null,
+  "alt_name2": "POS",
+  "alt_name3": "Post Universit",
+  "conference": "Northeast 10",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "LaMoy Field",
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06708",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.5369926,
+    "longitude": -73.0817398,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

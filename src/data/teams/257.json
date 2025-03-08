@@ -1,0 +1,34 @@
+{
+  "id": 257,
+  "school": "Richmond",
+  "mascot": "Spiders",
+  "abbreviation": "RICH",
+  "alt_name1": null,
+  "alt_name2": "RICH",
+  "alt_name3": "Richmond",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#9e0712",
+  "alt_color": "#b90b2e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/257.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/257.png"
+  ],
+  "twitter": "@SpiderFootball",
+  "location": {
+    "venue_id": 2068,
+    "name": "E. Claiborne Robins Stadium",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23173",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 37.5807765,
+    "longitude": -77.5372211,
+    "elevation": "60.03879166",
+    "capacity": 8217,
+    "year_constructed": 2010,
+    "grass": false,
+    "dome": false
+  }
+}

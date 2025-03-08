@@ -1,0 +1,34 @@
+{
+  "id": 2097,
+  "school": "Campbell",
+  "mascot": "Fighting Camels",
+  "abbreviation": "CAM",
+  "alt_name1": null,
+  "alt_name2": "CAM",
+  "alt_name3": "Campbell",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2097.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2097.png"
+  ],
+  "twitter": "@GoCamelsFB",
+  "location": {
+    "venue_id": 3629,
+    "name": "Barker-Lane Stadium",
+    "city": "Buies Creek",
+    "state": "NC",
+    "zip": "27506",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.4047689,
+    "longitude": -78.7424842,
+    "elevation": "56.51401138",
+    "capacity": 5500,
+    "year_constructed": 2008,
+    "grass": false,
+    "dome": false
+  }
+}

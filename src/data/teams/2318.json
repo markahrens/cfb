@@ -1,0 +1,34 @@
+{
+  "id": 2318,
+  "school": "La Verne",
+  "mascot": "Leopards",
+  "abbreviation": "LAVERNE",
+  "alt_name1": null,
+  "alt_name2": "LAVERNE",
+  "alt_name3": "Laverne",
+  "conference": "So. Cal.",
+  "classification": "iii",
+  "color": "#004812",
+  "alt_color": "#f89828",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2318.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2318.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5909,
+    "name": "Ortmayer Stadium",
+    "city": "La Verne",
+    "state": "CA",
+    "zip": "91750",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.1008426,
+    "longitude": -117.7678355,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

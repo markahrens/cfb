@@ -1,0 +1,34 @@
+{
+  "id": 193,
+  "school": "Miami (OH)",
+  "mascot": "RedHawks",
+  "abbreviation": "M-OH",
+  "alt_name1": null,
+  "alt_name2": "M-OH",
+  "alt_name3": "Miami OH",
+  "conference": "Mid-American",
+  "classification": "fbs",
+  "color": "#a4000c",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/193.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/193.png"
+  ],
+  "twitter": "@MiamiOHFootball",
+  "location": {
+    "venue_id": 3996,
+    "name": "Yager Stadium",
+    "city": "Oxford",
+    "state": "OH",
+    "zip": "45056",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.5197009,
+    "longitude": -84.7330255,
+    "elevation": "242.2643585",
+    "capacity": 24286,
+    "year_constructed": 1983,
+    "grass": false,
+    "dome": false
+  }
+}

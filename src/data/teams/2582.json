@@ -1,0 +1,34 @@
+{
+  "id": 2582,
+  "school": "Southern",
+  "mascot": "Jaguars",
+  "abbreviation": "SOU",
+  "alt_name1": null,
+  "alt_name2": "SOU",
+  "alt_name3": "Southern",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#004B97",
+  "alt_color": "#ffc82d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2582.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2582.png"
+  ],
+  "twitter": "@SouthernUsports",
+  "location": {
+    "venue_id": 3599,
+    "name": "Ace W. Mumford Stadium",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70807",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 30.5221461,
+    "longitude": -91.1896087,
+    "elevation": "20.24213219",
+    "capacity": 28500,
+    "year_constructed": 1928,
+    "grass": false,
+    "dome": false
+  }
+}

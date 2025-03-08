@@ -1,0 +1,34 @@
+{
+  "id": 2401,
+  "school": "Mississippi College",
+  "mascot": "Choctaws",
+  "abbreviation": "MIS",
+  "alt_name1": null,
+  "alt_name2": "MIS",
+  "alt_name3": "Miss Coll",
+  "conference": "Gulf South",
+  "classification": "ii",
+  "color": "#0c2240",
+  "alt_color": "#c89700",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2401.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2401.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6053,
+    "name": "Robinson-Hale Stadium",
+    "city": "Clinton",
+    "state": "MS",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.3410552,
+    "longitude": -90.3215983,
+    "elevation": null,
+    "capacity": 8500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

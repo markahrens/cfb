@@ -1,0 +1,34 @@
+{
+  "id": 2542,
+  "school": "Savannah St",
+  "mascot": "Tigers",
+  "abbreviation": "SAV",
+  "alt_name1": null,
+  "alt_name2": "SAV",
+  "alt_name3": "Savannah St",
+  "conference": "SIAC",
+  "classification": "ii",
+  "color": "#280298",
+  "alt_color": "#f78f1e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2542.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2542.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3952,
+    "name": "Ted Wright Stadium",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31404",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 32.0274346,
+    "longitude": -81.0687492,
+    "elevation": "6.564679146",
+    "capacity": 7500,
+    "year_constructed": 1967,
+    "grass": false,
+    "dome": false
+  }
+}

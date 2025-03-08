@@ -1,0 +1,34 @@
+{
+  "id": 2197,
+  "school": "Eastern Illinois",
+  "mascot": "Panthers",
+  "abbreviation": "EIU",
+  "alt_name1": null,
+  "alt_name2": "EIU",
+  "alt_name3": "E Illinois",
+  "conference": "Big South-OVC",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": "#bebab9",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2197.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2197.png"
+  ],
+  "twitter": "@EIUPantherFB",
+  "location": {
+    "venue_id": 3858,
+    "name": "O'Brien Stadium",
+    "city": "Charleston",
+    "state": "IL",
+    "zip": "61920",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 39.4804965,
+    "longitude": -88.1811618,
+    "elevation": "212.9662933",
+    "capacity": 10000,
+    "year_constructed": 1970,
+    "grass": false,
+    "dome": false
+  }
+}

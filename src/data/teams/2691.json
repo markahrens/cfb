@@ -1,0 +1,34 @@
+{
+  "id": 2691,
+  "school": "Webber International",
+  "mascot": "Warriors",
+  "abbreviation": "WEBBINT",
+  "alt_name1": null,
+  "alt_name2": "WEBBINT",
+  "alt_name3": "Webber Int",
+  "conference": null,
+  "classification": null,
+  "color": "#bf2f38",
+  "alt_color": "#909090",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2691.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2691.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

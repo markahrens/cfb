@@ -1,0 +1,34 @@
+{
+  "id": 2970,
+  "school": "William Paterson",
+  "mascot": "Pioneers",
+  "abbreviation": "WILLPAT",
+  "alt_name1": null,
+  "alt_name2": "WILLPAT",
+  "alt_name3": "Will Paterson",
+  "conference": "New Jersey",
+  "classification": "iii",
+  "color": null,
+  "alt_color": "#f57b21",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2970.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2970.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6150,
+    "name": "Wightman Stadium",
+    "city": "Wayne",
+    "state": "NJ",
+    "zip": "07470",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.9491723,
+    "longitude": -74.2376802,
+    "elevation": null,
+    "capacity": 1909,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

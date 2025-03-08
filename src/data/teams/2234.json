@@ -1,0 +1,34 @@
+{
+  "id": 2234,
+  "school": "Franklin & Marshall",
+  "mascot": "Diplomats",
+  "abbreviation": "FRKLNMAR",
+  "alt_name1": null,
+  "alt_name2": "FRKLNMAR",
+  "alt_name3": "Frkln Mrsh",
+  "conference": "Centennial",
+  "classification": "iii",
+  "color": "#25377d",
+  "alt_color": "#6cb3e9",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2234.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2234.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 7077,
+    "name": "Shadek Stadium",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.03813,
+    "longitude": -76.3056686,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

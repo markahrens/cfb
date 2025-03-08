@@ -1,0 +1,34 @@
+{
+  "id": 282,
+  "school": "Indiana State",
+  "mascot": "Sycamores",
+  "abbreviation": "INST",
+  "alt_name1": null,
+  "alt_name2": "INST",
+  "alt_name3": "Indiana St",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#00669a",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/282.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/282.png"
+  ],
+  "twitter": "@IndianaStateFB",
+  "location": {
+    "venue_id": 3829,
+    "name": "Memorial Stadium",
+    "city": "Terre Haute",
+    "state": "IN",
+    "zip": "47809",
+    "country_code": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "latitude": 39.4746858,
+    "longitude": -87.3669599,
+    "elevation": "155.5213165",
+    "capacity": 12764,
+    "year_constructed": 1925,
+    "grass": false,
+    "dome": false
+  }
+}

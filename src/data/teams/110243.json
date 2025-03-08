@@ -1,0 +1,31 @@
+{
+  "id": 110243,
+  "school": "UT Permian Basin",
+  "mascot": "Falcons",
+  "abbreviation": "TXPBAS",
+  "alt_name1": null,
+  "alt_name2": "TXPBAS",
+  "alt_name3": "UTPermianBasin",
+  "conference": "Lone Star",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 5917,
+    "name": "Ratliff Stadium",
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79766",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 31.8457149,
+    "longitude": -102.367687,
+    "elevation": null,
+    "capacity": 17931,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

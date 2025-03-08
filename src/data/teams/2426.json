@@ -1,0 +1,34 @@
+{
+  "id": 2426,
+  "school": "Navy",
+  "mascot": "Midshipmen",
+  "abbreviation": "NAVY",
+  "alt_name1": null,
+  "alt_name2": "NAVY",
+  "alt_name3": "Navy",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#00225b",
+  "alt_color": "#b5a67c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2426.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2426.png"
+  ],
+  "twitter": "@NavyFB",
+  "location": {
+    "venue_id": 3852,
+    "name": "Navy-Marine Corps Memorial Stadium",
+    "city": "Annapolis",
+    "state": "MD",
+    "zip": "21402",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 38.9846985,
+    "longitude": -76.5076335,
+    "elevation": "10.74990082",
+    "capacity": 34000,
+    "year_constructed": 1959,
+    "grass": false,
+    "dome": false
+  }
+}

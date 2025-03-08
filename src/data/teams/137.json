@@ -1,0 +1,34 @@
+{
+  "id": 137,
+  "school": "Missouri Western",
+  "mascot": "Griffons",
+  "abbreviation": "MOW",
+  "alt_name1": null,
+  "alt_name2": "MOW",
+  "alt_name3": "MO Westrn",
+  "conference": "Mid America",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/137.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/137.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6055,
+    "name": "Craig Field at Spratt Memorial Stadium",
+    "city": "Saint Joseph",
+    "state": "MO",
+    "zip": "87554",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.7686055,
+    "longitude": -94.8466322,
+    "elevation": null,
+    "capacity": 7200,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

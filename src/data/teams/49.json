@@ -1,0 +1,34 @@
+{
+  "id": 49,
+  "school": "Dubuque",
+  "mascot": "Spartans",
+  "abbreviation": "DUB",
+  "alt_name1": null,
+  "alt_name2": "DUB",
+  "alt_name3": "Dubuque",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/49.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/49.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5836,
+    "name": "Chalmers Field",
+    "city": "Dubuque",
+    "state": "IA",
+    "zip": "50118",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.4951915,
+    "longitude": -90.6989698,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

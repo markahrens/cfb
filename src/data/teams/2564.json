@@ -1,0 +1,34 @@
+{
+  "id": 2564,
+  "school": "Simpson College (IA)",
+  "mascot": "Storm",
+  "abbreviation": "SIMPS",
+  "alt_name1": "Simpson",
+  "alt_name2": "SIMPS",
+  "alt_name3": "Simpson",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": "#b20838",
+  "alt_color": "#f0b310",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2564.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2564.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3635,
+    "name": "Bill Buxton Stadium",
+    "city": "Indianola",
+    "state": "IA",
+    "zip": "50125",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.3604966,
+    "longitude": -93.5613292,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

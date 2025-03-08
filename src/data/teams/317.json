@@ -1,0 +1,34 @@
+{
+  "id": 317,
+  "school": "Marietta",
+  "mascot": "Pioneers",
+  "abbreviation": "MAR",
+  "alt_name1": null,
+  "alt_name2": "MAR",
+  "alt_name3": "Marietta",
+  "conference": "Ohio",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/317.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/317.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5931,
+    "name": "Don Drumm Stadium",
+    "city": "Marietta",
+    "state": "OH",
+    "zip": "45750",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.4167742,
+    "longitude": -81.4548392,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2751,
+  "school": "Wyoming",
+  "mascot": "Cowboys",
+  "abbreviation": "WYO",
+  "alt_name1": null,
+  "alt_name2": "WYO",
+  "alt_name3": "Wyoming",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#492f24",
+  "alt_color": "#ffc425",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2751.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2751.png"
+  ],
+  "twitter": "@Wyo_Football",
+  "location": {
+    "venue_id": 3984,
+    "name": "War Memorial Stadium",
+    "city": "Laramie",
+    "state": "WY",
+    "zip": "82071",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 41.31161,
+    "longitude": -105.5681384,
+    "elevation": "2200.153564",
+    "capacity": 29181,
+    "year_constructed": 1950,
+    "grass": false,
+    "dome": false
+  }
+}

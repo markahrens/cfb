@@ -1,0 +1,34 @@
+{
+  "id": 77,
+  "school": "Northwestern",
+  "mascot": "Wildcats",
+  "abbreviation": "NU",
+  "alt_name1": null,
+  "alt_name2": "NU",
+  "alt_name3": "Northwestern",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#582c83",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/77.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/77.png"
+  ],
+  "twitter": "@NUFBFamily",
+  "location": {
+    "venue_id": 3911,
+    "name": "Ryan Field",
+    "city": "Evanston",
+    "state": "IL",
+    "zip": "60208",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 42.0653994,
+    "longitude": -87.6924751,
+    "elevation": "181.2376099",
+    "capacity": 47130,
+    "year_constructed": 1926,
+    "grass": true,
+    "dome": false
+  }
+}

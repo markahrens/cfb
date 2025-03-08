@@ -1,0 +1,31 @@
+{
+  "id": 111674,
+  "school": "Reading",
+  "mascot": "Golden Wolves",
+  "abbreviation": "ALVERNIA",
+  "alt_name1": null,
+  "alt_name2": "ALVERNIA",
+  "alt_name3": "ALVERNIA",
+  "conference": "Mid Atlantic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 5791,
+    "name": "Turf Field",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19501",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.335345,
+    "longitude": -75.9279495,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

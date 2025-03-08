@@ -1,0 +1,34 @@
+{
+  "id": 2316,
+  "school": "Kentucky Wesleyan",
+  "mascot": "Panthers",
+  "abbreviation": "KYWESL",
+  "alt_name1": null,
+  "alt_name2": "KYWESL",
+  "alt_name3": "KY Wesleyn",
+  "conference": "Great Midwest Athletic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2316.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2316.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5263,
+    "name": "Steele Stadium",
+    "city": "Owensboro",
+    "state": "KY",
+    "zip": "42   ",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.742297,
+    "longitude": -87.119976,
+    "elevation": "122.5809097",
+    "capacity": 3000,
+    "year_constructed": 2004,
+    "grass": null,
+    "dome": false
+  }
+}

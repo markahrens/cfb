@@ -1,0 +1,34 @@
+{
+  "id": 2152,
+  "school": "Concordia Moorhead",
+  "mascot": "Cobbers",
+  "abbreviation": "CONCOMN",
+  "alt_name1": null,
+  "alt_name2": "CONCOMN",
+  "alt_name3": "Cncrdia MH",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": "#701d45",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2152.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2152.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5825,
+    "name": "Jake Christiansen Stadium",
+    "city": "Moorhead",
+    "state": "MN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 46.8739081,
+    "longitude": -96.7538674,
+    "elevation": null,
+    "capacity": 7000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

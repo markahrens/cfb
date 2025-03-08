@@ -1,0 +1,34 @@
+{
+  "id": 29,
+  "school": "Redlands",
+  "mascot": "Bulldogs",
+  "abbreviation": "RED",
+  "alt_name1": null,
+  "alt_name2": "RED",
+  "alt_name3": "Redlands",
+  "conference": "So. Cal.",
+  "classification": "iii",
+  "color": "#751708",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/29.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/29.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6106,
+    "name": "Ted Runner Stadium",
+    "city": "Redlands",
+    "state": "CA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.0550328,
+    "longitude": -117.1827445,
+    "elevation": null,
+    "capacity": 6750,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

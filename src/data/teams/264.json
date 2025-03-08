@@ -1,0 +1,34 @@
+{
+  "id": 264,
+  "school": "Washington",
+  "mascot": "Huskies",
+  "abbreviation": "WASH",
+  "alt_name1": null,
+  "alt_name2": "WASH",
+  "alt_name3": "Washington",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#33006f",
+  "alt_color": "#e8d3a2",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/264.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/264.png"
+  ],
+  "twitter": "@UW_Football",
+  "location": {
+    "venue_id": 3765,
+    "name": "Husky Stadium",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98195",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 47.6503235,
+    "longitude": -122.3015746,
+    "elevation": "11.65622807",
+    "capacity": 70138,
+    "year_constructed": 1920,
+    "grass": false,
+    "dome": false
+  }
+}

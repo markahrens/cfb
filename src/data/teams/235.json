@@ -1,0 +1,34 @@
+{
+  "id": 235,
+  "school": "Memphis",
+  "mascot": "Tigers",
+  "abbreviation": "MEM",
+  "alt_name1": null,
+  "alt_name2": "MEM",
+  "alt_name3": "Memphis",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#004991",
+  "alt_color": "#8e908f",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/235.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/235.png"
+  ],
+  "twitter": "@MemphisFB",
+  "location": {
+    "venue_id": 3805,
+    "name": "Simmons Bank Liberty Stadium",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38152",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 35.1209429,
+    "longitude": -89.977147,
+    "elevation": "90.62445831",
+    "capacity": 58325,
+    "year_constructed": 1965,
+    "grass": false,
+    "dome": false
+  }
+}

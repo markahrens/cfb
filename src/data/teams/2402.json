@@ -1,0 +1,34 @@
+{
+  "id": 2402,
+  "school": "Missouri S&T",
+  "mascot": "Miners",
+  "abbreviation": "MISSO",
+  "alt_name1": null,
+  "alt_name2": "MISSO",
+  "alt_name3": "MO S&T",
+  "conference": "Great Lakes",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2402.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2402.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3609,
+    "name": "Allgood-Bailey Stadium",
+    "city": "Rolla",
+    "state": "MO",
+    "zip": "65401",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 37.95037,
+    "longitude": -91.780444,
+    "elevation": "336.1",
+    "capacity": 8000,
+    "year_constructed": 1967,
+    "grass": true,
+    "dome": false
+  }
+}

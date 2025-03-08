@@ -1,0 +1,34 @@
+{
+  "id": 2839,
+  "school": "Greeneville",
+  "mascot": "Pioneers",
+  "abbreviation": "TUS",
+  "alt_name1": null,
+  "alt_name2": "TUS",
+  "alt_name3": "Tusculum",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": "#f2682a",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2839.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2839.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6078,
+    "name": "Pioneer Field (TN)",
+    "city": "Greeneville",
+    "state": "TN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.1631575,
+    "longitude": -82.8309861,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

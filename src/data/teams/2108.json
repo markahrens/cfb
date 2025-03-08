@@ -1,0 +1,34 @@
+{
+  "id": 2108,
+  "school": "Catholic",
+  "mascot": "Cardinals",
+  "abbreviation": "CATH",
+  "alt_name1": null,
+  "alt_name2": "CATH",
+  "alt_name3": "Catholic",
+  "conference": "Landmark Conference",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2108.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2108.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6202,
+    "name": "Cardinal Stadium (DC)",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20549",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.8950368,
+    "longitude": -77.0365427,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

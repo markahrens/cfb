@@ -1,0 +1,34 @@
+{
+  "id": 2056,
+  "school": "Belhaven",
+  "mascot": "Blazers",
+  "abbreviation": "BELHA",
+  "alt_name1": null,
+  "alt_name2": "BELHA",
+  "alt_name3": "Belhaven",
+  "conference": "USA South",
+  "classification": "iii",
+  "color": "#215732",
+  "alt_color": "#f2a900",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2056.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2056.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5802,
+    "name": "Belhaven Bowl Stadium",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39202",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.2990021,
+    "longitude": -90.1847691,
+    "elevation": null,
+    "capacity": 1200,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

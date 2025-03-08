@@ -1,0 +1,34 @@
+{
+  "id": 2025,
+  "school": "Angelo State",
+  "mascot": "Rams",
+  "abbreviation": "ANG",
+  "alt_name1": null,
+  "alt_name2": "ANG",
+  "alt_name3": "Angelo State",
+  "conference": "Lone Star",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2025.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2025.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5869,
+    "name": "LeGrand Stadium at 1st Community Credit Union Field",
+    "city": "San Angelo",
+    "state": "TX",
+    "zip": "76903",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 31.4649685,
+    "longitude": -100.4405094,
+    "elevation": null,
+    "capacity": 5670,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

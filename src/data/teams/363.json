@@ -1,0 +1,34 @@
+{
+  "id": 363,
+  "school": "Principia College",
+  "mascot": "Panthers",
+  "abbreviation": "PRI",
+  "alt_name1": null,
+  "alt_name2": "PRI",
+  "alt_name3": "Principia ",
+  "conference": null,
+  "classification": null,
+  "color": "#000000",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/363.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/363.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

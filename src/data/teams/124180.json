@@ -1,0 +1,31 @@
+{
+  "id": 124180,
+  "school": "Bluefield State",
+  "mascot": "Big Blues",
+  "abbreviation": "BLU",
+  "alt_name1": null,
+  "alt_name2": "BLU",
+  "alt_name3": "Bluefield St",
+  "conference": "CIAA",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 6221,
+    "name": "Mitchell Stadium",
+    "city": "Bluefield",
+    "state": "WV",
+    "zip": "24701",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.2698395,
+    "longitude": -81.2223195,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

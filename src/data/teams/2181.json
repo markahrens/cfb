@@ -1,0 +1,34 @@
+{
+  "id": 2181,
+  "school": "Drake",
+  "mascot": "Bulldogs",
+  "abbreviation": "DRKE",
+  "alt_name1": null,
+  "alt_name2": "DRKE",
+  "alt_name3": "Drake",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": "#005596",
+  "alt_color": "#bec0c2",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2181.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2181.png"
+  ],
+  "twitter": "@DrakeBulldogsFB",
+  "location": {
+    "venue_id": 3701,
+    "name": "Drake Stadium",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50311",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 41.605,
+    "longitude": -93.655,
+    "elevation": "277.8869934",
+    "capacity": 14557,
+    "year_constructed": 1925,
+    "grass": false,
+    "dome": false
+  }
+}

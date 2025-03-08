@@ -1,0 +1,31 @@
+{
+  "id": 2206,
+  "school": "Edward Waters",
+  "mascot": "Tigers",
+  "abbreviation": "EDW",
+  "alt_name1": null,
+  "alt_name2": "EDW",
+  "alt_name3": "Ed Waters",
+  "conference": "SIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 3705,
+    "name": "Earl Kitchings Stadium",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32209",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 30.3321838,
+    "longitude": -81.655651,
+    "elevation": null,
+    "capacity": 8000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,20 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const conferences = await getCollection('conferences', ({ data }) => {
+  return data.current != null;
+});
+
+const pageTitle = "Conferences |";
+
+---
+
+<BaseLayout pageTitle={pageTitle}>
+  <div class="page-content">
+    <h1>Conferences</h1>
+      {conferences.map(conf => (
+        <p>{conf.data.name}</p>
+      ))}
+  </div>
+</BaseLayout>

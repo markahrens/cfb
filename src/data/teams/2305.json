@@ -1,0 +1,34 @@
+{
+  "id": 2305,
+  "school": "Kansas",
+  "mascot": "Jayhawks",
+  "abbreviation": "KU",
+  "alt_name1": null,
+  "alt_name2": "KU",
+  "alt_name3": "Kansas",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#0051ba",
+  "alt_color": "#e8000d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2305.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2305.png"
+  ],
+  "twitter": "@KU_Football",
+  "location": {
+    "venue_id": 3833,
+    "name": "Memorial Stadium",
+    "city": "Lawrence",
+    "state": "KS",
+    "zip": "66045",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 38.9629418,
+    "longitude": -95.2463686,
+    "elevation": "274.855957",
+    "capacity": 47000,
+    "year_constructed": 1921,
+    "grass": false,
+    "dome": false
+  }
+}

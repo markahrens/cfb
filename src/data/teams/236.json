@@ -1,0 +1,34 @@
+{
+  "id": 236,
+  "school": "Chattanooga",
+  "mascot": "Mocs",
+  "abbreviation": "UTC",
+  "alt_name1": null,
+  "alt_name2": "UTC",
+  "alt_name3": "Chattanooga",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#00386b",
+  "alt_color": "#dca71d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/236.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/236.png"
+  ],
+  "twitter": "@GoMocsFB",
+  "location": {
+    "venue_id": 3720,
+    "name": "Finley Stadium",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37403",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.0363792,
+    "longitude": -85.3158835,
+    "elevation": "200.1825104",
+    "capacity": 20668,
+    "year_constructed": 1997,
+    "grass": false,
+    "dome": false
+  }
+}

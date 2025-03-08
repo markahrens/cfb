@@ -1,0 +1,34 @@
+{
+  "id": 2193,
+  "school": "East Tennessee State",
+  "mascot": "Buccaneers",
+  "abbreviation": "ETSU",
+  "alt_name1": null,
+  "alt_name2": "ETSU",
+  "alt_name3": "ETSU",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#002d61",
+  "alt_color": "#ffc423",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2193.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2193.png"
+  ],
+  "twitter": "@ETSUFootball",
+  "location": {
+    "venue_id": 5400,
+    "name": "William B. Greene Jr. Stadium",
+    "city": "Johnson City",
+    "state": "TN",
+    "zip": "37604",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 36.299084,
+    "longitude": -82.374117,
+    "elevation": "512.5",
+    "capacity": 7694,
+    "year_constructed": 2017,
+    "grass": false,
+    "dome": false
+  }
+}

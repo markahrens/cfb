@@ -1,0 +1,34 @@
+{
+  "id": 200,
+  "school": "Southern Nazarene",
+  "mascot": "Crimson Storm",
+  "abbreviation": "STN",
+  "alt_name1": null,
+  "alt_name2": "STN",
+  "alt_name3": "S Nazarene",
+  "conference": "Great American",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/200.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/200.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3934,
+    "name": "Southern Nazarene University Football Stadium",
+    "city": "Bethany",
+    "state": "OK",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.5186728,
+    "longitude": -97.6322648,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 219,
+  "school": "Pennsylvania",
+  "mascot": "Quakers",
+  "abbreviation": "PENN",
+  "alt_name1": null,
+  "alt_name2": "PENN",
+  "alt_name3": "Penn",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": "#082A74",
+  "alt_color": "#a6163d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/219.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/219.png"
+  ],
+  "twitter": "@PENNfb",
+  "location": {
+    "venue_id": 3730,
+    "name": "Franklin Field",
+    "city": "Philadelphia",
+    "state": "PA",
+    "zip": "19104",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.9501475,
+    "longitude": -75.1901043,
+    "elevation": "11.71361065",
+    "capacity": 52593,
+    "year_constructed": 1895,
+    "grass": false,
+    "dome": false
+  }
+}

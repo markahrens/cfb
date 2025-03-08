@@ -1,0 +1,34 @@
+{
+  "id": 84,
+  "school": "Indiana",
+  "mascot": "Hoosiers",
+  "abbreviation": "IU",
+  "alt_name1": null,
+  "alt_name2": "IU",
+  "alt_name3": "Indiana",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#990000",
+  "alt_color": "#edebeb",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/84.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/84.png"
+  ],
+  "twitter": "@IndianaFootball",
+  "location": {
+    "venue_id": 3830,
+    "name": "Memorial Stadium (Bloomington, IN)",
+    "city": "Bloomington",
+    "state": "IN",
+    "zip": "47408",
+    "country_code": "US",
+    "timezone": "America/Indiana/Indianapolis",
+    "latitude": 39.1808959,
+    "longitude": -86.5256217,
+    "elevation": "231.6500854",
+    "capacity": 52656,
+    "year_constructed": 1960,
+    "grass": false,
+    "dome": false
+  }
+}

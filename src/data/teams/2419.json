@@ -1,0 +1,34 @@
+{
+  "id": 2419,
+  "school": "Mount St. Joseph",
+  "mascot": "Lions",
+  "abbreviation": "MTS",
+  "alt_name1": null,
+  "alt_name2": "MTS",
+  "alt_name3": "Mt St Joe",
+  "conference": "Heartland",
+  "classification": "iii",
+  "color": "#002d5d",
+  "alt_color": "#f5ce3e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2419.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2419.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6088,
+    "name": "Schueler Field",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45050",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.1014537,
+    "longitude": -84.5124602,
+    "elevation": null,
+    "capacity": 2400,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

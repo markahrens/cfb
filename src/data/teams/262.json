@@ -1,0 +1,34 @@
+{
+  "id": 262,
+  "school": "Lake Forest College",
+  "mascot": "Foresters",
+  "abbreviation": "LAK",
+  "alt_name1": null,
+  "alt_name2": "LAK",
+  "alt_name3": "Lake Forst",
+  "conference": "Midwest",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/262.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/262.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5915,
+    "name": "Farwell Field",
+    "city": "Lake Forest",
+    "state": "IL",
+    "zip": "60045",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.2586342,
+    "longitude": -87.840625,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

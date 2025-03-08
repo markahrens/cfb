@@ -1,0 +1,34 @@
+{
+  "id": 356,
+  "school": "Illinois",
+  "mascot": "Fighting Illini",
+  "abbreviation": "ILL",
+  "alt_name1": null,
+  "alt_name2": "ILL",
+  "alt_name3": "Illinois",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#ff5f05",
+  "alt_color": "#13294b",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/356.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/356.png"
+  ],
+  "twitter": "@IlliniFootball",
+  "location": {
+    "venue_id": 3832,
+    "name": "Memorial Stadium (Champaign, IL)",
+    "city": "Champaign",
+    "state": "IL",
+    "zip": "61820",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 40.0993268,
+    "longitude": -88.2359569,
+    "elevation": "223.2471619",
+    "capacity": 60670,
+    "year_constructed": 1923,
+    "grass": false,
+    "dome": false
+  }
+}

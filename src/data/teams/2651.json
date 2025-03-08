@@ -1,0 +1,34 @@
+{
+  "id": 2651,
+  "school": "Trine University",
+  "mascot": "Thunder",
+  "abbreviation": "TRI",
+  "alt_name1": null,
+  "alt_name2": "TRI",
+  "alt_name3": "Trine",
+  "conference": "Michigan",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2651.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2651.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6130,
+    "name": "Fred Zollner Athletic Stadium",
+    "city": "Angola",
+    "state": "IN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.634874,
+    "longitude": -84.99928,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

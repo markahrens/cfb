@@ -1,0 +1,34 @@
+{
+  "id": 2736,
+  "school": "Winston-Salem",
+  "mascot": "Rams",
+  "abbreviation": "WNSL",
+  "alt_name1": null,
+  "alt_name2": "WNSL",
+  "alt_name3": "Winston-Salem",
+  "conference": "CIAA",
+  "classification": "ii",
+  "color": "#bb0100",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2736.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2736.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3649,
+    "name": "Bowman Gray Stadium",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27107",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 36.083372,
+    "longitude": -80.222037,
+    "elevation": "242.5",
+    "capacity": 17000,
+    "year_constructed": 1937,
+    "grass": true,
+    "dome": false
+  }
+}

@@ -1,7 +1,6 @@
 import { MapContainer, Marker, CircleMarker, TileLayer, Tooltip  } from "react-leaflet";
 
 export default function Leaflet(teams) {
-  console.log(teams);
   const bounds = L.latLngBounds();
   teams.teams.forEach(t => {
     bounds.extend([t.data.location.latitude, t.data.location.longitude])
@@ -21,9 +20,10 @@ export default function Leaflet(teams) {
       });
     })
     return locationCoords.map((loc, index) => {
+      console.log(index);
       return(
         <CircleMarker center={{ lat: loc.coords[0], lng: loc.coords[1] }} radius="16" pathOptions={{ stroke: false, fillColor: '#FFFFFF', fillOpacity: 1}}>
-        <Marker key={index} position={loc.coords} icon={loc.icon}>
+        <Marker key={loc.id} position={loc.coords} icon={loc.icon}>
            <Tooltip direction="right" offset={[11,0]} className="name-tooltip">
             {loc.school}
           </Tooltip>

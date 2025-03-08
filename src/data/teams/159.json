@@ -1,0 +1,34 @@
+{
+  "id": 159,
+  "school": "Dartmouth",
+  "mascot": "Big Green",
+  "abbreviation": "DART",
+  "alt_name1": null,
+  "alt_name2": "DART",
+  "alt_name3": "Dartmouth",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": "#005730",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/159.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/159.png"
+  ],
+  "twitter": "@DartFootball",
+  "location": {
+    "venue_id": 3826,
+    "name": "Memorial Field",
+    "city": "Hanover",
+    "state": "NH",
+    "zip": "3755 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 43.701302,
+    "longitude": -72.2842781,
+    "elevation": "152.3080139",
+    "capacity": 11000,
+    "year_constructed": 1923,
+    "grass": false,
+    "dome": false
+  }
+}

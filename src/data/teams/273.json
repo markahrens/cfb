@@ -1,0 +1,34 @@
+{
+  "id": 273,
+  "school": "MacMurray College",
+  "mascot": "Highlanders",
+  "abbreviation": "MAC",
+  "alt_name1": null,
+  "alt_name2": "MAC",
+  "alt_name3": "MacMurray ",
+  "conference": null,
+  "classification": null,
+  "color": "#000000",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/273.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/273.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

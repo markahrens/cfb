@@ -1,0 +1,34 @@
+{
+  "id": 2191,
+  "school": "East Central (OK)",
+  "mascot": "Tigers",
+  "abbreviation": "EAS",
+  "alt_name1": "East Central University",
+  "alt_name2": "EAS",
+  "alt_name3": "E Cen OK",
+  "conference": "Great American",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2191.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2191.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5936,
+    "name": "Koi Ishto Stadium",
+    "city": "Ada",
+    "state": "OK",
+    "zip": "74820",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.7743383,
+    "longitude": -96.6783651,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

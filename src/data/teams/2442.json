@@ -1,0 +1,34 @@
+{
+  "id": 2442,
+  "school": "College Of New Jersey",
+  "mascot": "Lions",
+  "abbreviation": "COL",
+  "alt_name1": null,
+  "alt_name2": "COL",
+  "alt_name3": "C of NJ",
+  "conference": "New Jersey",
+  "classification": "iii",
+  "color": "#154c7d",
+  "alt_color": "#fbbc20",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2442.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2442.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5824,
+    "name": "Lions Stadium",
+    "city": "Ewing",
+    "state": "NJ",
+    "zip": "08628",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.2688105,
+    "longitude": -74.8006895,
+    "elevation": null,
+    "capacity": 6000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

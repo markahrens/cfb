@@ -1,0 +1,31 @@
+{
+  "id": 124386,
+  "school": "Little Rock",
+  "mascot": "Buffaloes",
+  "abbreviation": "ARKAN",
+  "alt_name1": null,
+  "alt_name2": "ARKAN",
+  "alt_name3": "Arkansas Bapti",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

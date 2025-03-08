@@ -1,0 +1,34 @@
+{
+  "id": 278,
+  "school": "Fresno State",
+  "mascot": "Bulldogs",
+  "abbreviation": "FRES",
+  "alt_name1": null,
+  "alt_name2": "FRES",
+  "alt_name3": "Fresno St",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#db0032",
+  "alt_color": "#002e6d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/278.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/278.png"
+  ],
+  "twitter": "@FresnoStateFB",
+  "location": {
+    "venue_id": 3660,
+    "name": "Valley Children's Stadium",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93740",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 36.8143527,
+    "longitude": -119.7580092,
+    "elevation": "102.564064",
+    "capacity": 41031,
+    "year_constructed": 1980,
+    "grass": false,
+    "dome": false
+  }
+}

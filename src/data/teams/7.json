@@ -1,0 +1,34 @@
+{
+  "id": 7,
+  "school": "Amherst",
+  "mascot": "Mammoths",
+  "abbreviation": "AMH",
+  "alt_name1": "Amherst",
+  "alt_name2": "AMH",
+  "alt_name3": "Amherst",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#3f1f69",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/7.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/7.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5792,
+    "name": "Pratt Field at Lehrman Stadium",
+    "city": "Amherst",
+    "state": "MA",
+    "zip": "03031",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.3685658,
+    "longitude": -72.505714,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

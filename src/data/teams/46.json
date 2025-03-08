@@ -1,0 +1,34 @@
+{
+  "id": 46,
+  "school": "Georgetown",
+  "mascot": "Hoyas",
+  "abbreviation": "GTWN",
+  "alt_name1": null,
+  "alt_name2": "GTWN",
+  "alt_name3": "Georgetown",
+  "conference": "Patriot",
+  "classification": "fcs",
+  "color": "#110E42",
+  "alt_color": "#001c58",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/46.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/46.png"
+  ],
+  "twitter": "@HoyasFB",
+  "location": {
+    "venue_id": 3847,
+    "name": "Cooper Field",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20007",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 38.9080248,
+    "longitude": -77.0753144,
+    "elevation": "32.38431549",
+    "capacity": 3750,
+    "year_constructed": 2003,
+    "grass": false,
+    "dome": false
+  }
+}

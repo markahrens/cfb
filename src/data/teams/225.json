@@ -1,0 +1,34 @@
+{
+  "id": 225,
+  "school": "Brown",
+  "mascot": "Bears",
+  "abbreviation": "BRWN",
+  "alt_name1": null,
+  "alt_name2": "BRWN",
+  "alt_name3": "Brown",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": "#411e09",
+  "alt_color": "#949300",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/225.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/225.png"
+  ],
+  "twitter": "@BrownU_Football",
+  "location": {
+    "venue_id": 3656,
+    "name": "Brown Stadium",
+    "city": "Providence",
+    "state": "RI",
+    "zip": "2912 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.842114,
+    "longitude": -71.3939416,
+    "elevation": "33.87348557",
+    "capacity": 20000,
+    "year_constructed": 1925,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 297,
+  "school": "Hampden-Sydney",
+  "mascot": "Tigers",
+  "abbreviation": "HAM",
+  "alt_name1": null,
+  "alt_name2": "HAM",
+  "alt_name3": "Hamp Sdney",
+  "conference": "Old Dominion",
+  "classification": "iii",
+  "color": "#900028",
+  "alt_color": "#a8b1b7",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/297.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/297.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5896,
+    "name": "Lewis C. Everett Stadium",
+    "city": "Farmville",
+    "state": "VA",
+    "zip": "23901",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.3024713,
+    "longitude": -78.3923813,
+    "elevation": null,
+    "capacity": 1850,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

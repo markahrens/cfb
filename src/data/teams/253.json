@@ -1,0 +1,34 @@
+{
+  "id": 253,
+  "school": "Southern Utah",
+  "mascot": "Thunderbirds",
+  "abbreviation": "SUU",
+  "alt_name1": null,
+  "alt_name2": "SUU",
+  "alt_name3": "Southern Utah",
+  "conference": "UAC",
+  "classification": "fcs",
+  "color": "#c72026",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/253.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/253.png"
+  ],
+  "twitter": "@SUUFB",
+  "location": {
+    "venue_id": 3706,
+    "name": "Eccles Coliseum",
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84720",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 37.6757919,
+    "longitude": -113.0773938,
+    "elevation": "1763.97644",
+    "capacity": 10000,
+    "year_constructed": 1967,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2094,
+  "school": "California Lutheran University",
+  "mascot": "Kingsmen",
+  "abbreviation": "CALLUTH",
+  "alt_name1": "California Lutheran",
+  "alt_name2": "CALLUTH",
+  "alt_name3": "Cal Luthrn",
+  "conference": "So. Cal.",
+  "classification": "iii",
+  "color": "#3b2361",
+  "alt_color": "#fec223",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2094.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2094.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5811,
+    "name": "William Rolland Stadium",
+    "city": "Thousand Oaks",
+    "state": "CA",
+    "zip": "94707",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.1705609,
+    "longitude": -118.8375937,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

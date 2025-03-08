@@ -1,0 +1,34 @@
+{
+  "id": 2413,
+  "school": "Morehead State",
+  "mascot": "Eagles",
+  "abbreviation": "MORE",
+  "alt_name1": null,
+  "alt_name2": "MORE",
+  "alt_name3": "Morehead St",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": "#094FA3",
+  "alt_color": "#fed91a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2413.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2413.png"
+  ],
+  "twitter": "@MSUEaglesFB",
+  "location": {
+    "venue_id": 3774,
+    "name": "Jayne Stadium",
+    "city": "Morehead",
+    "state": "KY",
+    "zip": "40351",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 38.1916481,
+    "longitude": -83.4253315,
+    "elevation": "228.1033936",
+    "capacity": 10000,
+    "year_constructed": 1964,
+    "grass": false,
+    "dome": false
+  }
+}

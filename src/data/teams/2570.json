@@ -1,0 +1,34 @@
+{
+  "id": 2570,
+  "school": "CSU Pueblo",
+  "mascot": "Thunderwolves",
+  "abbreviation": "CSTP",
+  "alt_name1": null,
+  "alt_name2": "CSTP",
+  "alt_name3": "CO St Pueb",
+  "conference": "Rocky Mountain",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2570.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2570.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4852,
+    "name": "Neta and Eddie DeRose ThunderBowl",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81003",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.2544472,
+    "longitude": -104.609141,
+    "elevation": null,
+    "capacity": 6500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

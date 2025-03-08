@@ -1,0 +1,34 @@
+{
+  "id": 2294,
+  "school": "Iowa",
+  "mascot": "Hawkeyes",
+  "abbreviation": "IOWA",
+  "alt_name1": null,
+  "alt_name2": "IOWA",
+  "alt_name3": "Iowa",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#000000",
+  "alt_color": "#FFCD00",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2294.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2294.png"
+  ],
+  "twitter": "@HawkeyeFootball",
+  "location": {
+    "venue_id": 3793,
+    "name": "Kinnick Stadium",
+    "city": "Iowa City",
+    "state": "IA",
+    "zip": "52242",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 41.6586045,
+    "longitude": -91.5510829,
+    "elevation": "220.6357727",
+    "capacity": 69250,
+    "year_constructed": 1929,
+    "grass": false,
+    "dome": false
+  }
+}

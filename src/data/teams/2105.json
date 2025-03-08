@@ -1,0 +1,34 @@
+{
+  "id": 2105,
+  "school": "Carson-Newman College",
+  "mascot": "Eagles",
+  "abbreviation": "CAR",
+  "alt_name1": "Carson Newman College",
+  "alt_name2": "CAR",
+  "alt_name3": "Carson-Newman",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": "#f2682a",
+  "alt_color": "#0c233f",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2105.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2105.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3663,
+    "name": "Burke-Tarr Stadium",
+    "city": "Jefferson City",
+    "state": "TN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.122311,
+    "longitude": -83.4923961,
+    "elevation": null,
+    "capacity": 6500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

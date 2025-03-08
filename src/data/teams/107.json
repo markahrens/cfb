@@ -1,0 +1,34 @@
+{
+  "id": 107,
+  "school": "Holy Cross",
+  "mascot": "Crusaders",
+  "abbreviation": "HC",
+  "alt_name1": null,
+  "alt_name2": "HC",
+  "alt_name3": "Holy Cross",
+  "conference": "Patriot",
+  "classification": "fcs",
+  "color": "#0a0a0a",
+  "alt_color": "#080808",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/107.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/107.png"
+  ],
+  "twitter": "@HCrossFB",
+  "location": {
+    "venue_id": 3722,
+    "name": "Fitton Field",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "1601 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 42.2403564,
+    "longitude": -71.8111424,
+    "elevation": "137.3915253",
+    "capacity": 23500,
+    "year_constructed": 1924,
+    "grass": true,
+    "dome": false
+  }
+}

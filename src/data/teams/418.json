@@ -1,0 +1,34 @@
+{
+  "id": 418,
+  "school": "Hendrix College",
+  "mascot": "Warriors",
+  "abbreviation": "HENDRIX",
+  "alt_name1": null,
+  "alt_name2": "HENDRIX",
+  "alt_name3": "Hendrix",
+  "conference": "Southern Athletic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/418.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/418.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4423,
+    "name": "Young-Wise Memorial Stadium",
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72112",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.2521996,
+    "longitude": -92.6888936,
+    "elevation": null,
+    "capacity": 1500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2029,
+  "school": "Arkansas-Pine Bluff",
+  "mascot": "Golden Lions",
+  "abbreviation": "UAPB",
+  "alt_name1": "Arkansas Pine Bluff",
+  "alt_name2": "UAPB",
+  "alt_name3": "AR-Pine Bluff",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#e0aa0f",
+  "alt_color": "#eaaa00",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2029.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2029.png"
+  ],
+  "twitter": "@UAPBLionsRoar",
+  "location": {
+    "venue_id": 3740,
+    "name": "Golden Lion Stadium",
+    "city": "Pine Bluff",
+    "state": "AR",
+    "zip": "71601",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 34.253327,
+    "longitude": -92.0214031,
+    "elevation": "67.71961975",
+    "capacity": 16000,
+    "year_constructed": 2000,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2369,
+  "school": "Mars Hill",
+  "mascot": "Mountain Lions",
+  "abbreviation": "MARSHILL",
+  "alt_name1": null,
+  "alt_name2": "MARSHILL",
+  "alt_name3": "Mars Hill",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": "#004b8d",
+  "alt_color": "#efc814",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2369.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2369.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6046,
+    "name": "Meares Stadium",
+    "city": "Mars Hill",
+    "state": "NC",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.82685585,
+    "longitude": -82.5505768698772,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

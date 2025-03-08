@@ -1,0 +1,34 @@
+{
+  "id": 2758,
+  "school": "Howard Payne",
+  "mascot": "Yellow Jackets",
+  "abbreviation": "HOWPAY",
+  "alt_name1": null,
+  "alt_name2": "HOWPAY",
+  "alt_name3": "Hwrd Payne",
+  "conference": "American Southwest",
+  "classification": "iii",
+  "color": "#02215b",
+  "alt_color": "#b5985b",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2758.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2758.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5857,
+    "name": "Gordon Wood Stadium",
+    "city": "Brownwood",
+    "state": "TX",
+    "zip": "76801",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 31.7070026,
+    "longitude": -98.9831022,
+    "elevation": null,
+    "capacity": 7500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

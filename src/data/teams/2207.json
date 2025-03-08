@@ -1,0 +1,34 @@
+{
+  "id": 2207,
+  "school": "Elizabeth City State",
+  "mascot": "Vikings",
+  "abbreviation": "ELI",
+  "alt_name1": null,
+  "alt_name2": "ELI",
+  "alt_name3": "Eliz City",
+  "conference": "CIAA",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2207.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2207.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5941,
+    "name": "Roebuck Stadium",
+    "city": "Elizabeth City",
+    "state": "NC",
+    "zip": "28051",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.2956836,
+    "longitude": -76.2247697,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

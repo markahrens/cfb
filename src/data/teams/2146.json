@@ -1,0 +1,34 @@
+{
+  "id": 2146,
+  "school": "Colorado School Of Mines",
+  "mascot": "Orediggers",
+  "abbreviation": "COLOMINES",
+  "alt_name1": "Colorado School of Mines",
+  "alt_name2": "COLOMINES",
+  "alt_name3": "Colo Mines",
+  "conference": "Rocky Mountain",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2146.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2146.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5883,
+    "name": "Marv Kay Stadium at Campbell Field",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "62339",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.7546349,
+    "longitude": -105.2205809,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2450,
+  "school": "Norfolk State",
+  "mascot": "Spartans",
+  "abbreviation": "NORF",
+  "alt_name1": null,
+  "alt_name2": "NORF",
+  "alt_name3": "Norfolk St",
+  "conference": "MEAC",
+  "classification": "fcs",
+  "color": "#0c8968",
+  "alt_color": "#fdb813",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2450.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2450.png"
+  ],
+  "twitter": "@NSU_FB",
+  "location": {
+    "venue_id": 3991,
+    "name": "William Dick\"\" Price Stadium\"\"",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23504",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 36.8469442,
+    "longitude": -76.2600839,
+    "elevation": "4.916433334",
+    "capacity": 30000,
+    "year_constructed": 1997,
+    "grass": false,
+    "dome": false
+  }
+}

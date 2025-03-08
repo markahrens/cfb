@@ -1,0 +1,34 @@
+{
+  "id": 227,
+  "school": "Rhode Island",
+  "mascot": "Rams",
+  "abbreviation": "URI",
+  "alt_name1": null,
+  "alt_name2": "URI",
+  "alt_name3": "Rhode Island",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#091f3f",
+  "alt_color": "#5ab3e8",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/227.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/227.png"
+  ],
+  "twitter": "@RhodyFootball",
+  "location": {
+    "venue_id": 3824,
+    "name": "Meade Stadium",
+    "city": "Kingston",
+    "state": "RI",
+    "zip": "2881 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.4879984,
+    "longitude": -71.5347458,
+    "elevation": "32.68801498",
+    "capacity": 8000,
+    "year_constructed": 1928,
+    "grass": true,
+    "dome": false
+  }
+}

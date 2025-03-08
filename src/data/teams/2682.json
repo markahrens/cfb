@@ -1,0 +1,34 @@
+{
+  "id": 2682,
+  "school": "Walsh",
+  "mascot": "Cavaliers",
+  "abbreviation": "WAL",
+  "alt_name1": null,
+  "alt_name2": "WAL",
+  "alt_name3": "Walsh",
+  "conference": "Great Midwest Athletic",
+  "classification": "ii",
+  "color": "#660033",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2682.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2682.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3718,
+    "name": "Tom Benson Hall of Fame Stadium",
+    "city": "Canton",
+    "state": "OH",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.7985464,
+    "longitude": -81.3749508,
+    "elevation": null,
+    "capacity": 23000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

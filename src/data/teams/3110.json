@@ -1,0 +1,34 @@
+{
+  "id": 3110,
+  "school": "SUNY Morrisville",
+  "mascot": "Mustangs",
+  "abbreviation": "MOR",
+  "alt_name1": null,
+  "alt_name2": "MOR",
+  "alt_name3": "Morrisvlle",
+  "conference": "Empire 8",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/3110.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/3110.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6087,
+    "name": "Drake Field (NY)",
+    "city": "Morrisville",
+    "state": "NY",
+    "zip": "13048",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.8986566,
+    "longitude": -75.6402204,
+    "elevation": null,
+    "capacity": 1500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

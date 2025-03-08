@@ -1,0 +1,34 @@
+{
+  "id": 2309,
+  "school": "Kent State",
+  "mascot": "Golden Flashes",
+  "abbreviation": "KENT",
+  "alt_name1": null,
+  "alt_name2": "KENT",
+  "alt_name3": "Kent State",
+  "conference": "Mid-American",
+  "classification": "fbs",
+  "color": "#003976",
+  "alt_color": "#efab00",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2309.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2309.png"
+  ],
+  "twitter": "@KentStFootball",
+  "location": {
+    "venue_id": 3696,
+    "name": "Dix Stadium",
+    "city": "Kent",
+    "state": "OH",
+    "zip": "44242",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.1390935,
+    "longitude": -81.31346,
+    "elevation": "321.3641663",
+    "capacity": 25319,
+    "year_constructed": 1969,
+    "grass": false,
+    "dome": false
+  }
+}

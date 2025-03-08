@@ -1,0 +1,34 @@
+{
+  "id": 2551,
+  "school": "Shaw",
+  "mascot": "Bears",
+  "abbreviation": "SHAW",
+  "alt_name1": null,
+  "alt_name2": "SHAW",
+  "alt_name3": "Shaw",
+  "conference": "CIAA",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2551.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2551.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6068,
+    "name": "George Williams Athletic Complex",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27601",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.7803977,
+    "longitude": -78.6390989,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

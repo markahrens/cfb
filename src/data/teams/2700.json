@@ -1,0 +1,34 @@
+{
+  "id": 2700,
+  "school": "McDaniel College",
+  "mascot": "Green Terror",
+  "abbreviation": "MCD",
+  "alt_name1": null,
+  "alt_name2": "MCD",
+  "alt_name3": "McDaniel",
+  "conference": "Centennial",
+  "classification": "iii",
+  "color": "#00674d",
+  "alt_color": "#f5cc2e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2700.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2700.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3922,
+    "name": "Kenneth R. Gill Stadium",
+    "city": "Westminster",
+    "state": "MD",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.5752639,
+    "longitude": -76.9959277,
+    "elevation": null,
+    "capacity": 1434,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

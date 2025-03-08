@@ -1,0 +1,34 @@
+{
+  "id": 2241,
+  "school": "Gardner-Webb",
+  "mascot": "Runnin' Bulldogs",
+  "abbreviation": "GWEB",
+  "alt_name1": "Gardner Webb",
+  "alt_name2": "GWEB",
+  "alt_name3": "Gardner-Webb",
+  "conference": "Big South-OVC",
+  "classification": "fcs",
+  "color": "#c12535",
+  "alt_color": "#909090",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2241.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2241.png"
+  ],
+  "twitter": "@GWUFootball",
+  "location": {
+    "venue_id": 3710,
+    "name": "Ernest W. Spangler Stadium",
+    "city": "Boiling Springs",
+    "state": "NC",
+    "zip": "28152",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.2457593,
+    "longitude": -81.6739887,
+    "elevation": "253.207016",
+    "capacity": 9000,
+    "year_constructed": 1969,
+    "grass": false,
+    "dome": false
+  }
+}

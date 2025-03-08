@@ -1,0 +1,34 @@
+{
+  "id": 228,
+  "school": "Clemson",
+  "mascot": "Tigers",
+  "abbreviation": "CLEM",
+  "alt_name1": null,
+  "alt_name2": "CLEM",
+  "alt_name3": "Clemson",
+  "conference": "ACC",
+  "classification": "fbs",
+  "color": "#f56600",
+  "alt_color": "#522d80",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/228.png"
+  ],
+  "twitter": "@ClemsonFB",
+  "location": {
+    "venue_id": 3836,
+    "name": "Memorial Stadium (Clemson, SC)",
+    "city": "Clemson",
+    "state": "SC",
+    "zip": "29634",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 34.6787737,
+    "longitude": -82.8432428,
+    "elevation": "205.6452179",
+    "capacity": 81500,
+    "year_constructed": 1942,
+    "grass": true,
+    "dome": false
+  }
+}

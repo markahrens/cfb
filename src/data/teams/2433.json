@@ -1,0 +1,34 @@
+{
+  "id": 2433,
+  "school": "UL Monroe",
+  "mascot": "Warhawks",
+  "abbreviation": "ULM",
+  "alt_name1": "La.-Monroe",
+  "alt_name2": "ULM",
+  "alt_name3": "UL Monroe",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#231F20",
+  "alt_color": "#b18445",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2433.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2433.png"
+  ],
+  "twitter": "@ULM_FB",
+  "location": {
+    "venue_id": 3817,
+    "name": "Malone Stadium",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "71209",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 32.5308089,
+    "longitude": -92.0660602,
+    "elevation": "22.998209",
+    "capacity": 30427,
+    "year_constructed": 1978,
+    "grass": false,
+    "dome": false
+  }
+}

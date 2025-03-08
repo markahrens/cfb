@@ -1,0 +1,34 @@
+{
+  "id": 2803,
+  "school": "Bryant",
+  "mascot": "Bulldogs",
+  "abbreviation": "BRY",
+  "alt_name1": null,
+  "alt_name2": "BRY",
+  "alt_name3": "Bryant",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": "#9f8343",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2803.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2803.png"
+  ],
+  "twitter": "@BryantUFootball",
+  "location": {
+    "venue_id": 3661,
+    "name": "Bulldog Stadium",
+    "city": "Smithfield",
+    "state": "RI",
+    "zip": "93710",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.924206,
+    "longitude": -71.5385124,
+    "elevation": "124.471344",
+    "capacity": 4400,
+    "year_constructed": 1999,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2703,
+  "school": "Western New Mexico",
+  "mascot": "Mustangs",
+  "abbreviation": "WNMEX",
+  "alt_name1": null,
+  "alt_name2": "WNMEX",
+  "alt_name3": "W New Mex",
+  "conference": "Lone Star",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2703.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2703.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3633,
+    "name": "Ben Altamirano Field",
+    "city": "Silver City",
+    "state": "NM",
+    "zip": "88062",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.7751371,
+    "longitude": -108.2754371,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2122,
+  "school": "Central Oklahoma",
+  "mascot": "Bronchos",
+  "abbreviation": "CENO",
+  "alt_name1": null,
+  "alt_name2": "CENO",
+  "alt_name3": "C Okla",
+  "conference": "Mid America",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2122.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2122.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5878,
+    "name": "Wantland Stadium",
+    "city": "Edmond",
+    "state": "OK",
+    "zip": "73083",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.6571367,
+    "longitude": -97.4649038,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

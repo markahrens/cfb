@@ -1,0 +1,34 @@
+{
+  "id": 2132,
+  "school": "Cincinnati",
+  "mascot": "Bearcats",
+  "abbreviation": "CIN",
+  "alt_name1": null,
+  "alt_name2": "CIN",
+  "alt_name3": "Cincinnati",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#E00122",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2132.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2132.png"
+  ],
+  "twitter": "@GoBearcatsFB",
+  "location": {
+    "venue_id": 3854,
+    "name": "Nippert Stadium",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45221",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.1312495,
+    "longitude": -84.5161913,
+    "elevation": "230.0660553",
+    "capacity": 40000,
+    "year_constructed": 1915,
+    "grass": false,
+    "dome": false
+  }
+}

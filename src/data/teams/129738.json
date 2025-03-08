@@ -1,0 +1,31 @@
+{
+  "id": 129738,
+  "school": "Calvin University",
+  "mascot": "Knights",
+  "abbreviation": "CAL",
+  "alt_name1": null,
+  "alt_name2": "CAL",
+  "alt_name3": "Calvin Univers",
+  "conference": "Michigan",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": 42.9362139,
+    "longitude": -85.5934129,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

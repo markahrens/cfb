@@ -1,0 +1,34 @@
+{
+  "id": 2010,
+  "school": "Alabama A&M",
+  "mascot": "Bulldogs",
+  "abbreviation": "AAMU",
+  "alt_name1": null,
+  "alt_name2": "AAMU",
+  "alt_name3": "Alabama A&M",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#790000",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2010.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2010.png"
+  ],
+  "twitter": "@AAMUFB",
+  "location": {
+    "venue_id": 3809,
+    "name": "Louis Crews Stadium",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35810",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 34.7835363,
+    "longitude": -86.5784132,
+    "elevation": "214.9181061",
+    "capacity": 21000,
+    "year_constructed": 1996,
+    "grass": false,
+    "dome": false
+  }
+}

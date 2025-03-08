@@ -1,0 +1,34 @@
+{
+  "id": 2042,
+  "school": "Augustana (IL)",
+  "mascot": "Vikings",
+  "abbreviation": "AUGIL",
+  "alt_name1": null,
+  "alt_name2": "AUGIL",
+  "alt_name3": "Augustana IL",
+  "conference": "CCIW",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2042.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2042.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5796,
+    "name": "Charles D. Lindberg Stadium",
+    "city": "Rock Island",
+    "state": "IL",
+    "zip": "52801",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.4411786,
+    "longitude": -90.5766144,
+    "elevation": null,
+    "capacity": 1800,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 70,
+  "school": "Idaho",
+  "mascot": "Vandals",
+  "abbreviation": "IDHO",
+  "alt_name1": null,
+  "alt_name2": "IDHO",
+  "alt_name3": "Idaho",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": "#8c6e4a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/70.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/70.png"
+  ],
+  "twitter": "@VandalFootball",
+  "location": {
+    "venue_id": 3791,
+    "name": "Kibbie Dome",
+    "city": "Moscow",
+    "state": "ID",
+    "zip": "83843",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 46.7262921,
+    "longitude": -117.0173713,
+    "elevation": "794.4794922",
+    "capacity": 16000,
+    "year_constructed": 1975,
+    "grass": false,
+    "dome": true
+  }
+}

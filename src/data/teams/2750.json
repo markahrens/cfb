@@ -1,0 +1,34 @@
+{
+  "id": 2750,
+  "school": "Wright State University",
+  "mascot": "Raiders",
+  "abbreviation": "WRST",
+  "alt_name1": null,
+  "alt_name2": "WRST",
+  "alt_name3": "Wright State",
+  "conference": null,
+  "classification": null,
+  "color": "#cba052",
+  "alt_color": "#cba052",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2750.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2750.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

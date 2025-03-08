@@ -1,0 +1,34 @@
+{
+  "id": 79,
+  "school": "Southern Illinois",
+  "mascot": "Salukis",
+  "abbreviation": "SIU",
+  "alt_name1": null,
+  "alt_name2": "SIU",
+  "alt_name3": "S Illinois",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#85283D",
+  "alt_color": "#c2c3c0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/79.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/79.png"
+  ],
+  "twitter": "@SIU_Football",
+  "location": {
+    "venue_id": 3913,
+    "name": "Saluki Stadium",
+    "city": "Carbondale",
+    "state": "IL",
+    "zip": "62901",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 37.708637,
+    "longitude": -89.216212,
+    "elevation": "126.7586365",
+    "capacity": 15000,
+    "year_constructed": 2010,
+    "grass": false,
+    "dome": false
+  }
+}

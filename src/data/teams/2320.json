@@ -1,0 +1,34 @@
+{
+  "id": 2320,
+  "school": "Lamar",
+  "mascot": "Cardinals",
+  "abbreviation": "LAM",
+  "alt_name1": null,
+  "alt_name2": "LAM",
+  "alt_name3": "Lamar",
+  "conference": "Southland",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": "#ebebeb",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2320.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2320.png"
+  ],
+  "twitter": "@LamarFootball",
+  "location": {
+    "venue_id": 3882,
+    "name": "Provost Umphrey Stadium",
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "77705",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 30.04313,
+    "longitude": -94.069963,
+    "elevation": "3.981505394",
+    "capacity": 16000,
+    "year_constructed": 1964,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2638,
+  "school": "UTEP",
+  "mascot": "Miners",
+  "abbreviation": "UTEP",
+  "alt_name1": "Texas-El Paso",
+  "alt_name2": "UTEP",
+  "alt_name3": "UTEP",
+  "conference": "Conference USA",
+  "classification": "fbs",
+  "color": "#ff8200",
+  "alt_color": "#041e42",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2638.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2638.png"
+  ],
+  "twitter": "@UTEPFB",
+  "location": {
+    "venue_id": 3946,
+    "name": "Sun Bowl",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79968",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 31.7733353,
+    "longitude": -106.507957,
+    "elevation": "1183.697876",
+    "capacity": 51500,
+    "year_constructed": 1963,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 3198,
+  "school": "SOUTH FLORIDA STARS",
+  "mascot": "STARS",
+  "abbreviation": "SFX",
+  "alt_name1": null,
+  "alt_name2": "SFX",
+  "alt_name3": "SOUTH FLORIDA",
+  "conference": null,
+  "classification": null,
+  "color": "#000000",
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2698,
+  "school": "West Georgia",
+  "mascot": "Wolves",
+  "abbreviation": "WGA",
+  "alt_name1": null,
+  "alt_name2": "WGA",
+  "alt_name3": "West Georgia",
+  "conference": "UAC",
+  "classification": "fcs",
+  "color": "#0033a1",
+  "alt_color": "#db1a21",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2698.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2698.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5888,
+    "name": "University Stadium (GA)",
+    "city": "Carrollton",
+    "state": "GA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 33.5801103,
+    "longitude": -85.0766113,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

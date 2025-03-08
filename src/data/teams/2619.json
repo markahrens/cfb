@@ -1,0 +1,34 @@
+{
+  "id": 2619,
+  "school": "Stony Brook",
+  "mascot": "Seawolves",
+  "abbreviation": "STBK",
+  "alt_name1": null,
+  "alt_name2": "STBK",
+  "alt_name3": "Stony Brook",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#990000",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2619.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2619.png"
+  ],
+  "twitter": "@StonyBrookFB",
+  "location": {
+    "venue_id": 3788,
+    "name": "Kenneth P. LaValle Stadium",
+    "city": "Stony Brook",
+    "state": "NY",
+    "zip": "11790",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.9188829,
+    "longitude": -73.1242966,
+    "elevation": "32.63183975",
+    "capacity": 12300,
+    "year_constructed": 2002,
+    "grass": false,
+    "dome": false
+  }
+}

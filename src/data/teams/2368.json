@@ -1,0 +1,34 @@
+{
+  "id": 2368,
+  "school": "Marist",
+  "mascot": "Red Foxes",
+  "abbreviation": "MRST",
+  "alt_name1": null,
+  "alt_name2": "MRST",
+  "alt_name3": "Marist",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": "#e53730",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2368.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2368.png"
+  ],
+  "twitter": "@Marist_Football",
+  "location": {
+    "venue_id": 36,
+    "name": "Leonidoff Field",
+    "city": "Poughkeepsie",
+    "state": "NY",
+    "zip": "12601",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.7191409,
+    "longitude": -73.9329549,
+    "elevation": "24.94474983",
+    "capacity": 5000,
+    "year_constructed": 1968,
+    "grass": false,
+    "dome": false
+  }
+}

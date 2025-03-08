@@ -1,0 +1,31 @@
+{
+  "id": 101161,
+  "school": "Lyon College",
+  "mascot": "Scots",
+  "abbreviation": "LYON",
+  "alt_name1": null,
+  "alt_name2": "LYON",
+  "alt_name3": "LYONCOLL",
+  "conference": "Southern Collegiate Athletic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Pioneer Stadium",
+    "city": "Batesville",
+    "state": "AR",
+    "zip": "72501",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.7555894,
+    "longitude": -91.6289484,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

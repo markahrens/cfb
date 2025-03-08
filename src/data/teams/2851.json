@@ -1,0 +1,34 @@
+{
+  "id": 2851,
+  "school": "Winona State",
+  "mascot": "Warriors",
+  "abbreviation": "WIN",
+  "alt_name1": null,
+  "alt_name2": "WIN",
+  "alt_name3": "Winona State",
+  "conference": "Northern Sun",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2851.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2851.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5780,
+    "name": "Altra Federal Credit Union Stadium",
+    "city": "Winona",
+    "state": "MN",
+    "zip": "55987",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 43.9582272,
+    "longitude": -91.7807784,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

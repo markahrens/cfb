@@ -1,0 +1,31 @@
+{
+  "id": 110254,
+  "school": "Davenport",
+  "mascot": "Panthers",
+  "abbreviation": "DU",
+  "alt_name1": null,
+  "alt_name2": "DU",
+  "alt_name3": "Davenport",
+  "conference": "GLIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 5934,
+    "name": "Farmers Insurance Athletic Complex",
+    "city": "Caledonia",
+    "state": "MI",
+    "zip": "63631",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.763382,
+    "longitude": -90.7729061,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

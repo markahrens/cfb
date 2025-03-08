@@ -1,0 +1,34 @@
+{
+  "id": 2717,
+  "school": "Western Carolina",
+  "mascot": "Catamounts",
+  "abbreviation": "WCU",
+  "alt_name1": null,
+  "alt_name2": "WCU",
+  "alt_name3": "W Carolina",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#492F91",
+  "alt_color": "#bf9e70",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2717.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2717.png"
+  ],
+  "twitter": "@WCU_FB",
+  "location": {
+    "venue_id": 3704,
+    "name": "E. J. Whitmire Stadium",
+    "city": "Cullowhee",
+    "state": "NC",
+    "zip": "28723",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.3048352,
+    "longitude": -83.1818148,
+    "elevation": "653.8632813",
+    "capacity": 13742,
+    "year_constructed": 1974,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 304,
+  "school": "Idaho State",
+  "mascot": "Bengals",
+  "abbreviation": "IDST",
+  "alt_name1": null,
+  "alt_name2": "IDST",
+  "alt_name3": "Idaho St",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#ef8c00",
+  "alt_color": "#e9a126",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/304.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/304.png"
+  ],
+  "twitter": "@IdahoStateFB",
+  "location": {
+    "venue_id": 1930,
+    "name": "Holt Arena",
+    "city": "Pocatello",
+    "state": "ID",
+    "zip": "83201",
+    "country_code": "US",
+    "timezone": "America/Boise",
+    "latitude": 42.8702052,
+    "longitude": -112.4281274,
+    "elevation": "1390.252441",
+    "capacity": 12000,
+    "year_constructed": 1970,
+    "grass": false,
+    "dome": true
+  }
+}

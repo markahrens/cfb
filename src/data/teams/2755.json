@@ -1,0 +1,34 @@
+{
+  "id": 2755,
+  "school": "Grambling",
+  "mascot": "Tigers",
+  "abbreviation": "GRAM",
+  "alt_name1": "Grambling State",
+  "alt_name2": "GRAM",
+  "alt_name3": "Grambling",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#ee8601",
+  "alt_color": "#ffd10a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2755.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2755.png"
+  ],
+  "twitter": "@GSU_Tigers",
+  "location": {
+    "venue_id": 3902,
+    "name": "Eddie Robinson Stadium",
+    "city": "Grambling",
+    "state": "LA",
+    "zip": "71245",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 32.5258665,
+    "longitude": -92.7146412,
+    "elevation": "94.58428955",
+    "capacity": 19600,
+    "year_constructed": 1983,
+    "grass": false,
+    "dome": false
+  }
+}

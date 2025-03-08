@@ -1,0 +1,34 @@
+{
+  "id": 119,
+  "school": "Towson",
+  "mascot": "Tigers",
+  "abbreviation": "TOW",
+  "alt_name1": null,
+  "alt_name2": "TOW",
+  "alt_name3": "Towson",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#FFC229",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/119.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/119.png"
+  ],
+  "twitter": "@Towson_FB",
+  "location": {
+    "venue_id": 3781,
+    "name": "Johnny Unitas Stadium",
+    "city": "Towson",
+    "state": "MD",
+    "zip": "21252",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.3885683,
+    "longitude": -76.6159716,
+    "elevation": "117.6974106",
+    "capacity": 11200,
+    "year_constructed": 1978,
+    "grass": false,
+    "dome": false
+  }
+}

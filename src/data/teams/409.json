@@ -1,0 +1,34 @@
+{
+  "id": 409,
+  "school": "Concordia-Wisconsin",
+  "mascot": "Falcons",
+  "abbreviation": "CONW",
+  "alt_name1": null,
+  "alt_name2": "CONW",
+  "alt_name3": "Cncrdia WI",
+  "conference": "NACC",
+  "classification": "iii",
+  "color": "#245699",
+  "alt_color": "#b1b3b3",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/409.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/409.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5827,
+    "name": "Tomasini Stadium",
+    "city": "Mequon",
+    "state": "WI",
+    "zip": "54537",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 43.2219088,
+    "longitude": -87.9822969,
+    "elevation": null,
+    "capacity": 800,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

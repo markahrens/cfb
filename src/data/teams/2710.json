@@ -1,0 +1,34 @@
+{
+  "id": 2710,
+  "school": "Western Illinois",
+  "mascot": "Leathernecks",
+  "abbreviation": "WIU",
+  "alt_name1": null,
+  "alt_name2": "WIU",
+  "alt_name3": "W Illinois",
+  "conference": "Big South-OVC",
+  "classification": "fcs",
+  "color": "#4e1e8a",
+  "alt_color": "#ffc90a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2710.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2710.png"
+  ],
+  "twitter": "@WIUFootball",
+  "location": {
+    "venue_id": 3746,
+    "name": "Hanson Field",
+    "city": "Macomb",
+    "state": "IL",
+    "zip": "61455",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 40.4683928,
+    "longitude": -90.6841248,
+    "elevation": "192.8755646",
+    "capacity": 16368,
+    "year_constructed": 1950,
+    "grass": false,
+    "dome": false
+  }
+}

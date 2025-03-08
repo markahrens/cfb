@@ -1,0 +1,31 @@
+{
+  "id": 3212,
+  "school": "University Of Mexico",
+  "mascot": "Mexico U",
+  "abbreviation": "UMEX",
+  "alt_name1": null,
+  "alt_name2": "UMEX",
+  "alt_name3": "Mexico",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

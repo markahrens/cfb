@@ -1,0 +1,34 @@
+{
+  "id": 160,
+  "school": "New Hampshire",
+  "mascot": "Wildcats",
+  "abbreviation": "UNH",
+  "alt_name1": null,
+  "alt_name2": "UNH",
+  "alt_name3": "New Hampshire",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#004990",
+  "alt_color": "#c3c4c6",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/160.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/160.png"
+  ],
+  "twitter": "@UNH_Football",
+  "location": {
+    "venue_id": 3688,
+    "name": "Wildcat Stadium",
+    "city": "Durham",
+    "state": "NH",
+    "zip": "3824 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 43.1386231,
+    "longitude": -70.9393077,
+    "elevation": "19.05943298",
+    "capacity": 11015,
+    "year_constructed": 1936,
+    "grass": false,
+    "dome": false
+  }
+}

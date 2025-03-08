@@ -1,0 +1,34 @@
+{
+  "id": 2964,
+  "school": "Central College",
+  "mascot": "Dutch",
+  "abbreviation": "CNTCIA",
+  "alt_name1": null,
+  "alt_name2": "CNTCIA",
+  "alt_name3": "Central",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": "#ea0029",
+  "alt_color": "#c8c8c8",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2964.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2964.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5817,
+    "name": "Ron and Joyce Schipper Stadium",
+    "city": "Pella",
+    "state": "IA",
+    "zip": "50219",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.4073138,
+    "longitude": -92.9174074,
+    "elevation": null,
+    "capacity": 1000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

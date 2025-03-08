@@ -1,0 +1,34 @@
+{
+  "id": 2506,
+  "school": "Presbyterian",
+  "mascot": "Blue Hose",
+  "abbreviation": "PRES",
+  "alt_name1": null,
+  "alt_name2": "PRES",
+  "alt_name3": "Presbyterian",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": "#194896",
+  "alt_color": "#990134",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2506.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2506.png"
+  ],
+  "twitter": "@BlueHoseFtball",
+  "location": {
+    "venue_id": 3627,
+    "name": "Bailey Memorial Stadium",
+    "city": "Clinton",
+    "state": "SC",
+    "zip": "29325",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 34.46158,
+    "longitude": -81.861368,
+    "elevation": "194.1601868",
+    "capacity": 6500,
+    "year_constructed": 2002,
+    "grass": true,
+    "dome": false
+  }
+}

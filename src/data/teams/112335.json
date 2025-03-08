@@ -1,0 +1,31 @@
+{
+  "id": 112335,
+  "school": "Wheeling",
+  "mascot": "Cardinals",
+  "abbreviation": "WHEEL",
+  "alt_name1": null,
+  "alt_name2": "WHEEL",
+  "alt_name3": "Wheeling",
+  "conference": "Mountain East",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 6212,
+    "name": "Bishop Schmitt Field",
+    "city": "Wheeling",
+    "state": "WV",
+    "zip": "26003",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.0639616,
+    "longitude": -80.7209149,
+    "elevation": null,
+    "capacity": 2200,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2168,
+  "school": "Dayton",
+  "mascot": "Flyers",
+  "abbreviation": "DAY",
+  "alt_name1": null,
+  "alt_name2": "DAY",
+  "alt_name3": "Dayton",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": "#004B8D",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2168.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2168.png"
+  ],
+  "twitter": "@DaytonFootball",
+  "location": {
+    "venue_id": 3988,
+    "name": "Welcome Stadium",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45417",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.7369239,
+    "longitude": -84.1981068,
+    "elevation": "222.4020081",
+    "capacity": 11000,
+    "year_constructed": 1949,
+    "grass": false,
+    "dome": false
+  }
+}

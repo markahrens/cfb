@@ -1,0 +1,34 @@
+{
+  "id": 415,
+  "school": "NEWBERG",
+  "mascot": "Bruins",
+  "abbreviation": "GFU",
+  "alt_name1": null,
+  "alt_name2": "GFU",
+  "alt_name3": "George Fox",
+  "conference": "Northwest",
+  "classification": "iii",
+  "color": "#002d62",
+  "alt_color": "#c2a303",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/415.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/415.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5850,
+    "name": "Stoffer Family Stadium",
+    "city": "Newberg",
+    "state": "OR",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 45.300347,
+    "longitude": -122.972751,
+    "elevation": null,
+    "capacity": 3300,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

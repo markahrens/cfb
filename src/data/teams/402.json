@@ -1,0 +1,34 @@
+{
+  "id": 402,
+  "school": "Worcester St",
+  "mascot": "Lancers",
+  "abbreviation": "WORST",
+  "alt_name1": null,
+  "alt_name2": "WORST",
+  "alt_name3": "Wor State",
+  "conference": "MSCAC",
+  "classification": "iii",
+  "color": "#004b8e",
+  "alt_color": "#ffc629",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/402.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/402.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5898,
+    "name": "John Coughlin Memorial Field",
+    "city": "Worcester",
+    "state": "MA",
+    "zip": "01613",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.2625621,
+    "longitude": -71.8018877,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

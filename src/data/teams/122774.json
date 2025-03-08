@@ -1,0 +1,31 @@
+{
+  "id": 122774,
+  "school": "Keystone",
+  "mascot": "Keystone",
+  "abbreviation": "KEYST",
+  "alt_name1": null,
+  "alt_name2": "KEYST",
+  "alt_name3": "KYSTN",
+  "conference": "Landmark Conference",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 7082,
+    "name": "Athletic Field Complex",
+    "city": "La Plume",
+    "state": "PA",
+    "zip": "18440",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.5565738,
+    "longitude": -75.7551655,
+    "elevation": null,
+    "capacity": 1250,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

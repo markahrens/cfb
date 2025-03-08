@@ -1,0 +1,34 @@
+{
+  "id": 2818,
+  "school": "Montclair State",
+  "mascot": "Red Hawks",
+  "abbreviation": "MON",
+  "alt_name1": null,
+  "alt_name2": "MON",
+  "alt_name3": "Montclr St",
+  "conference": "New Jersey",
+  "classification": "iii",
+  "color": "#c20f2f",
+  "alt_color": "#53585a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2818.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2818.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6085,
+    "name": "Sprague Field",
+    "city": "Montclair",
+    "state": "NJ",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.8164458,
+    "longitude": -74.2210643,
+    "elevation": null,
+    "capacity": 6000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

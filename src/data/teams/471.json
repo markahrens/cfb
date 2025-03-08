@@ -1,0 +1,34 @@
+{
+  "id": 471,
+  "school": "Stevenson",
+  "mascot": "Mustangs",
+  "abbreviation": "STU",
+  "alt_name1": null,
+  "alt_name2": "STU",
+  "alt_name3": "Stevenson",
+  "conference": "Mid Atlantic",
+  "classification": "iii",
+  "color": "#005747",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/471.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/471.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3851,
+    "name": "Mustang Stadium",
+    "city": "Stevenson",
+    "state": "MD",
+    "zip": "21153",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.4102772,
+    "longitude": -76.7128314,
+    "elevation": "154",
+    "capacity": 3500,
+    "year_constructed": 2012,
+    "grass": null,
+    "dome": false
+  }
+}

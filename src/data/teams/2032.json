@@ -1,0 +1,34 @@
+{
+  "id": 2032,
+  "school": "Arkansas State",
+  "mascot": "Red Wolves",
+  "abbreviation": "ARST",
+  "alt_name1": null,
+  "alt_name2": "ARST",
+  "alt_name3": "Arkansas St",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#e81018",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2032.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2032.png"
+  ],
+  "twitter": "@AStateFB",
+  "location": {
+    "venue_id": 3625,
+    "name": "Centennial Bank Stadium",
+    "city": "Jonesboro",
+    "state": "AR",
+    "zip": "72404",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 35.8488977,
+    "longitude": -90.6677436,
+    "elevation": "89.52690887",
+    "capacity": 30382,
+    "year_constructed": 1974,
+    "grass": false,
+    "dome": false
+  }
+}

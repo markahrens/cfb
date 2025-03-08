@@ -1,0 +1,34 @@
+{
+  "id": 2841,
+  "school": "Union College",
+  "mascot": "Dutchmen",
+  "abbreviation": "UNI",
+  "alt_name1": "Union",
+  "alt_name2": "UNI",
+  "alt_name3": "Union Ky College",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2841.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2841.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

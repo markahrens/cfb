@@ -1,0 +1,34 @@
+{
+  "id": 61,
+  "school": "Georgia",
+  "mascot": "Bulldogs",
+  "abbreviation": "UGA",
+  "alt_name1": null,
+  "alt_name2": "UGA",
+  "alt_name3": "Georgia",
+  "conference": "SEC",
+  "classification": "fbs",
+  "color": "#ba0c2f",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/61.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/61.png"
+  ],
+  "twitter": "@GeorgiaFootball",
+  "location": {
+    "venue_id": 3917,
+    "name": "Sanford Stadium",
+    "city": "Athens",
+    "state": "GA",
+    "zip": "30602",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 33.9498197,
+    "longitude": -83.3733813,
+    "elevation": "186.1120758",
+    "capacity": 92746,
+    "year_constructed": 1929,
+    "grass": true,
+    "dome": false
+  }
+}

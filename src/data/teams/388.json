@@ -1,0 +1,34 @@
+{
+  "id": 388,
+  "school": "Lebanon Valley",
+  "mascot": "Flying Dutchmen",
+  "abbreviation": "LEB",
+  "alt_name1": null,
+  "alt_name2": "LEB",
+  "alt_name3": "Lebanon",
+  "conference": "Mid Atlantic",
+  "classification": "iii",
+  "color": "#003767",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/388.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/388.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3621,
+    "name": "Arnold Field (PA)",
+    "city": "Annville",
+    "state": "PA",
+    "zip": "17003",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.3295901,
+    "longitude": -76.515226,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

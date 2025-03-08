@@ -1,0 +1,31 @@
+{
+  "id": 124179,
+  "school": "Lincoln (CA)",
+  "mascot": "Oaklanders",
+  "abbreviation": "LIN",
+  "alt_name1": null,
+  "alt_name2": "LIN",
+  "alt_name3": "Lincoln (CA)",
+  "conference": "Independent DII",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": "Oakland",
+    "state": "CA",
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": 37.804794,
+    "longitude": -122.269581,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

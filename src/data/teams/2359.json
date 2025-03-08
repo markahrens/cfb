@@ -1,0 +1,34 @@
+{
+  "id": 2359,
+  "school": "Macalester",
+  "mascot": "Scots",
+  "abbreviation": "MACALES",
+  "alt_name1": null,
+  "alt_name2": "MACALES",
+  "alt_name3": "Macalester",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2359.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2359.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5928,
+    "name": "Macalester Stadium",
+    "city": "Saint Paul",
+    "state": "MN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.9497487,
+    "longitude": -93.0931028,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

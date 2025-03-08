@@ -1,0 +1,34 @@
+{
+  "id": 2884,
+  "school": "Nichols College",
+  "mascot": "Bison",
+  "abbreviation": "NICHOLS",
+  "alt_name1": null,
+  "alt_name2": "NICHOLS",
+  "alt_name3": "Nichls Col",
+  "conference": "Commonwealth Coast",
+  "classification": "iii",
+  "color": "#007b5f",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2884.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2884.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5637,
+    "name": "Vendetti Field",
+    "city": "Dudley",
+    "state": "MA",
+    "zip": "01571",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.0572744,
+    "longitude": -71.9396898,
+    "elevation": null,
+    "capacity": 763,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

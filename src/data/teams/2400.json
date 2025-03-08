@@ -1,0 +1,34 @@
+{
+  "id": 2400,
+  "school": "Mississippi Valley State",
+  "mascot": "Delta Devils",
+  "abbreviation": "MVSU",
+  "alt_name1": null,
+  "alt_name2": "MVSU",
+  "alt_name3": "Miss Valley St",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#005328",
+  "alt_color": "#cf2d34",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2400.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2400.png"
+  ],
+  "twitter": "@MSValleyFB",
+  "location": {
+    "venue_id": 3896,
+    "name": "Rice-Totten Field",
+    "city": "Itta Bena",
+    "state": "MS",
+    "zip": "38941",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 33.5118304,
+    "longitude": -90.3397718,
+    "elevation": "39.88368607",
+    "capacity": 10000,
+    "year_constructed": 1958,
+    "grass": true,
+    "dome": false
+  }
+}

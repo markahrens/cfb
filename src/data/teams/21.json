@@ -1,0 +1,34 @@
+{
+  "id": 21,
+  "school": "San Diego State",
+  "mascot": "Aztecs",
+  "abbreviation": "SDSU",
+  "alt_name1": null,
+  "alt_name2": "SDSU",
+  "alt_name3": "San Diego St",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#c41230",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/21.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/21.png"
+  ],
+  "twitter": "@AztecFB",
+  "location": {
+    "venue_id": 7311,
+    "name": "Snapdragon Stadium",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92093",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 32.784444,
+    "longitude": -117.122833,
+    "elevation": "62",
+    "capacity": 35000,
+    "year_constructed": 2022,
+    "grass": true,
+    "dome": false
+  }
+}

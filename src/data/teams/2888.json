@@ -1,0 +1,34 @@
+{
+  "id": 2888,
+  "school": "Ouachita Baptist",
+  "mascot": "Tigers",
+  "abbreviation": "OUA",
+  "alt_name1": null,
+  "alt_name2": "OUA",
+  "alt_name3": "Ouachita",
+  "conference": "Great American",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2888.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2888.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6065,
+    "name": "Cliff Harris Stadium",
+    "city": "Arkadelphia",
+    "state": "AR",
+    "zip": "71998",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.1209292,
+    "longitude": -93.053784,
+    "elevation": null,
+    "capacity": 3060,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

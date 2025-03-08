@@ -1,0 +1,78 @@
+---
+import { getCollection, getEntries } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
+import ConferenceMap from '../../components/ConferenceMap.jsx';
+
+export const prerender = true
+
+export async function getStaticPaths() {
+  const conferences = await getCollection('conferences', ({ data }) => {
+    return data.current != null;
+  });
+
+  return conferences.map(conf => {
+    return {
+              params: { slug: conf.id },
+              props: {conf}
+          }
+  })
+}
+
+
+const conf = Astro.props;
+var currentIds = new Array();
+conf.conf.data.current.map(team => {
+  currentIds.push(team.id)
+})
+
+const currentTeams = await getEntries(currentIds);
+console.log(currentIds)
+---
+
+<BaseLayout pageTitle={`${conf.conf.data.name} |`}>
+  <div class="page-content">
+    <h1>{conf.conf.data.name}</h1>
+    <div class="conference-page">
+      <div class="teams">
+        {(currentTeams as any[]).sort((a, b) => a.data.school.localeCompare(b.data.school)).map(team => (
+          <SimpleTeamCard id={team.data.id} />
+          <div>{conf.conf.data.current.find(({ id }) => id.id == team.data.id).joined}</div>
+        ))}
+        </div>
+        <div class="map">
+          <ConferenceMap client:only="react" teams={currentTeams}/>
+        </div>
+    </div>
+
+  </div>
+</BaseLayout>
+
+<style is:global>
+  .conference-page {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 40px;
+  }
+   .map-container {
+    height: 600px;
+    width: 100%;
+  }
+  .name-tooltip {
+    background-color: rgba(255,255,255,1);
+    height: 16px;
+    border: none !important;
+    border-radius: 16px;
+    font-family: "Radio Canada Big", sans-serif;
+    font-weight: 500;
+    box-shadow: none;
+    opacity: 1 !important;
+  }
+
+  .leaflet-tooltip-top:before,
+  .leaflet-tooltip-bottom:before,
+  .leaflet-tooltip-left:before,
+  .leaflet-tooltip-right:before {
+    border: none !important
+  }
+</style>

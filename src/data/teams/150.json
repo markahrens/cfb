@@ -1,0 +1,34 @@
+{
+  "id": 150,
+  "school": "Duke",
+  "mascot": "Blue Devils",
+  "abbreviation": "DUKE",
+  "alt_name1": null,
+  "alt_name2": "DUKE",
+  "alt_name3": "Duke",
+  "conference": "ACC",
+  "classification": "fbs",
+  "color": "#013088",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/150.png"
+  ],
+  "twitter": "@DukeFootball",
+  "location": {
+    "venue_id": 3982,
+    "name": "Wallace Wade Stadium",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27708",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 35.9953688,
+    "longitude": -78.9417564,
+    "elevation": "103.0028152",
+    "capacity": 40004,
+    "year_constructed": 1929,
+    "grass": true,
+    "dome": false
+  }
+}

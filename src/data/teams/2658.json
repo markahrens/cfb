@@ -1,0 +1,34 @@
+{
+  "id": 2658,
+  "school": "Texas A&M-Kingsville",
+  "mascot": "Javelinas",
+  "abbreviation": "TXA",
+  "alt_name1": null,
+  "alt_name2": "TXA",
+  "alt_name3": "TX A&M Kng",
+  "conference": "Lone Star",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2658.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2658.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6076,
+    "name": "Javelina Stadium",
+    "city": "Kingsville",
+    "state": "TX",
+    "zip": "78363",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 27.5158689,
+    "longitude": -97.856109,
+    "elevation": null,
+    "capacity": 15000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

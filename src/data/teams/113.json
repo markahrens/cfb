@@ -1,0 +1,34 @@
+{
+  "id": 113,
+  "school": "Massachusetts",
+  "mascot": "Minutemen",
+  "abbreviation": "MASS",
+  "alt_name1": "UMass",
+  "alt_name2": "MASS",
+  "alt_name3": "Massachusetts",
+  "conference": "FBS Independents",
+  "classification": "fbs",
+  "color": "#971B2F",
+  "alt_color": "#B1B3B3",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/113.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/113.png"
+  ],
+  "twitter": "@UMassFootball",
+  "location": {
+    "venue_id": 3985,
+    "name": "Warren McGuirk Alumni Stadium",
+    "city": "Hadley",
+    "state": "MA",
+    "zip": "1003 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 42.3773244,
+    "longitude": -72.5360595,
+    "elevation": "46.58664703",
+    "capacity": 17000,
+    "year_constructed": 1965,
+    "grass": false,
+    "dome": false
+  }
+}

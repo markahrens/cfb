@@ -1,0 +1,34 @@
+{
+  "id": 2731,
+  "school": "Williams",
+  "mascot": "Ephs",
+  "abbreviation": "WIL",
+  "alt_name1": null,
+  "alt_name2": "WIL",
+  "alt_name3": "Williams",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#500082",
+  "alt_color": "#ffbe0a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2731.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2731.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6151,
+    "name": "Farley-Lamb Field",
+    "city": "Williamstown",
+    "state": "MA",
+    "zip": "01267",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.6889156,
+    "longitude": -73.2246057,
+    "elevation": null,
+    "capacity": 1400,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

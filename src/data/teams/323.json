@@ -1,0 +1,34 @@
+{
+  "id": 323,
+  "school": "Moravian",
+  "mascot": "Greyhounds",
+  "abbreviation": "MOR",
+  "alt_name1": null,
+  "alt_name2": "MOR",
+  "alt_name3": "Moravian",
+  "conference": "Landmark Conference",
+  "classification": "iii",
+  "color": "#1f3361",
+  "alt_color": "#a5a6a9",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/323.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/323.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6086,
+    "name": "Rocco Calvo Field",
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "15757",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.6178915,
+    "longitude": -75.3786521,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

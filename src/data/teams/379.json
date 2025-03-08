@@ -1,0 +1,34 @@
+{
+  "id": 379,
+  "school": "UMass Dartmouth",
+  "mascot": "Corsairs",
+  "abbreviation": "MASSA",
+  "alt_name1": null,
+  "alt_name2": "MASSA",
+  "alt_name3": "UMass Dart",
+  "conference": "MSCAC",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/379.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/379.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5939,
+    "name": "Cressy Field",
+    "city": "Dartmouth",
+    "state": "MA",
+    "zip": "02747",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.6332267,
+    "longitude": -70.9879928,
+    "elevation": null,
+    "capacity": 1850,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

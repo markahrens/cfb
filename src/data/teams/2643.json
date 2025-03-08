@@ -1,0 +1,34 @@
+{
+  "id": 2643,
+  "school": "The Citadel",
+  "mascot": "Bulldogs",
+  "abbreviation": "CIT",
+  "alt_name1": null,
+  "alt_name2": "CIT",
+  "alt_name3": "The Citadel",
+  "conference": "Southern",
+  "classification": "fcs",
+  "color": "#002b5c",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2643.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2643.png"
+  ],
+  "twitter": "@CitadelFootball",
+  "location": {
+    "venue_id": 3782,
+    "name": "Johnson Hagood Stadium",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29403",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 32.7936975,
+    "longitude": -79.9558183,
+    "elevation": "4.137742996",
+    "capacity": 11427,
+    "year_constructed": 1948,
+    "grass": true,
+    "dome": false
+  }
+}

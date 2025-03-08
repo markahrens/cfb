@@ -1,0 +1,34 @@
+{
+  "id": 2229,
+  "school": "Florida International",
+  "mascot": "Panthers",
+  "abbreviation": "FIU",
+  "alt_name1": "Florida Intl",
+  "alt_name2": "FIU",
+  "alt_name3": "FIU",
+  "conference": "Conference USA",
+  "classification": "fbs",
+  "color": "#001538",
+  "alt_color": "#c5960c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2229.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2229.png"
+  ],
+  "twitter": "@FIUFootball",
+  "location": {
+    "venue_id": 218,
+    "name": "FIU Stadium",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33199",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 25.7525014,
+    "longitude": -80.3778912,
+    "elevation": "1.718581796",
+    "capacity": 20000,
+    "year_constructed": 1995,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 302,
+  "school": "UC Davis",
+  "mascot": "Aggies",
+  "abbreviation": "UCD",
+  "alt_name1": "California-Davis",
+  "alt_name2": "UCD",
+  "alt_name3": "UC Davis",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#002855",
+  "alt_color": "#c3c4c6",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/302.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/302.png"
+  ],
+  "twitter": "@UCDfootball",
+  "location": {
+    "venue_id": 3602,
+    "name": "Aggie Stadium",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95616",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 38.5365266,
+    "longitude": -121.7627936,
+    "elevation": "11.3825922",
+    "capacity": 10743,
+    "year_constructed": 2007,
+    "grass": false,
+    "dome": false
+  }
+}

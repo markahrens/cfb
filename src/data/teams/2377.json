@@ -1,0 +1,34 @@
+{
+  "id": 2377,
+  "school": "McNeese",
+  "mascot": "Cowboys",
+  "abbreviation": "MCN",
+  "alt_name1": null,
+  "alt_name2": "MCN",
+  "alt_name3": "McNeese",
+  "conference": "Southland",
+  "classification": "fcs",
+  "color": "#00529C",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2377.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2377.png"
+  ],
+  "twitter": "@McNeeseFootball",
+  "location": {
+    "venue_id": 3686,
+    "name": "Cowboy Stadium",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70607",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 30.1804575,
+    "longitude": -93.2178729,
+    "elevation": "4.168509007",
+    "capacity": 17610,
+    "year_constructed": 1965,
+    "grass": false,
+    "dome": false
+  }
+}

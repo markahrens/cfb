@@ -1,0 +1,33 @@
+{
+  "id": 2341,
+  "school": "Long Island University",
+  "mascot": "Sharks",
+  "abbreviation": "LIU",
+  "alt_name1": null,
+  "alt_name2": "LIU",
+  "alt_name3": "Long Island",
+  "conference": "NEC",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "https://a.espncdn.com/i/teamlogos/ncaa/500/112358.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Bethpage Federal Credit Union Stadium",
+    "city": "Brookville",
+    "state": "NY",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.816284,
+    "longitude": -73.589546,
+    "elevation": null,
+    "capacity": 6000,
+    "year_constructed": 1966,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 129,
+  "school": "Saginaw Valley State",
+  "mascot": "Cardinals",
+  "abbreviation": "SAGI",
+  "alt_name1": "Saginaw Valley State",
+  "alt_name2": "SAGI",
+  "alt_name3": "Saginawval",
+  "conference": "GLIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/129.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/129.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3885,
+    "name": "Harvey Randall Wickes Memorial Stadium",
+    "city": "University Center",
+    "state": "MI",
+    "zip": "48915",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 25.71414555,
+    "longitude": -80.2764049838705,
+    "elevation": null,
+    "capacity": 6800,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

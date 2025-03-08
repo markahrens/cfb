@@ -1,0 +1,34 @@
+{
+  "id": 216,
+  "school": "Susquehanna",
+  "mascot": "River Hawks",
+  "abbreviation": "SUS",
+  "alt_name1": null,
+  "alt_name2": "SUS",
+  "alt_name3": "Susquehnna",
+  "conference": "Landmark Conference",
+  "classification": "iii",
+  "color": "#6b1a31",
+  "alt_color": "#fd6b0d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/216.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/216.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6124,
+    "name": "Amos Alonzo Stagg Field (PA)",
+    "city": "Selinsgrove",
+    "state": "PA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.8062437,
+    "longitude": -76.8607084,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

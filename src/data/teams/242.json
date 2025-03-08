@@ -1,0 +1,34 @@
+{
+  "id": 242,
+  "school": "Rice",
+  "mascot": "Owls",
+  "abbreviation": "RICE",
+  "alt_name1": null,
+  "alt_name2": "RICE",
+  "alt_name3": "Rice",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#d1d5d8",
+  "alt_color": "#003d7d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/242.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/242.png"
+  ],
+  "twitter": "@RiceFootball",
+  "location": {
+    "venue_id": 3895,
+    "name": "Rice Stadium",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77251",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 29.7163297,
+    "longitude": -95.4093261,
+    "elevation": "7.148301601",
+    "capacity": 47000,
+    "year_constructed": 1950,
+    "grass": false,
+    "dome": false
+  }
+}

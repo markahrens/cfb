@@ -1,0 +1,31 @@
+{
+  "id": 109423,
+  "school": "Fork Union",
+  "mascot": "Blue Devils",
+  "abbreviation": "FORK",
+  "alt_name1": null,
+  "alt_name2": "FORK",
+  "alt_name3": "Fork Union",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

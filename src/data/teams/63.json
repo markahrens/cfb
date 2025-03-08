@@ -1,0 +1,34 @@
+{
+  "id": 63,
+  "school": "Buena Vista",
+  "mascot": "Beavers",
+  "abbreviation": "BUENA",
+  "alt_name1": null,
+  "alt_name2": "BUENA",
+  "alt_name3": "Buena Vista",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": "#feba12",
+  "alt_color": "#001440",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/63.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/63.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5809,
+    "name": "J. Leslie Rollins Stadium",
+    "city": "Storm Lake",
+    "state": "IA",
+    "zip": "50588",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.6452817,
+    "longitude": -95.1992726,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2083,
+  "school": "Bucknell",
+  "mascot": "Bison",
+  "abbreviation": "BUCK",
+  "alt_name1": null,
+  "alt_name2": "BUCK",
+  "alt_name3": "Bucknell",
+  "conference": "Patriot",
+  "classification": "fcs",
+  "color": "#000060",
+  "alt_color": "#00316e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2083.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2083.png"
+  ],
+  "twitter": "@Bucknell_FB",
+  "location": {
+    "venue_id": 3676,
+    "name": "Christy Mathewson-Memorial Stadium",
+    "city": "Lewisburg",
+    "state": "PA",
+    "zip": "17837",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.9519411,
+    "longitude": -76.884752,
+    "elevation": "151.194931",
+    "capacity": 13100,
+    "year_constructed": 1924,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2617,
+  "school": "Stephen F. Austin",
+  "mascot": "Lumberjacks",
+  "abbreviation": "SFA",
+  "alt_name1": "Stephen F Austin",
+  "alt_name2": "SFA",
+  "alt_name3": "SF Austin",
+  "conference": "Southland",
+  "classification": "fcs",
+  "color": "#393996",
+  "alt_color": "#bec0c2",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2617.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2617.png"
+  ],
+  "twitter": "@SFA_Football",
+  "location": {
+    "venue_id": 3756,
+    "name": "Homer Bryce Stadium",
+    "city": "Nacogdoches",
+    "state": "TX",
+    "zip": "75961",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 31.625719,
+    "longitude": -94.6444034,
+    "elevation": "89.99433899",
+    "capacity": 14575,
+    "year_constructed": 1973,
+    "grass": false,
+    "dome": false
+  }
+}

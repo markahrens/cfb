@@ -1,0 +1,34 @@
+{
+  "id": 233,
+  "school": "South Dakota",
+  "mascot": "Coyotes",
+  "abbreviation": "SDAK",
+  "alt_name1": null,
+  "alt_name2": "SDAK",
+  "alt_name3": "South Dakota",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#CD1241",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/233.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/233.png"
+  ],
+  "twitter": "@SDCoyotesFB",
+  "location": {
+    "venue_id": 1905,
+    "name": "DakotaDome",
+    "city": "Vermillion",
+    "state": "SD",
+    "zip": "57069",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 42.7911218,
+    "longitude": -96.9278427,
+    "elevation": "373.3928833",
+    "capacity": 9100,
+    "year_constructed": 1979,
+    "grass": false,
+    "dome": true
+  }
+}

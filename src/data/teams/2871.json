@@ -1,0 +1,34 @@
+{
+  "id": 2871,
+  "school": "Kean",
+  "mascot": "Cougars",
+  "abbreviation": "KEAN",
+  "alt_name1": null,
+  "alt_name2": "KEAN",
+  "alt_name3": "Kean",
+  "conference": "New Jersey",
+  "classification": "iii",
+  "color": "#092f56",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2871.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2871.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5905,
+    "name": "Kean Alumni Stadium",
+    "city": "Union",
+    "state": "NJ",
+    "zip": "07083",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.6976019,
+    "longitude": -74.2632024,
+    "elevation": null,
+    "capacity": 5300,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

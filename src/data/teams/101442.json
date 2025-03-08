@@ -1,0 +1,31 @@
+{
+  "id": 101442,
+  "school": "Centenary (LA)",
+  "mascot": "Gentlemen",
+  "abbreviation": "CEN",
+  "alt_name1": null,
+  "alt_name2": "CEN",
+  "alt_name3": "Centenary",
+  "conference": "Southern Collegiate Athletic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Atkins Field",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71104",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.4803111,
+    "longitude": -93.7284355,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

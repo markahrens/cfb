@@ -1,0 +1,34 @@
+{
+  "id": 301,
+  "school": "San Diego",
+  "mascot": "Toreros",
+  "abbreviation": "USD",
+  "alt_name1": null,
+  "alt_name2": "USD",
+  "alt_name3": "San Diego",
+  "conference": "Pioneer",
+  "classification": "fcs",
+  "color": "#2f99d4",
+  "alt_color": "#2f99d4",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/301.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/301.png"
+  ],
+  "twitter": "@USDFootball",
+  "location": {
+    "venue_id": 716,
+    "name": "Torero Stadium",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 32.7730674,
+    "longitude": -117.183721,
+    "elevation": "57.95064545",
+    "capacity": 6000,
+    "year_constructed": 1961,
+    "grass": true,
+    "dome": false
+  }
+}

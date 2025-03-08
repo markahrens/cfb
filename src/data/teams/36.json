@@ -1,0 +1,34 @@
+{
+  "id": 36,
+  "school": "Colorado State",
+  "mascot": "Rams",
+  "abbreviation": "CSU",
+  "alt_name1": null,
+  "alt_name2": "CSU",
+  "alt_name3": "Colorado St",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#1e4d2b",
+  "alt_color": "#c8c372",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/36.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/36.png"
+  ],
+  "twitter": "@CSUFootball",
+  "location": {
+    "venue_id": 5388,
+    "name": "Canvas Stadium",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80521",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 40.570015,
+    "longitude": -105.088435,
+    "elevation": "1528.4",
+    "capacity": 36500,
+    "year_constructed": 2017,
+    "grass": false,
+    "dome": false
+  }
+}

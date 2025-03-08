@@ -1,0 +1,34 @@
+{
+  "id": 2828,
+  "school": "Shenandoah",
+  "mascot": "Hornets",
+  "abbreviation": "SHENAN",
+  "alt_name1": null,
+  "alt_name2": "SHENAN",
+  "alt_name3": "Shenandoah",
+  "conference": "Old Dominion",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2828.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2828.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6116,
+    "name": "Shentel Stadium",
+    "city": "Winchester",
+    "state": "VA",
+    "zip": "22602",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.1852184,
+    "longitude": -78.1652404,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

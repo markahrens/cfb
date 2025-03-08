@@ -1,0 +1,34 @@
+{
+  "id": 199,
+  "school": "Southeastern Oklahoma State",
+  "mascot": "Savage Storm",
+  "abbreviation": "SEOS",
+  "alt_name1": "Southeastern Oklahoma State",
+  "alt_name2": "SEOS",
+  "alt_name3": "SE OK ST",
+  "conference": "Great American",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/199.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/199.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3875,
+    "name": "Paul Laird Field",
+    "city": "Durant",
+    "state": "OK",
+    "zip": "74701",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 33.9919761,
+    "longitude": -96.3776762,
+    "elevation": null,
+    "capacity": 4100,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

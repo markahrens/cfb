@@ -1,0 +1,34 @@
+{
+  "id": 2394,
+  "school": "Middlebury",
+  "mascot": "Panthers",
+  "abbreviation": "MIDLBRY",
+  "alt_name1": null,
+  "alt_name2": "MIDLBRY",
+  "alt_name3": "Middlebury",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#365a8a",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2394.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2394.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6079,
+    "name": "Alumni Stadium (VT)",
+    "city": "Middlebury",
+    "state": "VT",
+    "zip": "05753",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.0072736,
+    "longitude": -73.1633010541542,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 205,
+  "school": "Pacific (OR)",
+  "mascot": "Boxers",
+  "abbreviation": "PAC",
+  "alt_name1": null,
+  "alt_name2": "PAC",
+  "alt_name3": "Pacificor",
+  "conference": "Northwest",
+  "classification": "iii",
+  "color": "#b4183a",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/205.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/205.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6153,
+    "name": "Hanson Stadium",
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 45.5197452,
+    "longitude": -123.1114405,
+    "elevation": null,
+    "capacity": 1100,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

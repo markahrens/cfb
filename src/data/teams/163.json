@@ -1,0 +1,34 @@
+{
+  "id": 163,
+  "school": "Princeton",
+  "mascot": "Tigers",
+  "abbreviation": "PRIN",
+  "alt_name1": null,
+  "alt_name2": "PRIN",
+  "alt_name3": "Princeton",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": "#ff6000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/163.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/163.png"
+  ],
+  "twitter": "@PUTigerFootball",
+  "location": {
+    "venue_id": 3881,
+    "name": "Princeton University Stadium",
+    "city": "Princeton",
+    "state": "NJ",
+    "zip": "8540 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.3457928,
+    "longitude": -74.6500047,
+    "elevation": "32.00296402",
+    "capacity": 27800,
+    "year_constructed": 1998,
+    "grass": false,
+    "dome": false
+  }
+}

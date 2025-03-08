@@ -1,0 +1,34 @@
+{
+  "id": 43,
+  "school": "Yale",
+  "mascot": "Bulldogs",
+  "abbreviation": "YALE",
+  "alt_name1": null,
+  "alt_name2": "YALE",
+  "alt_name3": "Yale",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": "#004a81",
+  "alt_color": "#286dc0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/43.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/43.png"
+  ],
+  "twitter": "@Yale_Football",
+  "location": {
+    "venue_id": 3997,
+    "name": "Yale Bowl",
+    "city": "New Haven",
+    "state": "CT",
+    "zip": "6520 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.3132441,
+    "longitude": -72.9605333,
+    "elevation": "5.302621841",
+    "capacity": 61446,
+    "year_constructed": 1914,
+    "grass": false,
+    "dome": false
+  }
+}

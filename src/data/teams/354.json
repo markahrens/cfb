@@ -1,0 +1,34 @@
+{
+  "id": 354,
+  "school": "Olivet College",
+  "mascot": "Comets",
+  "abbreviation": "OLI",
+  "alt_name1": null,
+  "alt_name2": "OLI",
+  "alt_name3": "Olivetcoll",
+  "conference": "Michigan",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/354.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/354.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6100,
+    "name": "Cutler Field",
+    "city": "Olivet",
+    "state": "MI",
+    "zip": "4976 ",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.4414273,
+    "longitude": -84.9241542,
+    "elevation": null,
+    "capacity": 2200,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

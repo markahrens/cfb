@@ -1,0 +1,34 @@
+{
+  "id": 2695,
+  "school": "West Alabama",
+  "mascot": "Tigers",
+  "abbreviation": "WES",
+  "alt_name1": null,
+  "alt_name2": "WES",
+  "alt_name3": "W Alabama",
+  "conference": "Gulf South",
+  "classification": "ii",
+  "color": "#d31d33",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2695.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2695.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3957,
+    "name": "Tiger Stadium (AL)",
+    "city": "Livingston",
+    "state": "AL",
+    "zip": "35470",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 32.5843026,
+    "longitude": -88.1872474,
+    "elevation": null,
+    "capacity": 7000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

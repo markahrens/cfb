@@ -1,0 +1,34 @@
+{
+  "id": 2085,
+  "school": "Buffalo State",
+  "mascot": "Bengals",
+  "abbreviation": "BUF",
+  "alt_name1": null,
+  "alt_name2": "BUF",
+  "alt_name3": "BUFFALOST",
+  "conference": "Liberty League",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2085.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2085.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5810,
+    "name": "Coyer Field",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14026",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.8867166,
+    "longitude": -78.8783922,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

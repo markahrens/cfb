@@ -1,0 +1,73 @@
+{
+  "id": 4,
+  "name": "Big 12",
+  "shortName": "Big 12 Conference",
+  "abbreviation": "B12",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "12",
+      "joined": 2018
+    },
+    {
+      "id": "197",
+      "joined": 2018
+    },
+    {
+      "id": "2116",
+      "joined": 2018
+    },
+    {
+      "id": "2132",
+      "joined": 2018
+    },
+    {
+      "id": "2305",
+      "joined": 2018
+    },
+    {
+      "id": "2306",
+      "joined": 2018
+    },
+    {
+      "id": "239",
+      "joined": 2018
+    },
+    {
+      "id": "248",
+      "joined": 2018
+    },
+    {
+      "id": "252",
+      "joined": 2018
+    },
+    {
+      "id": "254",
+      "joined": 2018
+    },
+    {
+      "id": "2628",
+      "joined": 2018
+    },
+    {
+      "id": "2641",
+      "joined": 2018
+    },
+    {
+      "id": "277",
+      "joined": 2018
+    },
+    {
+      "id": "38",
+      "joined": 2018
+    },
+    {
+      "id": "66",
+      "joined": 2018
+    },
+    {
+      "id": "9",
+      "joined": 2018
+    }
+  ]
+}

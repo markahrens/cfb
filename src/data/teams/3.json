@@ -1,0 +1,34 @@
+{
+  "id": 3,
+  "school": "Birmingham-Southern",
+  "mascot": "Panthers",
+  "abbreviation": "BIR",
+  "alt_name1": null,
+  "alt_name2": "BIR",
+  "alt_name3": "Birmingham-Southern",
+  "conference": "Southern Athletic",
+  "classification": "iii",
+  "color": "#000000",
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/3.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/3.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3871,
+    "name": "General Charles C. Krulak Stadium",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35202",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 33.5206824,
+    "longitude": -86.8024326,
+    "elevation": null,
+    "capacity": 1600,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

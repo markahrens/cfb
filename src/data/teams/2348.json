@@ -1,0 +1,34 @@
+{
+  "id": 2348,
+  "school": "Louisiana Tech",
+  "mascot": "Bulldogs",
+  "abbreviation": "LT",
+  "alt_name1": null,
+  "alt_name2": "LT",
+  "alt_name3": "Louisiana Tech",
+  "conference": "Conference USA",
+  "classification": "fbs",
+  "color": "#002d65",
+  "alt_color": "#d3313a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2348.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2348.png"
+  ],
+  "twitter": "@LATechFB",
+  "location": {
+    "venue_id": 3776,
+    "name": "Joe Aillet Stadium",
+    "city": "Ruston",
+    "state": "LA",
+    "zip": "71272",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 32.5321487,
+    "longitude": -92.6560019,
+    "elevation": "72.87982941",
+    "capacity": 28019,
+    "year_constructed": 1968,
+    "grass": false,
+    "dome": false
+  }
+}

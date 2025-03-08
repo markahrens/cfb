@@ -1,0 +1,34 @@
+{
+  "id": 2220,
+  "school": "Fayetteville State",
+  "mascot": "Broncos",
+  "abbreviation": "FAY",
+  "alt_name1": null,
+  "alt_name2": "FAY",
+  "alt_name3": "Fayetvl St",
+  "conference": "CIAA",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2220.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2220.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3813,
+    "name": "Luther \"Nick\" Jeralds Stadium",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28304",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.0525759,
+    "longitude": -78.878292,
+    "elevation": null,
+    "capacity": 5520,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

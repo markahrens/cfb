@@ -1,0 +1,34 @@
+{
+  "id": 68,
+  "school": "Boise State",
+  "mascot": "Broncos",
+  "abbreviation": "BOIS",
+  "alt_name1": null,
+  "alt_name2": "BOIS",
+  "alt_name3": "Boise St",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#0033a0",
+  "alt_color": "#fa4616",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/68.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/68.png"
+  ],
+  "twitter": "@BroncoSportsFB",
+  "location": {
+    "venue_id": 3653,
+    "name": "Albertsons Stadium",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83725",
+    "country_code": "US",
+    "timezone": "America/Boise",
+    "latitude": 43.6028839,
+    "longitude": -116.1958882,
+    "elevation": "823.2221069",
+    "capacity": 36387,
+    "year_constructed": 1970,
+    "grass": false,
+    "dome": false
+  }
+}

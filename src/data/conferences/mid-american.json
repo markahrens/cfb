@@ -1,0 +1,57 @@
+{
+  "id": 15,
+  "name": "Mid-American",
+  "shortName": "Mid-American Conference",
+  "abbreviation": "MAC",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "189",
+      "joined": 2018
+    },
+    {
+      "id": "193",
+      "joined": 2018
+    },
+    {
+      "id": "195",
+      "joined": 2018
+    },
+    {
+      "id": "2006",
+      "joined": 2018
+    },
+    {
+      "id": "2050",
+      "joined": 2018
+    },
+    {
+      "id": "2084",
+      "joined": 2018
+    },
+    {
+      "id": "2117",
+      "joined": 2018
+    },
+    {
+      "id": "2199",
+      "joined": 2018
+    },
+    {
+      "id": "2309",
+      "joined": 2018
+    },
+    {
+      "id": "2459",
+      "joined": 2018
+    },
+    {
+      "id": "2649",
+      "joined": 2018
+    },
+    {
+      "id": "2711",
+      "joined": 2018
+    }
+  ]
+}

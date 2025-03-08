@@ -1,0 +1,34 @@
+{
+  "id": 2634,
+  "school": "Tennessee State",
+  "mascot": "Tigers",
+  "abbreviation": "TNST",
+  "alt_name1": null,
+  "alt_name2": "TNST",
+  "alt_name3": "Tennessee St",
+  "conference": "Big South-OVC",
+  "classification": "fcs",
+  "color": "#171796",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2634.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2634.png"
+  ],
+  "twitter": "@TSU_Football",
+  "location": {
+    "venue_id": 3810,
+    "name": "Nissan Stadium",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37209",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 36.166479,
+    "longitude": -86.7712898,
+    "elevation": "121.0412598",
+    "capacity": 69143,
+    "year_constructed": 1999,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2148,
+  "school": "Concord University",
+  "mascot": "Mountain Lions",
+  "abbreviation": "CON",
+  "alt_name1": null,
+  "alt_name2": "CON",
+  "alt_name3": "Concord",
+  "conference": "Mountain East",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2148.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2148.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3667,
+    "name": "Callaghan Stadium",
+    "city": "Princeton",
+    "state": "WV",
+    "zip": "24740",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.366328,
+    "longitude": -81.1026607,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

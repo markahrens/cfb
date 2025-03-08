@@ -6,7 +6,6 @@ import slugify from 'slugify';
 const { id, showLogo = true, linkedName = false } = Astro.props;
 
 const team = await getEntry('teams',id );
-
 ---
 
 <div class="teamcard">

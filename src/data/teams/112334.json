@@ -1,0 +1,31 @@
+{
+  "id": 112334,
+  "school": "Franklin Pierce",
+  "mascot": "Ravens",
+  "abbreviation": "FRANK",
+  "alt_name1": null,
+  "alt_name2": "FRANK",
+  "alt_name3": "FRNKLNPRCE",
+  "conference": "Northeast 10",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Sodexo Field",
+    "city": "Rindge",
+    "state": "NH",
+    "zip": "03461",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.778083,
+    "longitude": -72.0532884,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

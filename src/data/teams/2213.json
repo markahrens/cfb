@@ -1,0 +1,34 @@
+{
+  "id": 2213,
+  "school": "Emory & Henry College",
+  "mascot": "Wasps",
+  "abbreviation": "EMHEN",
+  "alt_name1": null,
+  "alt_name2": "EMHEN",
+  "alt_name3": "Emory & Henry",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": "#1e376d",
+  "alt_color": "#daad27",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2213.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2213.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5840,
+    "name": "Fred Selfe Stadium at Nicewonder Field",
+    "city": "Meadowview",
+    "state": "VA",
+    "zip": "VA 24",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 37.3065238,
+    "longitude": -80.0267067,
+    "elevation": null,
+    "capacity": 5500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

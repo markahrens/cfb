@@ -1,0 +1,31 @@
+{
+  "id": 2477,
+  "school": "Ohio Dominican",
+  "mascot": "Panthers",
+  "abbreviation": null,
+  "alt_name1": null,
+  "alt_name2": null,
+  "alt_name3": "Panthers",
+  "conference": "Great Midwest Athletic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 3870,
+    "name": "Panther Stadium (OH)",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43216",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.9622601,
+    "longitude": -83.0007065,
+    "elevation": null,
+    "capacity": 1750,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 328,
+  "school": "Utah State",
+  "mascot": "Aggies",
+  "abbreviation": "USU",
+  "alt_name1": null,
+  "alt_name2": "USU",
+  "alt_name3": "Utah State",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#00263a",
+  "alt_color": "#949ca1",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/328.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/328.png"
+  ],
+  "twitter": "@USUFootball",
+  "location": {
+    "venue_id": 3905,
+    "name": "Maverik Stadium",
+    "city": "Logan",
+    "state": "UT",
+    "zip": "84322",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 41.7517394,
+    "longitude": -111.8116007,
+    "elevation": "1427.914429",
+    "capacity": 25513,
+    "year_constructed": 1968,
+    "grass": false,
+    "dome": false
+  }
+}

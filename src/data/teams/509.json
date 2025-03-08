@@ -1,0 +1,34 @@
+{
+  "id": 509,
+  "school": "Crown College",
+  "mascot": "Polars",
+  "abbreviation": "CROWN",
+  "alt_name1": null,
+  "alt_name2": "CROWN",
+  "alt_name3": "Crown",
+  "conference": "Upper Midwest",
+  "classification": "iii",
+  "color": "#5c2f92",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/509.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/509.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5829,
+    "name": "Old National Bank Stadium",
+    "city": "Saint Bonifacius",
+    "state": "MN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.8827742,
+    "longitude": -93.7422112,
+    "elevation": null,
+    "capacity": 1400,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

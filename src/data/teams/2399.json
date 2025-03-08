@@ -1,0 +1,34 @@
+{
+  "id": 2399,
+  "school": "Minnesota Morris",
+  "mascot": "Cougars",
+  "abbreviation": "MNMOR",
+  "alt_name1": null,
+  "alt_name2": "MNMOR",
+  "alt_name3": "MN Morris",
+  "conference": "Upper Midwest",
+  "classification": "iii",
+  "color": "#8d191b",
+  "alt_color": "#e19c25",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2399.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2399.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6082,
+    "name": "Big Cat Stadium",
+    "city": "Morris",
+    "state": "MN",
+    "zip": "56267",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 45.586072,
+    "longitude": -95.913941,
+    "elevation": null,
+    "capacity": 1400,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

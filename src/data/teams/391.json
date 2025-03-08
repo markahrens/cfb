@@ -1,0 +1,34 @@
+{
+  "id": 391,
+  "school": "Oberlin",
+  "mascot": "Yeomen",
+  "abbreviation": "OBERLIN",
+  "alt_name1": null,
+  "alt_name2": "OBERLIN",
+  "alt_name3": "Oberlin",
+  "conference": "North Coast",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/391.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/391.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6096,
+    "name": "Austin E. Knowlton Athletics Complex",
+    "city": "Oberlin",
+    "state": "OH",
+    "zip": "44074",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.2939386,
+    "longitude": -82.2173786,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

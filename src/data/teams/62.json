@@ -1,0 +1,34 @@
+{
+  "id": 62,
+  "school": "Hawai'i",
+  "mascot": "Rainbow Warriors",
+  "abbreviation": "HAW",
+  "alt_name1": null,
+  "alt_name2": "HAW",
+  "alt_name3": "Hawai'i",
+  "conference": "Mountain West",
+  "classification": "fbs",
+  "color": "#003420",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/62.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/62.png"
+  ],
+  "twitter": "@HawaiiFootball",
+  "location": {
+    "venue_id": 7220,
+    "name": "Clarence T.C. Ching Athletics Complex",
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96822",
+    "country_code": null,
+    "timezone": null,
+    "latitude": 21.294294,
+    "longitude": -157.819338,
+    "elevation": "20",
+    "capacity": 9000,
+    "year_constructed": null,
+    "grass": true,
+    "dome": false
+  }
+}

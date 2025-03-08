@@ -1,0 +1,34 @@
+{
+  "id": 291,
+  "school": "Methodist",
+  "mascot": "Monarchs",
+  "abbreviation": "MTH",
+  "alt_name1": null,
+  "alt_name2": "MTH",
+  "alt_name3": "Methodist",
+  "conference": "USA South",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/291.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/291.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5998,
+    "name": "Monarch Stadium",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28304",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.0525759,
+    "longitude": -78.878292,
+    "elevation": null,
+    "capacity": 800,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

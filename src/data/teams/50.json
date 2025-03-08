@@ -1,0 +1,34 @@
+{
+  "id": 50,
+  "school": "Florida A&M",
+  "mascot": "Rattlers",
+  "abbreviation": "FAMU",
+  "alt_name1": null,
+  "alt_name2": "FAMU",
+  "alt_name3": "Florida A&M",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#F89728",
+  "alt_color": "#00843d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/50.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/50.png"
+  ],
+  "twitter": "@FAMUAthletics",
+  "location": {
+    "venue_id": 3650,
+    "name": "Bragg Memorial Stadium",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32307",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 30.4261632,
+    "longitude": -84.2923095,
+    "elevation": "31.18483925",
+    "capacity": 25500,
+    "year_constructed": 1957,
+    "grass": false,
+    "dome": false
+  }
+}

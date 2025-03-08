@@ -1,0 +1,81 @@
+{
+  "id": 5,
+  "name": "Big Ten",
+  "shortName": "Big Ten Conference",
+  "abbreviation": "B1G",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "120",
+      "joined": 2018
+    },
+    {
+      "id": "127",
+      "joined": 2018
+    },
+    {
+      "id": "130",
+      "joined": 2018
+    },
+    {
+      "id": "135",
+      "joined": 2018
+    },
+    {
+      "id": "158",
+      "joined": 2018
+    },
+    {
+      "id": "164",
+      "joined": 2018
+    },
+    {
+      "id": "194",
+      "joined": 2018
+    },
+    {
+      "id": "213",
+      "joined": 2018
+    },
+    {
+      "id": "2294",
+      "joined": 2018
+    },
+    {
+      "id": "2483",
+      "joined": 2018
+    },
+    {
+      "id": "2509",
+      "joined": 2018
+    },
+    {
+      "id": "26",
+      "joined": 2018
+    },
+    {
+      "id": "264",
+      "joined": 2018
+    },
+    {
+      "id": "275",
+      "joined": 2018
+    },
+    {
+      "id": "30",
+      "joined": 2018
+    },
+    {
+      "id": "356",
+      "joined": 2018
+    },
+    {
+      "id": "77",
+      "joined": 2018
+    },
+    {
+      "id": "84",
+      "joined": 2018
+    }
+  ]
+}

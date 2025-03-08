@@ -1,0 +1,34 @@
+{
+  "id": 158,
+  "school": "Nebraska",
+  "mascot": "Cornhuskers",
+  "abbreviation": "NEB",
+  "alt_name1": null,
+  "alt_name2": "NEB",
+  "alt_name3": "Nebraska",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#d00000",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/158.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/158.png"
+  ],
+  "twitter": "@HuskerFBNation",
+  "location": {
+    "venue_id": 3834,
+    "name": "Memorial Stadium (Lincoln, NE)",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68588",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 40.820682,
+    "longitude": -96.705594,
+    "elevation": "354.9318848",
+    "capacity": 85458,
+    "year_constructed": 1923,
+    "grass": false,
+    "dome": false
+  }
+}

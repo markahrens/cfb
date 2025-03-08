@@ -1,0 +1,34 @@
+{
+  "id": 2692,
+  "school": "Weber State",
+  "mascot": "Wildcats",
+  "abbreviation": "WEB",
+  "alt_name1": null,
+  "alt_name2": "WEB",
+  "alt_name3": "Weber St",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#18005a",
+  "alt_color": "#ebebeb",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2692.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2692.png"
+  ],
+  "twitter": "@WeberStateFB",
+  "location": {
+    "venue_id": 3942,
+    "name": "Stewart Stadium",
+    "city": "Ogden",
+    "state": "UT",
+    "zip": "84408",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 41.1918741,
+    "longitude": -111.9401391,
+    "elevation": "1451.553711",
+    "capacity": 17500,
+    "year_constructed": 1966,
+    "grass": false,
+    "dome": false
+  }
+}

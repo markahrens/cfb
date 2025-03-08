@@ -1,0 +1,34 @@
+{
+  "id": 2967,
+  "school": "Framingham State",
+  "mascot": "Rams",
+  "abbreviation": "FRA",
+  "alt_name1": null,
+  "alt_name2": "FRA",
+  "alt_name3": "Framingham",
+  "conference": "MSCAC",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2967.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2967.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3819,
+    "name": "Bowditch Field",
+    "city": "Framingham",
+    "state": "MA",
+    "zip": "01702",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.3095704,
+    "longitude": -71.4413097,
+    "elevation": null,
+    "capacity": 5300,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

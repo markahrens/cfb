@@ -1,0 +1,34 @@
+{
+  "id": 2653,
+  "school": "Troy",
+  "mascot": "Trojans",
+  "abbreviation": "TROY",
+  "alt_name1": null,
+  "alt_name2": "TROY",
+  "alt_name3": "Troy",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#AE0210",
+  "alt_color": "#88898c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2653.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2653.png"
+  ],
+  "twitter": "@TroyTrojansFB",
+  "location": {
+    "venue_id": 3975,
+    "name": "Veterans Memorial Stadium (AL)",
+    "city": "Troy",
+    "state": "AL",
+    "zip": "36082",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 31.7995565,
+    "longitude": -85.9518328,
+    "elevation": "154.7746277",
+    "capacity": 30000,
+    "year_constructed": 1950,
+    "grass": false,
+    "dome": false
+  }
+}

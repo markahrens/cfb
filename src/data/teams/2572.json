@@ -1,0 +1,34 @@
+{
+  "id": 2572,
+  "school": "Southern Miss",
+  "mascot": "Golden Eagles",
+  "abbreviation": "USM",
+  "alt_name1": "Southern Mississippi",
+  "alt_name2": "USM",
+  "alt_name3": "Southern Miss",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#FFAA3C",
+  "alt_color": "#ffc423",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2572.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2572.png"
+  ],
+  "twitter": "@SouthernMissFB",
+  "location": {
+    "venue_id": 3815,
+    "name": "M. M. Roberts Stadium",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 31.3289321,
+    "longitude": -89.3318118,
+    "elevation": "64.52726746",
+    "capacity": 36000,
+    "year_constructed": 1932,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2447,
+  "school": "Nicholls",
+  "mascot": "Colonels",
+  "abbreviation": "NICH",
+  "alt_name1": null,
+  "alt_name2": "NICH",
+  "alt_name3": "Nicholls",
+  "conference": "Southland",
+  "classification": "fcs",
+  "color": "#C41230",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2447.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2447.png"
+  ],
+  "twitter": "@Nicholls_FB",
+  "location": {
+    "venue_id": 3779,
+    "name": "Manning Field at John L. Guidry Stadium",
+    "city": "Thibodaux",
+    "state": "LA",
+    "zip": "70301",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 29.7867254,
+    "longitude": -90.80455,
+    "elevation": "3.23726368",
+    "capacity": 10500,
+    "year_constructed": 1972,
+    "grass": false,
+    "dome": false
+  }
+}

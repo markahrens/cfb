@@ -1,0 +1,31 @@
+{
+  "id": 148,
+  "school": "Montana Tech",
+  "mascot": "Orediggers",
+  "abbreviation": "MAI",
+  "alt_name1": null,
+  "alt_name2": "MAI",
+  "alt_name3": "Montana Tech",
+  "conference": null,
+  "classification": null,
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

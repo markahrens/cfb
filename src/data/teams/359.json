@@ -1,0 +1,34 @@
+{
+  "id": 359,
+  "school": "Otterbein",
+  "mascot": "Cardinals",
+  "abbreviation": "OTT",
+  "alt_name1": null,
+  "alt_name2": "OTT",
+  "alt_name3": "Otterbein",
+  "conference": "Ohio",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/359.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/359.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6101,
+    "name": "Memorial Stadium (Westerville, OH)",
+    "city": "Westerville",
+    "state": "OH",
+    "zip": "43081",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.126139,
+    "longitude": -82.9295287,
+    "elevation": null,
+    "capacity": 2400,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

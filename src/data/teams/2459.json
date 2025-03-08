@@ -1,0 +1,34 @@
+{
+  "id": 2459,
+  "school": "Northern Illinois",
+  "mascot": "Huskies",
+  "abbreviation": "NIU",
+  "alt_name1": null,
+  "alt_name2": "NIU",
+  "alt_name3": "N Illinois",
+  "conference": "Mid-American",
+  "classification": "fbs",
+  "color": "#F1122C",
+  "alt_color": "#cc0000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2459.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2459.png"
+  ],
+  "twitter": "@NIU_Football",
+  "location": {
+    "venue_id": 3764,
+    "name": "Huskie Stadium",
+    "city": "DeKalb",
+    "state": "IL",
+    "zip": "60115",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 41.9339586,
+    "longitude": -88.7778357,
+    "elevation": "267.4530029",
+    "capacity": 23595,
+    "year_constructed": 1965,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2393,
+  "school": "Middle Tennessee",
+  "mascot": "Blue Raiders",
+  "abbreviation": "MTSU",
+  "alt_name1": "Middle Tennessee State",
+  "alt_name2": "MTSU",
+  "alt_name3": "MTSU",
+  "conference": "Conference USA",
+  "classification": "fbs",
+  "color": "#006db6",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2393.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2393.png"
+  ],
+  "twitter": "@MT_FB",
+  "location": {
+    "venue_id": 3725,
+    "name": "Johnny \"Red\" Floyd Stadium",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37132",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 35.8511463,
+    "longitude": -86.3681649,
+    "elevation": "191.7279816",
+    "capacity": 30788,
+    "year_constructed": 1933,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2079,
+  "school": "Bridgewater (VA)",
+  "mascot": "Eagles",
+  "abbreviation": "BRVA",
+  "alt_name1": null,
+  "alt_name2": "BRVA",
+  "alt_name3": "Bridgewater VA",
+  "conference": "Old Dominion",
+  "classification": "iii",
+  "color": "#990022",
+  "alt_color": "#8d724b",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2079.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2079.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5800,
+    "name": "Jopson Athletic Complex",
+    "city": "Bridgewater",
+    "state": "VA",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.3820655,
+    "longitude": -78.9766975,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

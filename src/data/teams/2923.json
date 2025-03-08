@@ -1,0 +1,34 @@
+{
+  "id": 2923,
+  "school": "Pomona Pitzer",
+  "mascot": "Sagehens",
+  "abbreviation": "POM",
+  "alt_name1": null,
+  "alt_name2": "POM",
+  "alt_name3": "Pomonapit",
+  "conference": "So. Cal.",
+  "classification": "iii",
+  "color": "#00549a",
+  "alt_color": "#f7941e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2923.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2923.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6103,
+    "name": "Merritt Field",
+    "city": "Claremont",
+    "state": "CA",
+    "zip": "91711",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.0966764,
+    "longitude": -117.7197785,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

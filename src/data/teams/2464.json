@@ -1,0 +1,34 @@
+{
+  "id": 2464,
+  "school": "Northern Arizona",
+  "mascot": "Lumberjacks",
+  "abbreviation": "NAU",
+  "alt_name1": null,
+  "alt_name2": "NAU",
+  "alt_name3": "N Arizona",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#003976",
+  "alt_color": "#1b3069",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2464.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2464.png"
+  ],
+  "twitter": "@NAU_Football",
+  "location": {
+    "venue_id": 2023,
+    "name": "Walkup Skydome",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "86001",
+    "country_code": "US",
+    "timezone": "America/Phoenix",
+    "latitude": 35.1805483,
+    "longitude": -111.6528377,
+    "elevation": "2097.884766",
+    "capacity": 10000,
+    "year_constructed": 1977,
+    "grass": false,
+    "dome": true
+  }
+}

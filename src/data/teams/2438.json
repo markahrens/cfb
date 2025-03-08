@@ -1,0 +1,34 @@
+{
+  "id": 2438,
+  "school": "Nebraska-Kearney",
+  "mascot": "Lopers",
+  "abbreviation": "NEKR",
+  "alt_name1": null,
+  "alt_name2": "NEKR",
+  "alt_name3": "Neb Kearney",
+  "conference": "Mid America",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2438.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2438.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6057,
+    "name": "Ron & Carol Cope Stadium at Foster Field",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68847",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.4906216,
+    "longitude": -98.9472344,
+    "elevation": null,
+    "capacity": 5250,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

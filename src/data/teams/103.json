@@ -1,0 +1,34 @@
+{
+  "id": 103,
+  "school": "Boston College",
+  "mascot": "Eagles",
+  "abbreviation": "BC",
+  "alt_name1": null,
+  "alt_name2": "BC",
+  "alt_name3": "Boston College",
+  "conference": "ACC",
+  "classification": "fbs",
+  "color": "#8c2232",
+  "alt_color": "#dbcca6",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/103.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/103.png"
+  ],
+  "twitter": "@BCFootball",
+  "location": {
+    "venue_id": 3615,
+    "name": "Alumni Stadium (Chestnut Hill, MA)",
+    "city": "Chestnut Hill",
+    "state": "MA",
+    "zip": "2467 ",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 42.335104,
+    "longitude": -71.1664413,
+    "elevation": "39.82634354",
+    "capacity": 44500,
+    "year_constructed": 1957,
+    "grass": false,
+    "dome": false
+  }
+}

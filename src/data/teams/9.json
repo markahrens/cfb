@@ -1,0 +1,34 @@
+{
+  "id": 9,
+  "school": "Arizona State",
+  "mascot": "Sun Devils",
+  "abbreviation": "ASU",
+  "alt_name1": null,
+  "alt_name2": "ASU",
+  "alt_name3": "Arizona St",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#8e0c3a",
+  "alt_color": "#ffc72c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/9.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/9.png"
+  ],
+  "twitter": "@ASUFootball",
+  "location": {
+    "venue_id": 3947,
+    "name": "Mountain America Stadium",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85287",
+    "country_code": "US",
+    "timezone": "America/Phoenix",
+    "latitude": 33.4264471,
+    "longitude": -111.9325005,
+    "elevation": "360.1569519",
+    "capacity": 65870,
+    "year_constructed": 1958,
+    "grass": true,
+    "dome": false
+  }
+}

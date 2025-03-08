@@ -1,0 +1,31 @@
+{
+  "id": 129469,
+  "school": "Anderson (SC)",
+  "mascot": "Trojans",
+  "abbreviation": "AND",
+  "alt_name1": null,
+  "alt_name2": "AND",
+  "alt_name3": "Anderson (SC)",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Spero Financial Field",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621",
+    "country_code": null,
+    "timezone": null,
+    "latitude": 34.510545,
+    "longitude": -82.6334659,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

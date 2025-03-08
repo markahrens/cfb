@@ -1,0 +1,34 @@
+{
+  "id": 559,
+  "school": "University of Mary",
+  "mascot": "Marauders",
+  "abbreviation": "MARY",
+  "alt_name1": null,
+  "alt_name2": "MARY",
+  "alt_name3": "Univ of Mary",
+  "conference": "Northern Sun",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/559.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/559.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3638,
+    "name": "MDU Resources Community Bowl",
+    "city": "Bismarck",
+    "state": "ND",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 46.808327,
+    "longitude": -100.783739,
+    "elevation": null,
+    "capacity": 6000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

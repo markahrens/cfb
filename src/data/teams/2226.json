@@ -1,0 +1,34 @@
+{
+  "id": 2226,
+  "school": "Florida Atlantic",
+  "mascot": "Owls",
+  "abbreviation": "FAU",
+  "alt_name1": null,
+  "alt_name2": "FAU",
+  "alt_name3": "FAU",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#00447c",
+  "alt_color": "#d31245",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2226.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2226.png"
+  ],
+  "twitter": "@FAUFootball",
+  "location": {
+    "venue_id": 3715,
+    "name": "FAU Stadium",
+    "city": "Boca Raton",
+    "state": "FL",
+    "zip": "33499",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 26.3763763,
+    "longitude": -80.1015759,
+    "elevation": "3.613628864",
+    "capacity": 29419,
+    "year_constructed": 2011,
+    "grass": false,
+    "dome": false
+  }
+}

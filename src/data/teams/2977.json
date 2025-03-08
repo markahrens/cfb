@@ -1,0 +1,34 @@
+{
+  "id": 2977,
+  "school": "Trinity (CT)",
+  "mascot": "Bantams",
+  "abbreviation": "TRI",
+  "alt_name1": null,
+  "alt_name2": "TRI",
+  "alt_name3": "Trinity CT",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#032d58",
+  "alt_color": "#fecd01",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2977.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2977.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6131,
+    "name": "Jessee/Miller Field",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06103",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.764582,
+    "longitude": -72.6908547,
+    "elevation": null,
+    "capacity": 5500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

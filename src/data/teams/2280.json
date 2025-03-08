@@ -1,0 +1,34 @@
+{
+  "id": 2280,
+  "school": "Husson",
+  "mascot": "Eagles",
+  "abbreviation": "HUSSON",
+  "alt_name1": null,
+  "alt_name2": "HUSSON",
+  "alt_name3": "Husson",
+  "conference": "Commonwealth Coast",
+  "classification": "iii",
+  "color": "#004b44",
+  "alt_color": "#b09a5f",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2280.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2280.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3995,
+    "name": "Dr. John W. Winkin Sports Complex",
+    "city": "Bangor",
+    "state": "ME",
+    "zip": "04401",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.8011821,
+    "longitude": -68.7778138,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

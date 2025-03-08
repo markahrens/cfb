@@ -1,0 +1,31 @@
+{
+  "id": 127991,
+  "school": "Roosevelt",
+  "mascot": "Lakers",
+  "abbreviation": "ROO",
+  "alt_name1": null,
+  "alt_name2": "ROO",
+  "alt_name3": "Roosevelt",
+  "conference": "GLIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Morris Field",
+    "city": "Arlington Heights",
+    "state": "IL",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.04525,
+    "longitude": -87.97075,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

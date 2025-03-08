@@ -1,0 +1,34 @@
+{
+  "id": 16,
+  "school": "Sacramento State",
+  "mascot": "Hornets",
+  "abbreviation": "SAC",
+  "alt_name1": "Cal State Sacramento",
+  "alt_name2": "SAC",
+  "alt_name3": "Sacramento St",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#00573C",
+  "alt_color": "#cdb97d",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/16.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/16.png"
+  ],
+  "twitter": "@SacHornetsFB",
+  "location": {
+    "venue_id": 3757,
+    "name": "Hornet Stadium",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95819",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 38.5556718,
+    "longitude": -121.4229607,
+    "elevation": "12.30015659",
+    "capacity": 21195,
+    "year_constructed": 1969,
+    "grass": false,
+    "dome": false
+  }
+}

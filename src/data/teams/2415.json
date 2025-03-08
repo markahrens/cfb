@@ -1,0 +1,34 @@
+{
+  "id": 2415,
+  "school": "Morgan State",
+  "mascot": "Bears",
+  "abbreviation": "MORG",
+  "alt_name1": null,
+  "alt_name2": "MORG",
+  "alt_name3": "Morgan St",
+  "conference": "MEAC",
+  "classification": "fcs",
+  "color": "#014786",
+  "alt_color": "#f47937",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2415.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2415.png"
+  ],
+  "twitter": "@MorganStateFB",
+  "location": {
+    "venue_id": 3762,
+    "name": "Hughes Stadium",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "80521",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.3439778,
+    "longitude": -76.5829573,
+    "elevation": "67.05336761",
+    "capacity": 10000,
+    "year_constructed": 1949,
+    "grass": false,
+    "dome": false
+  }
+}

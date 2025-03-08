@@ -1,0 +1,34 @@
+{
+  "id": 2022,
+  "school": "American International",
+  "mascot": "Yellow Jackets",
+  "abbreviation": "AIC",
+  "alt_name1": null,
+  "alt_name2": "AIC",
+  "alt_name3": "American Int'l",
+  "conference": "Northeast 10",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2022.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2022.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5868,
+    "name": "Ronald J. Abdow Field",
+    "city": "Springfield",
+    "state": "MA",
+    "zip": "56087",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.1018764,
+    "longitude": -72.5886727,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

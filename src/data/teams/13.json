@@ -1,0 +1,34 @@
+{
+  "id": 13,
+  "school": "Cal Poly",
+  "mascot": "Mustangs",
+  "abbreviation": "CP",
+  "alt_name1": null,
+  "alt_name2": "CP",
+  "alt_name3": "Cal Poly",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#1E4D2B",
+  "alt_color": "#eed897",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/13.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/13.png"
+  ],
+  "twitter": "@CalPolyFootball",
+  "location": {
+    "venue_id": 1027,
+    "name": "Alex G. Spanos Stadium",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93405",
+    "country_code": "US",
+    "timezone": "America/Los_Angeles",
+    "latitude": 35.2984123,
+    "longitude": -120.6650005,
+    "elevation": "84.6832428",
+    "capacity": 11075,
+    "year_constructed": 2006,
+    "grass": true,
+    "dome": false
+  }
+}

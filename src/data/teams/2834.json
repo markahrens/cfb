@@ -1,0 +1,34 @@
+{
+  "id": 2834,
+  "school": "Sul Ross State",
+  "mascot": "Lobos",
+  "abbreviation": "SROS",
+  "alt_name1": null,
+  "alt_name2": "SROS",
+  "alt_name3": "Sul Ross State",
+  "conference": "Lone Star",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2834.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2834.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6123,
+    "name": "Jackson Field",
+    "city": "Alpine",
+    "state": "TX",
+    "zip": "79830",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 30.3573802,
+    "longitude": -103.6609367,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

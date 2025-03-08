@@ -1,0 +1,34 @@
+{
+  "id": 2043,
+  "school": "Augustana University (SD)",
+  "mascot": "Vikings",
+  "abbreviation": "AUSD",
+  "alt_name1": null,
+  "alt_name2": "AUSD",
+  "alt_name3": "Augustana (SD)",
+  "conference": "Northern Sun",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2043.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2043.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5872,
+    "name": "Kirkeby-Over Stadium",
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57117",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 43.5488256,
+    "longitude": -96.7307737,
+    "elevation": null,
+    "capacity": 6500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

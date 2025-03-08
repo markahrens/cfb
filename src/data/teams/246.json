@@ -1,0 +1,34 @@
+{
+  "id": 246,
+  "school": "Juniata College",
+  "mascot": "Eagles",
+  "abbreviation": "JUN",
+  "alt_name1": null,
+  "alt_name2": "JUN",
+  "alt_name3": "Juniata",
+  "conference": "Landmark Conference",
+  "classification": "iii",
+  "color": "#031832",
+  "alt_color": "#ac9c66",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/246.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/246.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5902,
+    "name": "Knox Stadium",
+    "city": "Huntingdon",
+    "state": "PA",
+    "zip": "16652",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.4847959,
+    "longitude": -78.0102813,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

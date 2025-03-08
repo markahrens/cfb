@@ -1,0 +1,34 @@
+{
+  "id": 290,
+  "school": "Georgia Southern",
+  "mascot": "Eagles",
+  "abbreviation": "GASO",
+  "alt_name1": null,
+  "alt_name2": "GASO",
+  "alt_name3": "GA Southern",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#003775",
+  "alt_color": "#f0f0f0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/290.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/290.png"
+  ],
+  "twitter": "@GSAthletics_FB",
+  "location": {
+    "venue_id": 3608,
+    "name": "Allen E. Paulson Stadium",
+    "city": "Statesboro",
+    "state": "GA",
+    "zip": "30460",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 32.4122471,
+    "longitude": -81.7849296,
+    "elevation": "61.25376892",
+    "capacity": 25000,
+    "year_constructed": 1984,
+    "grass": false,
+    "dome": false
+  }
+}

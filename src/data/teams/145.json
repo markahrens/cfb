@@ -1,0 +1,34 @@
+{
+  "id": 145,
+  "school": "Ole Miss",
+  "mascot": "Rebels",
+  "abbreviation": "MISS",
+  "alt_name1": null,
+  "alt_name2": "MISS",
+  "alt_name3": "Ole Miss",
+  "conference": "SEC",
+  "classification": "fbs",
+  "color": "#13294b",
+  "alt_color": "#c8102e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/145.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/145.png"
+  ],
+  "twitter": "@OleMissFB",
+  "location": {
+    "venue_id": 3974,
+    "name": "Vaught-Hemingway Stadium",
+    "city": "Oxford",
+    "state": "MS",
+    "zip": "38677",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 34.3619837,
+    "longitude": -89.5342076,
+    "elevation": "146.8517151",
+    "capacity": 64038,
+    "year_constructed": 1915,
+    "grass": true,
+    "dome": false
+  }
+}

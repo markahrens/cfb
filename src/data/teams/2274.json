@@ -1,0 +1,34 @@
+{
+  "id": 2274,
+  "school": "Hiram College",
+  "mascot": "Terriers",
+  "abbreviation": "HIRAM",
+  "alt_name1": null,
+  "alt_name2": "HIRAM",
+  "alt_name3": "Hiram",
+  "conference": "North Coast",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2274.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2274.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5855,
+    "name": "Charles A. Henry Field",
+    "city": "Hiram",
+    "state": "OH",
+    "zip": "44234",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.312555,
+    "longitude": -81.14371,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

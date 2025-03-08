@@ -1,0 +1,34 @@
+{
+  "id": 2986,
+  "school": "Fairmont State",
+  "mascot": "Falcons",
+  "abbreviation": "FAIRST",
+  "alt_name1": null,
+  "alt_name2": "FAIRST",
+  "alt_name3": "Fairmnt St",
+  "conference": "Mountain East",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2986.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2986.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5943,
+    "name": "Duvall-Rosier Field",
+    "city": "Fairmont",
+    "state": "WV",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.4850848,
+    "longitude": -80.1425781,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

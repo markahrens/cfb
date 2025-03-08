@@ -1,0 +1,34 @@
+{
+  "id": 2802,
+  "school": "Bethel (MN)",
+  "mascot": "Royals",
+  "abbreviation": "BET",
+  "alt_name1": null,
+  "alt_name2": "BET",
+  "alt_name3": "Bethel (MN)",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": "#002d62",
+  "alt_color": "#b59859",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2802.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2802.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5804,
+    "name": "Royal Stadium",
+    "city": "Arden Hills",
+    "state": "MN",
+    "zip": "55126",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 45.0761409,
+    "longitude": -93.1666945,
+    "elevation": null,
+    "capacity": 8000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

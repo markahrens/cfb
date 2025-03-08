@@ -1,0 +1,34 @@
+{
+  "id": 2553,
+  "school": "Sewanee",
+  "mascot": "Tigers",
+  "abbreviation": "SEWAN",
+  "alt_name1": "Sewanee",
+  "alt_name2": "SEWAN",
+  "alt_name3": "Sewanee",
+  "conference": "Southern Athletic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2553.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2553.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3823,
+    "name": "Hardee-McGee Field",
+    "city": "Sewanee",
+    "state": "TN",
+    "zip": "37383",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.200644,
+    "longitude": -85.9195236852273,
+    "elevation": null,
+    "capacity": 3000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

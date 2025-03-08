@@ -1,0 +1,34 @@
+{
+  "id": 2354,
+  "school": "Lycoming",
+  "mascot": "Warriors",
+  "abbreviation": "LYCOMING",
+  "alt_name1": null,
+  "alt_name2": "LYCOMING",
+  "alt_name3": "Lycoming",
+  "conference": "Landmark Conference",
+  "classification": "iii",
+  "color": "#15283f",
+  "alt_color": "#eaa22e",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2354.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2354.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5925,
+    "name": "David Person Field",
+    "city": "Williamsport",
+    "state": "PA",
+    "zip": "17701",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.2493292,
+    "longitude": -77.0027671,
+    "elevation": null,
+    "capacity": 3700,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

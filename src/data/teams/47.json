@@ -1,0 +1,34 @@
+{
+  "id": 47,
+  "school": "Howard",
+  "mascot": "Bison",
+  "abbreviation": "HOW",
+  "alt_name1": null,
+  "alt_name2": "HOW",
+  "alt_name3": "Howard",
+  "conference": "MEAC",
+  "classification": "fcs",
+  "color": "#003a63",
+  "alt_color": "#e51937",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/47.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/47.png"
+  ],
+  "twitter": "@HUBisonFootball",
+  "location": {
+    "venue_id": 3990,
+    "name": "William H. Greene Stadium",
+    "city": "Washington",
+    "state": "DC",
+    "zip": "20059",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 38.925487,
+    "longitude": -77.021047,
+    "elevation": "53.46718979",
+    "capacity": 10000,
+    "year_constructed": 1926,
+    "grass": false,
+    "dome": false
+  }
+}

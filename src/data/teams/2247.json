@@ -1,0 +1,34 @@
+{
+  "id": 2247,
+  "school": "Georgia State",
+  "mascot": "Panthers",
+  "abbreviation": "GAST",
+  "alt_name1": null,
+  "alt_name2": "GAST",
+  "alt_name3": "Georgia St",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#1e539a",
+  "alt_color": "#ebebeb",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2247.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2247.png"
+  ],
+  "twitter": "@GeorgiaStateFB",
+  "location": {
+    "venue_id": 4246,
+    "name": "Center Parc Stadium",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30315",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 33.735267,
+    "longitude": -84.389949,
+    "elevation": "287",
+    "capacity": 25000,
+    "year_constructed": 2017,
+    "grass": false,
+    "dome": false
+  }
+}

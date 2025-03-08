@@ -1,0 +1,34 @@
+{
+  "id": 171,
+  "school": "Columbia",
+  "mascot": "Lions",
+  "abbreviation": "COLU",
+  "alt_name1": null,
+  "alt_name2": "COLU",
+  "alt_name3": "Columbia",
+  "conference": "Ivy",
+  "classification": "fcs",
+  "color": "#174785",
+  "alt_color": "#004b85",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/171.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/171.png"
+  ],
+  "twitter": "@ColumbiaLionsFB",
+  "location": {
+    "venue_id": 3802,
+    "name": "Lawrence A. Wien Stadium",
+    "city": "Manhattan",
+    "state": "NY",
+    "zip": "10034",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.8732697,
+    "longitude": -73.9164594,
+    "elevation": "10.95070267",
+    "capacity": 17000,
+    "year_constructed": 1984,
+    "grass": false,
+    "dome": false
+  }
+}

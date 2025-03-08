@@ -1,0 +1,34 @@
+{
+  "id": 2304,
+  "school": "Johnson C Smith",
+  "mascot": "Golden Bulls",
+  "abbreviation": "JOH",
+  "alt_name1": "Johnson Smith",
+  "alt_name2": "JOH",
+  "alt_name3": "Jsn C Smth",
+  "conference": "CIAA",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2304.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2304.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6041,
+    "name": "Irwin Belk Complex",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28206",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.2272086,
+    "longitude": -80.8430827,
+    "elevation": null,
+    "capacity": 4500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

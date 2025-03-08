@@ -1,0 +1,34 @@
+{
+  "id": 389,
+  "school": "Upper Iowa University",
+  "mascot": "Peacocks",
+  "abbreviation": "UPPERIOWA",
+  "alt_name1": null,
+  "alt_name2": "UPPERIOWA",
+  "alt_name3": "Upper Iowa",
+  "conference": "Great Lakes",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/389.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/389.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6030,
+    "name": "Harms-Eischeid Stadium",
+    "city": "Fayette",
+    "state": "IA",
+    "zip": "52142",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.8420766,
+    "longitude": -91.850265,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

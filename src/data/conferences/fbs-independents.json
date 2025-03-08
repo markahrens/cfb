@@ -1,0 +1,20 @@
+{
+  "id": 18,
+  "name": "FBS Independents",
+  "shortName": "FBS Independents",
+  "abbreviation": "Ind",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "113",
+      "joined": 2018
+    },
+    {
+      "id": "41",
+      "joined": 2018
+    },
+    {
+      "id": "87",
+      "joined": 2018
+    }]
+}

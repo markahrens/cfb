@@ -1,0 +1,34 @@
+{
+  "id": 2134,
+  "school": "Clarion",
+  "mascot": "Golden Eagles",
+  "abbreviation": "CLARION",
+  "alt_name1": null,
+  "alt_name2": "CLARION",
+  "alt_name3": "Clarion",
+  "conference": "Pennsylvania State Athletic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2134.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2134.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4437,
+    "name": "Memorial Stadium (Clarion, PA)",
+    "city": "Clarion",
+    "state": "PA",
+    "zip": "16214",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.2148975,
+    "longitude": -79.3857047,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

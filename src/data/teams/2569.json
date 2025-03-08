@@ -1,0 +1,34 @@
+{
+  "id": 2569,
+  "school": "South Carolina State",
+  "mascot": "Bulldogs",
+  "abbreviation": "SCST",
+  "alt_name1": null,
+  "alt_name2": "SCST",
+  "alt_name3": "SC State",
+  "conference": "MEAC",
+  "classification": "fcs",
+  "color": "#7d1315",
+  "alt_color": "#104897",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2569.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2569.png"
+  ],
+  "twitter": "@SCState_FB",
+  "location": {
+    "venue_id": 3864,
+    "name": "Oliver C. Dawson Stadium",
+    "city": "Orangeburg",
+    "state": "SC",
+    "zip": "29115",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 33.4986313,
+    "longitude": -80.8446857,
+    "elevation": "67.29846191",
+    "capacity": 22000,
+    "year_constructed": 1955,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 110,
+  "school": "Mass Maritime",
+  "mascot": "Buccaneers",
+  "abbreviation": "MAMARI",
+  "alt_name1": null,
+  "alt_name2": "MAMARI",
+  "alt_name3": "MA Maritme",
+  "conference": "MSCAC",
+  "classification": "iii",
+  "color": "#212c62",
+  "alt_color": "#fed523",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/110.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/110.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5940,
+    "name": "Clean Harbors Stadium",
+    "city": "Buzzards Bay",
+    "state": "MA",
+    "zip": "02532",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.745383,
+    "longitude": -70.618087,
+    "elevation": null,
+    "capacity": 2300,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

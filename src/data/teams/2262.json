@@ -1,0 +1,34 @@
+{
+  "id": 2262,
+  "school": "Hanover College",
+  "mascot": "Panthers",
+  "abbreviation": "HAN",
+  "alt_name1": null,
+  "alt_name2": "HAN",
+  "alt_name3": "Hanover",
+  "conference": "Heartland",
+  "classification": "iii",
+  "color": "#0b486d",
+  "alt_color": "#990000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2262.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2262.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3614,
+    "name": "Alumni Stadium (IN)",
+    "city": "Hanover",
+    "state": "IN",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.7142263,
+    "longitude": -85.4735707,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

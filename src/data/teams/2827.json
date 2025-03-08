@@ -1,0 +1,34 @@
+{
+  "id": 2827,
+  "school": "Rowan",
+  "mascot": "Profs",
+  "abbreviation": "ROW",
+  "alt_name1": null,
+  "alt_name2": "ROW",
+  "alt_name3": "Rowan",
+  "conference": "New Jersey",
+  "classification": "iii",
+  "color": "#571b04",
+  "alt_color": "#ffcf06",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2827.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2827.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6112,
+    "name": "Richard Wackar Stadium",
+    "city": "Glassboro",
+    "state": "NJ",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.7027677,
+    "longitude": -75.1119434,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

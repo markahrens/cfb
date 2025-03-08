@@ -1,0 +1,34 @@
+{
+  "id": 2233,
+  "school": "Franklin",
+  "mascot": "Grizzlies",
+  "abbreviation": "FRANKLIN",
+  "alt_name1": null,
+  "alt_name2": "FRANKLIN",
+  "alt_name3": "Franklin",
+  "conference": "Heartland",
+  "classification": "iii",
+  "color": "#1b295b",
+  "alt_color": "#fdd106",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2233.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2233.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3716,
+    "name": "Stewart \"\"Red\"\" Faught Stadium",
+    "city": "Franklin",
+    "state": "IN",
+    "zip": "92620",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.4770283,
+    "longitude": -86.0458395,
+    "elevation": "222.7",
+    "capacity": 4000,
+    "year_constructed": 1999,
+    "grass": null,
+    "dome": false
+  }
+}

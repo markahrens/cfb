@@ -1,0 +1,34 @@
+{
+  "id": 276,
+  "school": "Marshall",
+  "mascot": "Thundering Herd",
+  "abbreviation": "MRSH",
+  "alt_name1": null,
+  "alt_name2": "MRSH",
+  "alt_name3": "Marshall",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#00ae42",
+  "alt_color": "#be854c",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/276.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/276.png"
+  ],
+  "twitter": "@HerdFB",
+  "location": {
+    "venue_id": 3775,
+    "name": "Joan C. Edwards Stadium",
+    "city": "Huntington",
+    "state": "WV",
+    "zip": "25755",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 38.4247042,
+    "longitude": -82.4214412,
+    "elevation": "163.7328186",
+    "capacity": 38016,
+    "year_constructed": 1991,
+    "grass": false,
+    "dome": false
+  }
+}

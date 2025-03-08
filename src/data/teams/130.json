@@ -1,0 +1,34 @@
+{
+  "id": 130,
+  "school": "Michigan",
+  "mascot": "Wolverines",
+  "abbreviation": "MICH",
+  "alt_name1": null,
+  "alt_name2": "MICH",
+  "alt_name3": "Michigan",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#00274c",
+  "alt_color": "#ffcb05",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/130.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/130.png"
+  ],
+  "twitter": "@UMichFootball",
+  "location": {
+    "venue_id": 3558,
+    "name": "Michigan Stadium",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48109",
+    "country_code": "US",
+    "timezone": "America/Detroit",
+    "latitude": 42.2658365,
+    "longitude": -83.7486956,
+    "elevation": "255.5500031",
+    "capacity": 107601,
+    "year_constructed": 1927,
+    "grass": false,
+    "dome": false
+  }
+}

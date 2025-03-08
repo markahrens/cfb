@@ -1,0 +1,34 @@
+{
+  "id": 2016,
+  "school": "Alcorn State",
+  "mascot": "Braves",
+  "abbreviation": "ALCN",
+  "alt_name1": "Alcorn",
+  "alt_name2": "ALCN",
+  "alt_name3": "Alcorn St",
+  "conference": "SWAC",
+  "classification": "fcs",
+  "color": "#4b0058",
+  "alt_color": "#46166a",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2016.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2016.png"
+  ],
+  "twitter": "@BravesSports",
+  "location": {
+    "venue_id": 3771,
+    "name": "Jack Spinks Stadium",
+    "city": "Lorman",
+    "state": "MS",
+    "zip": "39096",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 31.873621,
+    "longitude": -91.13488,
+    "elevation": "72.25324249",
+    "capacity": 22500,
+    "year_constructed": 1992,
+    "grass": false,
+    "dome": false
+  }
+}

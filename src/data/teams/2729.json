@@ -1,0 +1,34 @@
+{
+  "id": 2729,
+  "school": "William & Mary",
+  "mascot": "Tribe",
+  "abbreviation": "W&M",
+  "alt_name1": null,
+  "alt_name2": "W&M",
+  "alt_name3": "William & Mary",
+  "conference": "CAA",
+  "classification": "fcs",
+  "color": "#103217",
+  "alt_color": "#f6b220",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2729.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2729.png"
+  ],
+  "twitter": "@WMTribeFootball",
+  "location": {
+    "venue_id": 3998,
+    "name": "Zable Stadium",
+    "city": "Williamsburg",
+    "state": "VA",
+    "zip": "23186",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 37.2730996,
+    "longitude": -76.7137202,
+    "elevation": "26.07615852",
+    "capacity": 12400,
+    "year_constructed": 1935,
+    "grass": false,
+    "dome": false
+  }
+}

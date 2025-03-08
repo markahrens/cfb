@@ -1,0 +1,31 @@
+{
+  "id": 110438,
+  "school": "Dean College",
+  "mascot": "Bulldogs",
+  "abbreviation": "DEA",
+  "alt_name1": null,
+  "alt_name2": "DEA",
+  "alt_name3": "Dean College",
+  "conference": "ECFC",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 5831,
+    "name": "Dale Lippert Field",
+    "city": "Franklin",
+    "state": "MA",
+    "zip": "03235",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.0967029,
+    "longitude": -71.4049342,
+    "elevation": null,
+    "capacity": 1500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

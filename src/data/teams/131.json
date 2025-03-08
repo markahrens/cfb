@@ -1,0 +1,34 @@
+{
+  "id": 131,
+  "school": "Wayne State (MI)",
+  "mascot": "Warriors",
+  "abbreviation": "WAY",
+  "alt_name1": null,
+  "alt_name2": "WAY",
+  "alt_name3": "Wayne State MI",
+  "conference": "GLIAC",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/131.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/131.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3600,
+    "name": "Tom Adams Field",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48207",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.3315509,
+    "longitude": -83.0466403,
+    "elevation": null,
+    "capacity": 6439,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

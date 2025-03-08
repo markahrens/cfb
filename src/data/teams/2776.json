@@ -1,0 +1,34 @@
+{
+  "id": 2776,
+  "school": "Salve Regina",
+  "mascot": "Seahawks",
+  "abbreviation": "SALVE",
+  "alt_name1": null,
+  "alt_name2": "SALVE",
+  "alt_name3": "Salvregina",
+  "conference": "NEWMAC",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2776.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2776.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6115,
+    "name": "Toppa Field",
+    "city": "Newport",
+    "state": "RI",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.4899827,
+    "longitude": -71.3137707,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

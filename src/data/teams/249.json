@@ -1,0 +1,34 @@
+{
+  "id": 249,
+  "school": "North Texas",
+  "mascot": "Mean Green",
+  "abbreviation": "UNT",
+  "alt_name1": null,
+  "alt_name2": "UNT",
+  "alt_name3": "North Texas",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#00853E",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/249.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/249.png"
+  ],
+  "twitter": "@MeanGreenFB",
+  "location": {
+    "venue_id": 3825,
+    "name": "DATCU Stadium",
+    "city": "Denton",
+    "state": "TX",
+    "zip": "76210",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 33.203899,
+    "longitude": -97.159245,
+    "elevation": "198.6871948",
+    "capacity": 30850,
+    "year_constructed": 2011,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 97,
+  "school": "Louisville",
+  "mascot": "Cardinals",
+  "abbreviation": "LOU",
+  "alt_name1": null,
+  "alt_name2": "LOU",
+  "alt_name3": "Louisville",
+  "conference": "ACC",
+  "classification": "fbs",
+  "color": "#c9001f",
+  "alt_color": "#000000",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/97.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/97.png"
+  ],
+  "twitter": "@LouisvilleFB",
+  "location": {
+    "venue_id": 3873,
+    "name": "L&N Federal Credit Union Stadium",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40292",
+    "country_code": "US",
+    "timezone": "America/Kentucky/Louisville",
+    "latitude": 38.2057621,
+    "longitude": -85.7588141,
+    "elevation": "138.5615997",
+    "capacity": 60000,
+    "year_constructed": 1998,
+    "grass": false,
+    "dome": false
+  }
+}

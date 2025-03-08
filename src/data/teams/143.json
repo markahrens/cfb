@@ -1,0 +1,34 @@
+{
+  "id": 143,
+  "school": "Washington University (St. Louis)",
+  "mascot": "Bears",
+  "abbreviation": "WSTL",
+  "alt_name1": null,
+  "alt_name2": "WSTL",
+  "alt_name3": "Wash St Louis",
+  "conference": "CCIW",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/143.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/143.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5897,
+    "name": "Francis Field (MO)",
+    "city": "Saint Louis",
+    "state": "MO",
+    "zip": "63103",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.6264256,
+    "longitude": -90.1995853,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

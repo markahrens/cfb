@@ -1,0 +1,34 @@
+{
+  "id": 2460,
+  "school": "Northern Iowa",
+  "mascot": "Panthers",
+  "abbreviation": "UNI",
+  "alt_name1": null,
+  "alt_name2": "UNI",
+  "alt_name3": "Northern Iowa",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#473282",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2460.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2460.png"
+  ],
+  "twitter": "@UNIFootball",
+  "location": {
+    "venue_id": 3967,
+    "name": "UNI-Dome",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "zip": "50614",
+    "country_code": "US",
+    "timezone": "America/Chicago",
+    "latitude": 42.5156111,
+    "longitude": -92.4672307,
+    "elevation": "281.8959656",
+    "capacity": 16324,
+    "year_constructed": 1976,
+    "grass": false,
+    "dome": true
+  }
+}

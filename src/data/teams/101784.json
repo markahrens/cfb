@@ -1,0 +1,31 @@
+{
+  "id": 101784,
+  "school": "Erskine",
+  "mascot": "Flying Fleet",
+  "abbreviation": "ERSKINE",
+  "alt_name1": null,
+  "alt_name2": "ERSKINE",
+  "alt_name3": "ERSKINE",
+  "conference": "Gulf South",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 7076,
+    "name": "J.W. Babb Stadium",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29153",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 34.1954001,
+    "longitude": -82.1617883,
+    "elevation": null,
+    "capacity": 4000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

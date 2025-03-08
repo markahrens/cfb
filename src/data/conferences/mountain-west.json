@@ -1,0 +1,56 @@
+{
+  "id": 17,
+  "name": "Mountain West",
+  "shortName": "Mountain West Conference",
+  "abbreviation": "MWC",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "167",
+      "joined": 2018
+    },
+    {
+      "id": "2005",
+      "joined": 2018
+    },
+    {
+      "id": "21",
+      "joined": 2018
+    },
+    {
+      "id": "23",
+      "joined": 2018
+    },
+    {
+      "id": "2439",
+      "joined": 2018
+    },
+    {
+      "id": "2440",
+      "joined": 2018
+    },
+    {
+      "id": "2751",
+      "joined": 2018
+    },
+    {
+      "id": "278",
+      "joined": 2018
+    },
+    {
+      "id": "328",
+      "joined": 2018
+    },
+    {
+      "id": "36",
+      "joined": 2018
+    },
+    {
+      "id": "62",
+      "joined": 2018
+    },
+    {
+      "id": "68",
+      "joined": 2018
+    }]
+}

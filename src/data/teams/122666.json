@@ -1,0 +1,31 @@
+{
+  "id": 122666,
+  "school": "Wilson",
+  "mascot": "Bulldogs",
+  "abbreviation": "BARTON",
+  "alt_name1": null,
+  "alt_name2": "BARTON",
+  "alt_name3": "BARTON",
+  "conference": "South Atlantic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": 7075,
+    "name": "Electric Supply Company Field",
+    "city": "Wilson",
+    "state": "NC",
+    "zip": "27893",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 35.7212689,
+    "longitude": -77.9155395,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

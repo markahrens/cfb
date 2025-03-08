@@ -1,0 +1,17 @@
+{
+  "id": 9,
+  "name": "Pac-12",
+  "shortName": "Pac-12 Conference",
+  "abbreviation": "PAC",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "204",
+      "joined": 2018
+    },
+    {
+      "id": "265",
+      "joined": 2016
+    }
+  ]
+}

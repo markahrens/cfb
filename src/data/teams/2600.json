@@ -1,0 +1,34 @@
+{
+  "id": 2600,
+  "school": "Saint John's (MN)",
+  "mascot": "Johnnies",
+  "abbreviation": "ST. J",
+  "alt_name1": "St. John's",
+  "alt_name2": "ST. J",
+  "alt_name3": "St John's (MN)",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": "#ce153e",
+  "alt_color": "#7baed5",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2600.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2600.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5117,
+    "name": "Clemens Stadium",
+    "city": "Collegeville",
+    "state": "MN",
+    "zip": "56321",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 45.5944117,
+    "longitude": -94.3622868,
+    "elevation": null,
+    "capacity": 7482,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2559,
+  "school": "Shippensburg",
+  "mascot": "Raiders",
+  "abbreviation": "SHPSBRG",
+  "alt_name1": null,
+  "alt_name2": "SHPSBRG",
+  "alt_name3": "Shipnsburg",
+  "conference": "Pennsylvania State Athletic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2559.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2559.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4429,
+    "name": "Seth Grove Stadium",
+    "city": "Shippensburg",
+    "state": "PA",
+    "zip": "17257",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.0507198,
+    "longitude": -77.5205485,
+    "elevation": null,
+    "capacity": 7700,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

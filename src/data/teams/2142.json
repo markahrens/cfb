@@ -1,0 +1,34 @@
+{
+  "id": 2142,
+  "school": "Colgate",
+  "mascot": "Raiders",
+  "abbreviation": "COLG",
+  "alt_name1": null,
+  "alt_name2": "COLG",
+  "alt_name3": "Colgate",
+  "conference": "Patriot",
+  "classification": "fcs",
+  "color": "#821019",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2142.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2142.png"
+  ],
+  "twitter": "@ColgateFB",
+  "location": {
+    "venue_id": 3617,
+    "name": "Andy Kerr Stadium",
+    "city": "Hamilton",
+    "state": "NY",
+    "zip": "13346",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 42.8168991,
+    "longitude": -75.5452721,
+    "elevation": "337.1443787",
+    "capacity": 10221,
+    "year_constructed": 1966,
+    "grass": false,
+    "dome": false
+  }
+}

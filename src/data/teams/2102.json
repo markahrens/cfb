@@ -1,0 +1,34 @@
+{
+  "id": 2102,
+  "school": "Carnegie Mellon",
+  "mascot": "Tartans",
+  "abbreviation": "CARNGMELL",
+  "alt_name1": null,
+  "alt_name2": "CARNGMELL",
+  "alt_name3": "Carng Mell",
+  "conference": "Presidents' Athletics",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2102.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2102.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5814,
+    "name": "Gesling Stadium",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15219",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.4416941,
+    "longitude": -79.9900861,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

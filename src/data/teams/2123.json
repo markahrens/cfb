@@ -1,0 +1,34 @@
+{
+  "id": 2123,
+  "school": "Chadron St",
+  "mascot": "Eagles",
+  "abbreviation": "CHADRONST",
+  "alt_name1": null,
+  "alt_name2": "CHADRONST",
+  "alt_name3": "Chadron St",
+  "conference": "Rocky Mountain",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2123.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2123.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5880,
+    "name": "Elliott Field at Don Beebe Stadium",
+    "city": "Chadron",
+    "state": "NE",
+    "zip": "69337",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.8309807,
+    "longitude": -103.0003729,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

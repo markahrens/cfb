@@ -1,0 +1,34 @@
+{
+  "id": 124,
+  "school": "Augsburg",
+  "mascot": "Auggies",
+  "abbreviation": "AUG",
+  "alt_name1": null,
+  "alt_name2": "AUG",
+  "alt_name3": "Augsburg",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": "#74233d",
+  "alt_color": "#a9a9aa",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/124.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/124.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5795,
+    "name": "Edor Nelson Field",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55488",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.9772995,
+    "longitude": -93.2654692,
+    "elevation": null,
+    "capacity": 1400,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

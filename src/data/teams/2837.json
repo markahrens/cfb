@@ -1,0 +1,34 @@
+{
+  "id": 2837,
+  "school": "East Texas A&M",
+  "mascot": "Lions",
+  "abbreviation": "ETAM",
+  "alt_name1": "Texas A&M-Commerce",
+  "alt_name2": "ETAM",
+  "alt_name3": "East Texas A&M",
+  "conference": "Southland",
+  "classification": "fcs",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2837.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2837.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 4762,
+    "name": "Memorial Stadium (Commerce TX)",
+    "city": "Commerce",
+    "state": "TX",
+    "zip": "75428",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 33.2442615,
+    "longitude": -95.9006353,
+    "elevation": null,
+    "capacity": 11582,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

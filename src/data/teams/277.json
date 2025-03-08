@@ -1,0 +1,34 @@
+{
+  "id": 277,
+  "school": "West Virginia",
+  "mascot": "Mountaineers",
+  "abbreviation": "WVU",
+  "alt_name1": null,
+  "alt_name2": "WVU",
+  "alt_name3": "West Virginia",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#002855",
+  "alt_color": "#eaaa00",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/277.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/277.png"
+  ],
+  "twitter": "@WVUFootball",
+  "location": {
+    "venue_id": 3842,
+    "name": "Milan Puskar Stadium",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26507",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 39.6502744,
+    "longitude": -79.9551873,
+    "elevation": "327.409668",
+    "capacity": 60000,
+    "year_constructed": 1980,
+    "grass": false,
+    "dome": false
+  }
+}

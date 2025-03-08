@@ -1,0 +1,34 @@
+{
+  "id": 2214,
+  "school": "Emporia State University",
+  "mascot": "Hornets",
+  "abbreviation": "EMP",
+  "alt_name1": null,
+  "alt_name2": "EMP",
+  "alt_name3": "Emporia St",
+  "conference": "Mid America",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2214.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2214.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5942,
+    "name": "Francis G. Welch Stadium",
+    "city": "Emporia",
+    "state": "KS",
+    "zip": "66801",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.4040054,
+    "longitude": -96.181623,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

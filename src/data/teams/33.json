@@ -1,0 +1,34 @@
+{
+  "id": 33,
+  "school": "Colby College",
+  "mascot": "White Mules",
+  "abbreviation": "COLBY",
+  "alt_name1": null,
+  "alt_name2": "COLBY",
+  "alt_name3": "Colby",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#012778",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/33.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/33.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5689,
+    "name": "Seaverns Field At Harold Alfond Stadium",
+    "city": "Waterville",
+    "state": "ME",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.5520105,
+    "longitude": -69.6317121,
+    "elevation": null,
+    "capacity": 2000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

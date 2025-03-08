@@ -1,0 +1,34 @@
+{
+  "id": 133,
+  "school": "St. Olaf",
+  "mascot": "Oles",
+  "abbreviation": "STO",
+  "alt_name1": null,
+  "alt_name2": "STO",
+  "alt_name3": "St. Olaf",
+  "conference": "Minnesota",
+  "classification": "iii",
+  "color": null,
+  "alt_color": "#d18c29",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/133.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/133.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5813,
+    "name": "Klein Field at Manitou",
+    "city": "Northfield",
+    "state": "MN",
+    "zip": "55057",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.4582041,
+    "longitude": -93.161159,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

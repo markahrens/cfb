@@ -1,0 +1,34 @@
+{
+  "id": 12,
+  "school": "Arizona",
+  "mascot": "Wildcats",
+  "abbreviation": "ARIZ",
+  "alt_name1": null,
+  "alt_name2": "ARIZ",
+  "alt_name3": "Arizona",
+  "conference": "Big 12",
+  "classification": "fbs",
+  "color": "#0c234b",
+  "alt_color": "#ab0520",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/12.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/12.png"
+  ],
+  "twitter": "@ArizonaFBall",
+  "location": {
+    "venue_id": 3619,
+    "name": "Arizona Stadium",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85721",
+    "country_code": "US",
+    "timezone": "America/Phoenix",
+    "latitude": 32.2288054,
+    "longitude": -110.9488677,
+    "elevation": "742.1530151",
+    "capacity": 50782,
+    "year_constructed": 1928,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1,
+  "name": "ACC",
+  "shortName": "Atlantic Coast Conference",
+  "abbreviation": "ACC",
+  "classification": "fbs",
+  "current": [
+    {
+      "id": "103",
+      "joined": 2018
+    },
+    {
+      "id": "150",
+      "joined": 2018
+    },
+    {
+      "id": "152",
+      "joined": 2018
+    },
+    {
+      "id": "153",
+      "joined": 2018
+    },
+    {
+      "id": "154",
+      "joined": 2018
+    },
+    {
+      "id": "183",
+      "joined": 2018
+    },
+    {
+      "id": "221",
+      "joined": 2018
+    },
+    {
+      "id": "228",
+      "joined": 2018
+    },
+    {
+      "id": "2390",
+      "joined": 2018
+    },
+    {
+      "id": "24",
+      "joined": 2018
+    },
+    {
+      "id": "25",
+      "joined": 2018
+    },
+    {
+      "id": "2567",
+      "joined": 2018
+    },
+    {
+      "id": "258",
+      "joined": 2018
+    },
+    {
+      "id": "259",
+      "joined": 2018
+    },
+    {
+      "id": "52",
+      "joined": 2018
+    },
+    {
+      "id": "59",
+      "joined": 2018
+    },
+    {
+      "id": "97",
+      "joined": 2018
+    }
+  ]
+}

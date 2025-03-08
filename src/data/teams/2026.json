@@ -1,0 +1,34 @@
+{
+  "id": 2026,
+  "school": "App State",
+  "mascot": "Mountaineers",
+  "abbreviation": "APP",
+  "alt_name1": "Appalachian State",
+  "alt_name2": "APP",
+  "alt_name3": "App State",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#ffcc00",
+  "alt_color": "#222222",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2026.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2026.png"
+  ],
+  "twitter": "@AppState_FB",
+  "location": {
+    "venue_id": 3792,
+    "name": "Kidd Brewer Stadium",
+    "city": "Boone",
+    "state": "NC",
+    "zip": "28608",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 36.2114267,
+    "longitude": -81.6854278,
+    "elevation": "991.3414307",
+    "capacity": 30000,
+    "year_constructed": 1962,
+    "grass": false,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2458,
+  "school": "Northern Colorado",
+  "mascot": "Bears",
+  "abbreviation": "UNCO",
+  "alt_name1": null,
+  "alt_name2": "UNCO",
+  "alt_name3": "N Colorado",
+  "conference": "Big Sky",
+  "classification": "fcs",
+  "color": "#13558D",
+  "alt_color": "#ffc533",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2458.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2458.png"
+  ],
+  "twitter": "@UNCBearsFB",
+  "location": {
+    "venue_id": 3856,
+    "name": "Nottingham Field",
+    "city": "Greeley",
+    "state": "CO",
+    "zip": "80639",
+    "country_code": "US",
+    "timezone": "America/Denver",
+    "latitude": 40.403493,
+    "longitude": -104.705139,
+    "elevation": "1455.349976",
+    "capacity": 8500,
+    "year_constructed": 1995,
+    "grass": true,
+    "dome": false
+  }
+}

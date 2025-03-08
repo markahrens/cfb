@@ -1,0 +1,34 @@
+{
+  "id": 2045,
+  "school": "Austin",
+  "mascot": "'Roos",
+  "abbreviation": "AUS",
+  "alt_name1": null,
+  "alt_name2": "AUS",
+  "alt_name3": "Austin",
+  "conference": "Southern Collegiate Athletic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2045.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2045.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5798,
+    "name": "Jerry E. Apple Stadium",
+    "city": "Sherman",
+    "state": "TX",
+    "zip": "75090",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.2452294,
+    "longitude": -101.8858689,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

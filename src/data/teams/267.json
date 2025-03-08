@@ -1,0 +1,34 @@
+{
+  "id": 267,
+  "school": "LAKELAND",
+  "mascot": "Fires",
+  "abbreviation": "SEU",
+  "alt_name1": null,
+  "alt_name2": "SEU",
+  "alt_name3": "Southeastern",
+  "conference": null,
+  "classification": null,
+  "color": "#007dc3",
+  "alt_color": "#ffc423",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/267.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/267.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

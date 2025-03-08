@@ -1,0 +1,34 @@
+{
+  "id": 121,
+  "school": "Bates",
+  "mascot": "Bobcats",
+  "abbreviation": "BAT",
+  "alt_name1": "Bates",
+  "alt_name2": "BAT",
+  "alt_name3": "Bates",
+  "conference": "NESCAC",
+  "classification": "iii",
+  "color": "#a51e36",
+  "alt_color": "#b2b3b2",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/121.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/121.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 3733,
+    "name": "Garcelon Field",
+    "city": "Lewiston",
+    "state": "ME",
+    "zip": "04240",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 44.100351,
+    "longitude": -70.2147764,
+    "elevation": null,
+    "capacity": 3500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

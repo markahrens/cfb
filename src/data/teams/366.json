@@ -1,0 +1,34 @@
+{
+  "id": 366,
+  "school": "Ferrum",
+  "mascot": "Panthers",
+  "abbreviation": "FER",
+  "alt_name1": null,
+  "alt_name2": "FER",
+  "alt_name3": "Ferrum",
+  "conference": "Old Dominion",
+  "classification": "iii",
+  "color": null,
+  "alt_color": "#c0a656",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/366.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/366.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5843,
+    "name": "W.B. Adams Stadium",
+    "city": "Ferrum",
+    "state": "VA",
+    "zip": "24088",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 36.937857,
+    "longitude": -80.0142499220802,
+    "elevation": null,
+    "capacity": 5500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2528,
+  "school": "Rensselaer",
+  "mascot": "Engineers",
+  "abbreviation": "RPI",
+  "alt_name1": null,
+  "alt_name2": "RPI",
+  "alt_name3": "Rensselaer",
+  "conference": "Liberty League",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2528.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2528.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6107,
+    "name": "ECAV Stadium",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "10014",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.7284117,
+    "longitude": -73.6917878,
+    "elevation": null,
+    "capacity": 5200,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

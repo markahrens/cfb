@@ -1,0 +1,31 @@
+{
+  "id": 110242,
+  "school": "West Florida",
+  "mascot": "Argonauts",
+  "abbreviation": "WES",
+  "alt_name1": null,
+  "alt_name2": "WES",
+  "alt_name3": "W Florida",
+  "conference": "Gulf South",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "PenAir Field",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32514",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 30.5460663,
+    "longitude": -87.2233396,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2707,
+  "school": "West Virginia State",
+  "mascot": "Yellow Jackets",
+  "abbreviation": "WEST ",
+  "alt_name1": null,
+  "alt_name2": "WEST ",
+  "alt_name3": "W Virginia St",
+  "conference": "Mountain East",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2707.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2707.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5785,
+    "name": "Dickerson Stadium",
+    "city": "Institute",
+    "state": "WV",
+    "zip": "25112",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 38.3836097,
+    "longitude": -81.7654665,
+    "elevation": null,
+    "capacity": 5000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

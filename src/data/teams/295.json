@@ -1,0 +1,34 @@
+{
+  "id": 295,
+  "school": "Old Dominion",
+  "mascot": "Monarchs",
+  "abbreviation": "ODU",
+  "alt_name1": null,
+  "alt_name2": "ODU",
+  "alt_name3": "Old Dominion",
+  "conference": "Sun Belt",
+  "classification": "fbs",
+  "color": "#00507d",
+  "alt_color": "#a1d2f1",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/295.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/295.png"
+  ],
+  "twitter": "@ODUFootball",
+  "location": {
+    "venue_id": 3918,
+    "name": "S.B. Ballard Stadium",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23551",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 36.8889533,
+    "longitude": -76.3049175,
+    "elevation": "3.147987843",
+    "capacity": 20118,
+    "year_constructed": 1936,
+    "grass": false,
+    "dome": false
+  }
+}

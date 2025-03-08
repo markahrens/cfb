@@ -1,0 +1,34 @@
+{
+  "id": 194,
+  "school": "Ohio State",
+  "mascot": "Buckeyes",
+  "abbreviation": "OSU",
+  "alt_name1": null,
+  "alt_name2": "OSU",
+  "alt_name3": "Ohio State",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#ce1141",
+  "alt_color": "#505056",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/194.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/194.png"
+  ],
+  "twitter": "@OhioStateFB",
+  "location": {
+    "venue_id": 3861,
+    "name": "Ohio Stadium",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43210",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 40.0016447,
+    "longitude": -83.0197266,
+    "elevation": "216.6770325",
+    "capacity": 102780,
+    "year_constructed": 1922,
+    "grass": false,
+    "dome": false
+  }
+}

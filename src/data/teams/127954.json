@@ -1,0 +1,31 @@
+{
+  "id": 127954,
+  "school": "Eastern University",
+  "mascot": "Eagles",
+  "abbreviation": "EAS",
+  "alt_name1": null,
+  "alt_name2": "EAS",
+  "alt_name3": "Eastern",
+  "conference": "Mid Atlantic",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": null,
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Football Facility at Valley Forge",
+    "city": "Wayne",
+    "state": "PA",
+    "zip": "19087",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 40.055594,
+    "longitude": -75.387954,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}

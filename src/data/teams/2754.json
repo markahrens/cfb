@@ -1,0 +1,34 @@
+{
+  "id": 2754,
+  "school": "Youngstown State",
+  "mascot": "Penguins",
+  "abbreviation": "YSU",
+  "alt_name1": null,
+  "alt_name2": "YSU",
+  "alt_name3": "Youngstown St",
+  "conference": "MVFC",
+  "classification": "fcs",
+  "color": "#E51936",
+  "alt_color": "#690717",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2754.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2754.png"
+  ],
+  "twitter": "@YoungstownStFB",
+  "location": {
+    "venue_id": 844,
+    "name": "Stambaugh Stadium",
+    "city": "Youngstown",
+    "state": "OH",
+    "zip": "44502",
+    "country_code": "US",
+    "timezone": "America/New_York",
+    "latitude": 41.1092964,
+    "longitude": -80.6501885,
+    "elevation": "298.8893127",
+    "capacity": 20630,
+    "year_constructed": 1982,
+    "grass": false,
+    "dome": false
+  }
+}

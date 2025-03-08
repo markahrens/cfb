@@ -1,0 +1,34 @@
+{
+  "id": 40,
+  "school": "Curry College",
+  "mascot": "Colonels",
+  "abbreviation": "CUR",
+  "alt_name1": null,
+  "alt_name2": "CUR",
+  "alt_name3": "Curry",
+  "conference": "Commonwealth Coast",
+  "classification": "iii",
+  "color": "#65448b",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/40.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/40.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5830,
+    "name": "Walter M. Katz Field",
+    "city": "Milton",
+    "state": "MA",
+    "zip": "12547",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.2501425,
+    "longitude": -71.065573,
+    "elevation": null,
+    "capacity": 1600,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

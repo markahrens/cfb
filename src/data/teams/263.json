@@ -1,0 +1,34 @@
+{
+  "id": 263,
+  "school": "Loras College",
+  "mascot": "Duhawks",
+  "abbreviation": "LOR",
+  "alt_name1": null,
+  "alt_name2": "LOR",
+  "alt_name3": "Loras",
+  "conference": "American Rivers",
+  "classification": "iii",
+  "color": "#452d7d",
+  "alt_color": "#d2b888",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/263.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/263.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5921,
+    "name": "Rock Bowl",
+    "city": "Dubuque",
+    "state": "IA",
+    "zip": "50118",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.5052291,
+    "longitude": -90.6806924,
+    "elevation": null,
+    "capacity": 10000,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

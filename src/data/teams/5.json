@@ -1,0 +1,34 @@
+{
+  "id": 5,
+  "school": "UAB",
+  "mascot": "Blazers",
+  "abbreviation": "UAB",
+  "alt_name1": "Alabama-Birmingham",
+  "alt_name2": "UAB",
+  "alt_name3": "UAB",
+  "conference": "American Athletic",
+  "classification": "fbs",
+  "color": "#003b28",
+  "alt_color": "#ffc845",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/5.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/5.png"
+  ],
+  "twitter": "@UAB_FB",
+  "location": {
+    "venue_id": 7221,
+    "name": "Protective Stadium",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35203",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 33.5206824,
+    "longitude": -86.8024326,
+    "elevation": null,
+    "capacity": 0,
+    "year_constructed": null,
+    "grass": false,
+    "dome": false
+  }
+}

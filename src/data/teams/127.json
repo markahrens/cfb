@@ -1,0 +1,34 @@
+{
+  "id": 127,
+  "school": "Michigan State",
+  "mascot": "Spartans",
+  "abbreviation": "MSU",
+  "alt_name1": null,
+  "alt_name2": "MSU",
+  "alt_name3": "Michigan St",
+  "conference": "Big Ten",
+  "classification": "fbs",
+  "color": "#18453b",
+  "alt_color": "#ffffff",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/127.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/127.png"
+  ],
+  "twitter": "@MSU_Football",
+  "location": {
+    "venue_id": 3936,
+    "name": "Spartan Stadium",
+    "city": "East Lansing",
+    "state": "MI",
+    "zip": "48824",
+    "country_code": "US",
+    "timezone": "America/Detroit",
+    "latitude": 42.7281474,
+    "longitude": -84.4848526,
+    "elevation": "254.8794861",
+    "capacity": 75005,
+    "year_constructed": 1923,
+    "grass": true,
+    "dome": false
+  }
+}

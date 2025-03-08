@@ -1,0 +1,34 @@
+{
+  "id": 2646,
+  "school": "Thomas More College",
+  "mascot": "Saints",
+  "abbreviation": "THMORE",
+  "alt_name1": null,
+  "alt_name2": "THMORE",
+  "alt_name3": "Thmas More",
+  "conference": "Great Midwest Athletic",
+  "classification": "ii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2646.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2646.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": "Republic Bank Field",
+    "city": "Crestview Hills",
+    "state": "KY",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.0196721,
+    "longitude": -84.573913,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": false,
+    "dome": false
+  }
+}

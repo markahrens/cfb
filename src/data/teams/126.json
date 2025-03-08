@@ -1,0 +1,34 @@
+{
+  "id": 126,
+  "school": "Kalamazoo",
+  "mascot": "Hornets",
+  "abbreviation": "KAL",
+  "alt_name1": null,
+  "alt_name2": "KAL",
+  "alt_name3": "Kalamazoo",
+  "conference": "Michigan",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/126.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/126.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5904,
+    "name": "Angell Field",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49007",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 42.291707,
+    "longitude": -85.5872286,
+    "elevation": null,
+    "capacity": 2458,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": 2849,
+  "school": "Westminster (PA)",
+  "mascot": "Titans",
+  "abbreviation": "WMNPA",
+  "alt_name1": null,
+  "alt_name2": "WMNPA",
+  "alt_name3": "Wmnsterpa",
+  "conference": "Presidents' Athletics",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2849.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2849.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 6146,
+    "name": "Memorial Field (PA)",
+    "city": "New Wilmington",
+    "state": "PA",
+    "zip": "16172",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.1222812,
+    "longitude": -80.3328428,
+    "elevation": null,
+    "capacity": 4500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

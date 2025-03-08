@@ -1,0 +1,34 @@
+{
+  "id": 72,
+  "school": "Elmhurst",
+  "mascot": "Bluejays",
+  "abbreviation": "ELM",
+  "alt_name1": null,
+  "alt_name2": "ELM",
+  "alt_name3": "Elmhurst",
+  "conference": "CCIW",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/72.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/72.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5839,
+    "name": "Langhorst Field",
+    "city": "Elmhurst",
+    "state": "IL",
+    "zip": "60126",
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 41.8994745,
+    "longitude": -87.9403418,
+    "elevation": null,
+    "capacity": 2500,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

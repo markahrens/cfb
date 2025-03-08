@@ -1,0 +1,34 @@
+{
+  "id": 2286,
+  "school": "Illinois College",
+  "mascot": "Blueboys",
+  "abbreviation": "ILLCOLL",
+  "alt_name1": null,
+  "alt_name2": "ILLCOLL",
+  "alt_name3": "Ill Col",
+  "conference": "Midwest",
+  "classification": "iii",
+  "color": null,
+  "alt_color": null,
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/2286.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/2286.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": 5858,
+    "name": "England Stadium",
+    "city": "Jacksonville",
+    "state": "IL",
+    "zip": null,
+    "country_code": "US",
+    "timezone": null,
+    "latitude": 39.7343037,
+    "longitude": -90.2288356,
+    "elevation": null,
+    "capacity": 1468,
+    "year_constructed": null,
+    "grass": null,
+    "dome": false
+  }
+}

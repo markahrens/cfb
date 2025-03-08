@@ -1,0 +1,34 @@
+{
+  "id": 111,
+  "school": "Northeastern",
+  "mascot": "Huskies",
+  "abbreviation": "NE",
+  "alt_name1": null,
+  "alt_name2": "NE",
+  "alt_name3": "Northeastern",
+  "conference": null,
+  "classification": null,
+  "color": "#cc0001",
+  "alt_color": "#c2c3c0",
+  "logos": [
+    "http://a.espncdn.com/i/teamlogos/ncaa/500/111.png",
+    "http://a.espncdn.com/i/teamlogos/ncaa/500-dark/111.png"
+  ],
+  "twitter": null,
+  "location": {
+    "venue_id": null,
+    "name": null,
+    "city": null,
+    "state": null,
+    "zip": null,
+    "country_code": null,
+    "timezone": null,
+    "latitude": null,
+    "longitude": null,
+    "elevation": null,
+    "capacity": null,
+    "year_constructed": null,
+    "grass": null,
+    "dome": null
+  }
+}
