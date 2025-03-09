@@ -27,9 +27,7 @@ async function splitJsonArrayToFiles(inputFilePath, outputDir) {
 
             // Write individual JSON file
             await fs.writeFile(
-                filePath,
-                JSON.stringify(item, null, 2),
-                'utf8'
+                filePath        JSON.stringify(item, null, 2)        'utf8'
             );
 
             console.log(`Created file: ${fileName}`);

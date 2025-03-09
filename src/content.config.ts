@@ -62,7 +62,17 @@ const conferences = defineCollection({
     classification: z.string().nullable(),
     current:  z.array(z.object({
       id: reference('teams'),
-      joined: z.number()
+      joined: z.number().nullable()
+    })).optional(),
+    past:  z.array(z.object({
+      id: reference('teams'),
+      joined: z.number().nullable(),
+      left: z.number().nullable()
+    })).optional(),
+    future:  z.array(z.object({
+      id: reference('teams'),
+      joined: z.number().nullable(),
+      left: z.number().nullable()
     })).optional()
   })
 })
