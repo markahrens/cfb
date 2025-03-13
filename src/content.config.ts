@@ -71,8 +71,7 @@ const conferences = defineCollection({
     })).optional(),
     future:  z.array(z.object({
       id: reference('teams'),
-      joined: z.number().nullable(),
-      left: z.number().nullable()
+      joined: z.number().nullable()
     })).optional()
   })
 })

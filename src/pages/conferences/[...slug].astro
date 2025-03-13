@@ -21,7 +21,8 @@ export async function getStaticPaths() {
 
   return [...new Set(conferences)].map(conf => {
     return {
-              params: { slug: slugify(conf, {lower: true}) }      props: {conf}
+              params: { slug: slugify(conf, {lower: true}) },
+              props: {conf}
           }
   })
 }

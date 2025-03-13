@@ -1,5 +1,5 @@
 ---
-import { getCollection, getEntries } from 'astro:content';
+import { getCollection, getEntries, getEntry } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
 import ConferenceMap from '../../components/ConferenceMap.jsx';
@@ -22,20 +22,26 @@ export async function getStaticPaths() {
 
 const conf = Astro.props;
 var currentIds = new Array();
-var pastIds = new Array()
+var pastTeams = new Array();
+var futureIds = new Array();
 conf.conf.data.current.map(team => {
   currentIds.push(team.id)
 })
 if(conf.conf.data.past) {
-  conf.conf.data.past.map(team => {
-    pastIds.push(team.id)
+  conf.conf.data.past.map(async team => {
+    var teamData = await getEntry(team.id);
+    pastTeams.push([teamData, team.joined, team.left, teamData.data.school]);
+  })
+}
+if(conf.conf.data.future) {
+  conf.conf.data.future.map(team => {
+    futureIds.push(team.id)
   })
 }
 
 
 const currentTeams = await getEntries(currentIds);
-const pastTeams = await getEntries(pastIds);
-console.log(pastTeams)
+const futureTeams = await getEntries(futureIds);
 ---
 
 <BaseLayout pageTitle={`${conf.conf.data.name} |`}>
@@ -45,21 +51,26 @@ console.log(pastTeams)
       <div class="teams">
         {(currentTeams as any[]).sort((a, b) => a.data.school.localeCompare(b.data.school)).map(team => (
           <SimpleTeamCard id={team.data.id} />
-          <div>{team.data.id}</div>
-          <div>{conf.conf.data.current.find(({ id }) => id.id == team.data.id).joined}</div>
+          <div><em>Joined: </em>{conf.conf.data.current.find(({ id }) => id.id == team.data.id).joined}</div>
         ))}
-          { pastTeams.length > 0 && <h2>Past Teams</h2> }
-          { pastTeams.length > 0 && (
-            (pastTeams as any[]).sort((a, b) => a.data.school.localeCompare(b.data.school)).map(team => (
-              <SimpleTeamCard id={team.data.id} />
-              <div>{team.data.id}</div>
-              <div>{conf.conf.data.past.find(({ id }) => id.id == team.data.id).joined} - {conf.conf.data.past.find(({ id }) => id.id == team.data.id).left}</div>
-            ))
-          )}
-        </div>
-        <div class="map">
-          <ConferenceMap client:only="react" teams={currentTeams}/>
-        </div>
+        { pastTeams.length > 0 && <h2>Past Teams</h2> }
+        { pastTeams.length > 0 && (
+          pastTeams.sort((a, b) => a[3].localeCompare(b[3])).map(team => (
+            <SimpleTeamCard id={team[0].id} />
+            <div>{team[1]} - {team[2]}</div>
+          ))
+        )}
+        { futureTeams.length > 0 && <h2>Future Teams</h2> }
+        { futureTeams.length > 0 && (
+          (futureTeams as any[]).sort((a, b) => a.data.school.localeCompare(b.data.school)).map(team => (
+            <SimpleTeamCard id={team.data.id} />
+            <div>{conf.conf.data.future.find(({ id }) => id.id == team.data.id).joined}</div>
+          ))
+        )}
+      </div>
+      <div class="map">
+        <ConferenceMap client:only="react" teams={currentTeams}/>
+      </div>
     </div>
 
   </div>

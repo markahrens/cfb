@@ -7,75 +7,87 @@
   "current": [
     {
       "id": "120",
-      "joined": 2018
+      "joined": 2014
     },
     {
       "id": "127",
-      "joined": 2018
+      "joined": 1950
     },
     {
       "id": "130",
-      "joined": 2018
+      "joined": 1917
     },
     {
       "id": "135",
-      "joined": 2018
+      "joined": 1896
     },
     {
       "id": "158",
-      "joined": 2018
+      "joined": 2011
     },
     {
       "id": "164",
-      "joined": 2018
+      "joined": 2014
     },
     {
       "id": "194",
-      "joined": 2018
+      "joined": 1912
     },
     {
       "id": "213",
-      "joined": 2018
+      "joined": 1993
     },
     {
       "id": "2294",
-      "joined": 2018
+      "joined": 1899
     },
     {
       "id": "2483",
-      "joined": 2018
+      "joined": 2024
     },
     {
       "id": "2509",
-      "joined": 2018
+      "joined": 1896
     },
     {
       "id": "26",
-      "joined": 2018
+      "joined": 22024
     },
     {
       "id": "264",
-      "joined": 2018
+      "joined": 2024
     },
     {
       "id": "275",
-      "joined": 2018
+      "joined": 1896
     },
     {
       "id": "30",
-      "joined": 2018
+      "joined": 2024
     },
     {
       "id": "356",
-      "joined": 2018
+      "joined": 1896
     },
     {
       "id": "77",
-      "joined": 2018
+      "joined": 1896
     },
     {
       "id": "84",
-      "joined": 2018
+      "joined": 1899
+    }
+  ],
+  "past": [
+    {
+      "id": "130",
+      "joined": 1896,
+      "left": 1907
+    },
+    {
+      "id": "80",
+      "joined": 1896,
+      "left": 1939
     }
   ]
 }

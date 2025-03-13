@@ -14,7 +14,7 @@ const pageTitle = "Conferences |";
 <BaseLayout pageTitle={pageTitle}>
   <div class="page-content">
     <h1>Conferences</h1>
-      {conferences.map(conf => (
+      {conferences.sort((a, b) => a.data.name.localeCompare(b.data.name)).map(conf => (
         <p><a href={`/new-conferences/${slugify(String(conf.data.name), {lower: true})}`}>{conf.data.name}</a></p>
       ))}
   </div>
