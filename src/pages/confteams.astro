@@ -17,12 +17,15 @@ teams.map(team => {
 })
 
 ---
-
-<ul>
-  {[...new Set(conferences['fbs'])].sort().map(conf => (
-    <li>{conf[0]},{conf[1]}</li>
-  ))}
-    {[...new Set(conferences['fbs'])].sort().map(conf => (
+<div style="display: flex; flex-direction: row; gap: 20px;">
+  <div>
+    {[...new Set(conferences['fcs'])].sort().map(conf => (
+      <span>{conf[0]},{conf[1]}<br /></span>
+    ))}
+  </div>
+  <div>
+    {[...new Set(conferences['fcs'])].sort().map(conf => (
     <span>{conf[1]},<br></span>
   ))}
-</ul>
+  </div>
+</div>

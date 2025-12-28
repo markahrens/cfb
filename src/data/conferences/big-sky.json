@@ -3,5 +3,52 @@
   "name": "Big Sky",
   "shortName": "Big Sky Conference",
   "abbreviation": null,
-  "classification": "fcs"
+  "classification": "fcs",
+  "current": [
+    {
+      "id": "13",
+      "joined": 2012
+    },
+    {
+      "id": "147",
+      "joined": 1963
+    },
+    { "id": "149", "joined": 1963 },
+    { "id": "16", "joined": 1996 },
+    { "id": "2458", "joined": 2006 },
+    { "id": "2464", "joined": 1970 },
+    { "id": "2502", "joined": 1996 },
+    { "id": "2692", "joined": 1963 },
+    { "id": "302", "joined": 2012 },
+    { "id": "304", "joined": 1963 },
+    { "id": "331", "joined": 1987 },
+    { "id": "70", "joined": 2018 }
+  ],
+  "past": [
+    {
+      "id": "68",
+      "joined": 1970,
+      "left": 1996
+    },
+    {
+      "id": "70",
+      "joined": 1963,
+      "left": 1996
+    },
+    {
+      "id": "2440",
+      "joined": 1979,
+      "left": 1992
+    },
+    {
+      "id": "155",
+      "joined": 2012,
+      "left": 2018
+    },
+    {
+      "id": "253",
+      "joined": 2012,
+      "left": 2022
+    }
+  ]
 }
