@@ -1,52 +1,34 @@
 ---
-import { getCollection } from 'astro:content';
+import { getAllConferenceSlugs, getTeamsByConference } from '../../lib/db';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
 import ConferenceMap from '../../components/ConferenceMap.jsx';
 
 import slugify from 'slugify';
 
+
 export const prerender = true
 
 export async function getStaticPaths() {
-  const teams = await getCollection('teams', ({ data }) => {
-    return data.classification !== null;
-  });
-
-  var conferences = []
-
-  teams.map(team => {
-    conferences.push(team.data.conference);
-  });
-
-  return [...new Set(conferences)].map(conf => {
-    return {
-              params: { slug: slugify(conf, {lower: true}) },
-              props: {conf}
-          }
-  })
+  return getAllConferenceSlugs();
 }
 
-const conf = Astro.props;
-
-var conferenceTeams = await getCollection('teams', ({ data }) => {
-  return data.conference == conf.conf;
-});
-
+const { conferenceName, classification } = Astro.props;
+const teams = getTeamsByConference(conferenceName);
 
 ---
 
-<BaseLayout pageTitle={`${conf.conf} |`}>
+<BaseLayout pageTitle={`${conferenceName} |`}>
   <div class="page-content">
-    <h1>{conf.conf}</h1>
+    <h1>{conferenceName}</h1>
     <div class="conference-page">
       <div class="teams">
-        {conferenceTeams.sort().map(team => (
-          <SimpleTeamCard id={team.data.id} />
+        {teams.sort().map(team => (
+          <SimpleTeamCard id={team.id} />
         ))}
         </div>
         <div class="map">
-          <ConferenceMap client:only="react" teams={conferenceTeams}/>
+          <ConferenceMap client:only="react" teams={teams}/>
         </div>
     </div>
 

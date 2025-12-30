@@ -4,17 +4,17 @@ export default function Leaflet(teams) {
   console.log(teams);
   const bounds = L.latLngBounds();
   teams.teams.forEach(t => {
-    bounds.extend([t.data.location.latitude, t.data.location.longitude])
+    bounds.extend([t.latitude, t.longitude])
   });
 
   function TeamMarkers() {
     const locationCoords = new Array();
     teams.teams.forEach(t => {
       locationCoords.push({
-        'coords':[t.data.location.latitude,t.data.location.longitude],
-        'school':t.data.school,
+        'coords':[t.latitude,t.longitude],
+        'school':t.school,
         'icon': L.icon({
-          iconUrl: '/logos/small/'+t.data.id+'.png',
+          iconUrl: '/logos/small/'+t.id+'.png',
           iconSize: [25, 25],
           popupAnchor:  [0, -30]
         })

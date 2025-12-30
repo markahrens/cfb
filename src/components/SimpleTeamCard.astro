@@ -1,22 +1,31 @@
 ---
-import { getEntry } from 'astro:content';
+import { getTeamById } from '../lib/db';
 import slugify from 'slugify';
 
 
 const { id, showLogo = true, linkedName = false } = Astro.props;
 
-const team = await getEntry('teams',id );
+
+const team = getTeamById(id);
+
+let school = 'Default ' + id ;
+let mascot = 'Mascot';
+
+if(team) { 
+  school = team.school 
+mascot = team.mascot }
+
 
 ---
 
 <div class="teamcard">
 
-    {(showLogo) && <div class="logo"><img src={`/logos/small/${team.data.id}.png`} width="40" /></div>}
+    {(showLogo) && <div class="logo"><img src={`/logos/small/${team.id}.png`} width="40" /></div>}
     
     <div class="name">
-        {linkedName && <a href={`/${slugify(team.data.school, {lower: true})} `}><span class="teamcard__title">{team.data.school}</span></a>}
-        {!linkedName && <span class="teamcard__title">{team.data.school}</span>}
-        {team.data.mascot} 
+        {linkedName && <a href={`/${slugify(school, {lower: true})} `}><span class="teamcard__title">{school}</span></a>}
+        {!linkedName && <span class="teamcard__title">{school}</span>}
+        {mascot} 
     </div>
 </div>
 
