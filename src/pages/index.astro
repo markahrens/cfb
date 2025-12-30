@@ -3,6 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import GameResult from '../components/GameResult.astro';
 import slugify from 'slugify';
+import { getActiveConferences } from '../lib/db';
 
 const seasons = (await getCollection('bowlseasons'))
   .sort((a, b) => parseInt(b.id) - parseInt(a.id));
@@ -13,17 +14,16 @@ const teams = await getCollection('teams', ({ data }) => {
   return data.classification !== null;
 });
 
-var conferences = []
+var conferences = getActiveConferences();
 
-teams.map(team => {
-  if(conferences[team.data.classification]) {
-    conferences[team.data.classification].push(team.data.conference);
+// Group conferences by classification
+const conferencesByClassification = conferences.reduce((acc, conf) => {
+  if (!acc[conf.classification]) {
+    acc[conf.classification] = [];
   }
-  else {
-    conferences[team.data.classification] = [];
-    conferences[team.data.classification].push(team.data.conference);
-  }
-})
+  acc[conf.classification].push(conf.name);
+  return acc;
+}, {});
 
 const pageTitle = "Home |"
 ---
@@ -38,32 +38,52 @@ const pageTitle = "Home |"
         <GameResult game={lastBowl[0]} />
       </div>
       <div>
-        <h2>Conferences</h2>
-        <h3>FBS</h3>
-        <ul>
-          {[...new Set(conferences['fbs'])].sort().map(conf => (
-            <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-          ))}
-        </ul>
-        <h3>FCS</h3>
-        <ul>
-          {[...new Set(conferences['fcs'])].sort().map(conf => (
-            <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-          ))}
-        </ul>
-        <h3>Division 2</h3>
-        <ul>
-          {[...new Set(conferences['ii'])].sort().map(conf => (
+  <h2>Conferences</h2>
+  
+  {conferencesByClassification['fbs'] && (
+    <>
+      <h3>FBS</h3>
+      <ul>
+        {conferencesByClassification['fbs'].sort().map(conf => (
           <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-          ))}
-        </ul>
-        <h3>Division 3</h3>
-        <ul>
-          {[...new Set(conferences['iii'])].sort().map(conf => (
-            <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-          ))}
-        </ul>
-      </div>
+        ))}
+      </ul>
+    </>
+  )}
+  
+  {conferencesByClassification['fcs'] && (
+    <>
+      <h3>FCS</h3>
+      <ul>
+        {conferencesByClassification['fcs'].sort().map(conf => (
+          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+        ))}
+      </ul>
+    </>
+  )}
+  
+  {conferencesByClassification['ii'] && (
+    <>
+      <h3>Division 2</h3>
+      <ul>
+        {conferencesByClassification['ii'].sort().map(conf => (
+          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+        ))}
+      </ul>
+    </>
+  )}
+  
+  {conferencesByClassification['iii'] && (
+    <>
+      <h3>Division 3</h3>
+      <ul>
+        {conferencesByClassification['iii'].sort().map(conf => (
+          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+        ))}
+      </ul>
+    </>
+  )}
+</div>
     </div>
   </div>
 </BaseLayout>
