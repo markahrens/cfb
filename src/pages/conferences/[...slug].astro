@@ -1,5 +1,5 @@
 ---
-import { getAllConferenceSlugs, getTeamsByConference } from '../../lib/db';
+import { getAllConferenceSlugs, getCurrentTeamsByConference, getPastTeamsByConference } from '../../lib/db';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
 import ConferenceMap from '../../components/ConferenceMap.jsx';
@@ -14,8 +14,10 @@ export async function getStaticPaths() {
 }
 
 const { conferenceName, classification } = Astro.props;
-const teams = getTeamsByConference(conferenceName);
+const currentTeams = getCurrentTeamsByConference(conferenceName);
+const pastTeams = getPastTeamsByConference(conferenceName);
 
+console.log(pastTeams.length)
 ---
 
 <BaseLayout pageTitle={`${conferenceName} |`}>
@@ -23,13 +25,34 @@ const teams = getTeamsByConference(conferenceName);
     <h1>{conferenceName}</h1>
     <div class="conference-page">
       <div class="teams">
-        {teams.sort().map(team => (
-          <SimpleTeamCard id={team.id} />
-        ))}
+        <div class="current">
+          {currentTeams.length > 0 && (
+            <>
+            <h2>Current Teams</h2>
+            {currentTeams.sort().map(team => (
+                <SimpleTeamCard id={team.id} year_joined={team.year_joined}/>
+            ))}
+            </>
+          )}
+          
         </div>
-        <div class="map">
-          <ConferenceMap client:only="react" teams={teams}/>
+        <div class="past">
+          {pastTeams.length > 0 && (
+            <>
+              <h2>Past Teams</h2>
+              {pastTeams.sort().map(team => (
+                <div class="past-team">
+                  <SimpleTeamCard id={team.id} />
+                  <div>{team.year_joined} - {team.year_left}</div>
+                </div>
+              ))}
+            </>
+          )}
         </div>
+      </div>
+      <div class="map">
+        <ConferenceMap client:only="react" teams={currentTeams}/>
+      </div>
     </div>
 
   </div>
@@ -40,6 +63,9 @@ const teams = getTeamsByConference(conferenceName);
     display: grid;
     grid-template-columns: 1fr 2fr;
     column-gap: 40px;
+  }
+  .past-team {
+    margin-bottom: 10px;
   }
    .map-container {
     height: 600px;

@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import GameResult from '../components/GameResult.astro';
 import slugify from 'slugify';
-import { getActiveConferences } from '../lib/db';
+import { getActiveConferences, getPastConferences } from '../lib/db';
 
 const seasons = (await getCollection('bowlseasons'))
   .sort((a, b) => parseInt(b.id) - parseInt(a.id));
@@ -15,6 +15,8 @@ const teams = await getCollection('teams', ({ data }) => {
 });
 
 var conferences = getActiveConferences();
+var past_conferences = getPastConferences();
+console.log(past_conferences)
 
 // Group conferences by classification
 const conferencesByClassification = conferences.reduce((acc, conf) => {
@@ -38,52 +40,59 @@ const pageTitle = "Home |"
         <GameResult game={lastBowl[0]} />
       </div>
       <div>
-  <h2>Conferences</h2>
-  
-  {conferencesByClassification['fbs'] && (
-    <>
-      <h3>FBS</h3>
-      <ul>
-        {conferencesByClassification['fbs'].sort().map(conf => (
-          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+        <h2>Conferences</h2>
+        
+        {conferencesByClassification['fbs'] && (
+          <>
+            <h3>FBS</h3>
+            <ul>
+              {conferencesByClassification['fbs'].sort().map(conf => (
+                <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+              ))}
+            </ul>
+          </>
+        )}
+        
+        {conferencesByClassification['fcs'] && (
+          <>
+            <h3>FCS</h3>
+            <ul>
+              {conferencesByClassification['fcs'].sort().map(conf => (
+                <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+              ))}
+            </ul>
+          </>
+        )}
+        
+        {conferencesByClassification['ii'] && (
+          <>
+            <h3>Division 2</h3>
+            <ul>
+              {conferencesByClassification['ii'].sort().map(conf => (
+                <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+              ))}
+            </ul>
+          </>
+        )}
+        
+        {conferencesByClassification['iii'] && (
+          <>
+            <h3>Division 3</h3>
+            <ul>
+              {conferencesByClassification['iii'].sort().map(conf => (
+                <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
+              ))}
+            </ul>
+          </>
+        )}
+
+        <h2>Past Conferences</h2>
+        <ul>
+        {past_conferences.map(conf => (
+         <li><a href={`/conferences/${slugify(String(conf.name), {lower: true})}`}>{conf.name}</a></li>
         ))}
-      </ul>
-    </>
-  )}
-  
-  {conferencesByClassification['fcs'] && (
-    <>
-      <h3>FCS</h3>
-      <ul>
-        {conferencesByClassification['fcs'].sort().map(conf => (
-          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-        ))}
-      </ul>
-    </>
-  )}
-  
-  {conferencesByClassification['ii'] && (
-    <>
-      <h3>Division 2</h3>
-      <ul>
-        {conferencesByClassification['ii'].sort().map(conf => (
-          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-        ))}
-      </ul>
-    </>
-  )}
-  
-  {conferencesByClassification['iii'] && (
-    <>
-      <h3>Division 3</h3>
-      <ul>
-        {conferencesByClassification['iii'].sort().map(conf => (
-          <li><a href={`/conferences/${slugify(String(conf), {lower: true})}`}>{conf}</a></li>
-        ))}
-      </ul>
-    </>
-  )}
-</div>
+        </ul>
+      </div>
     </div>
   </div>
 </BaseLayout>
