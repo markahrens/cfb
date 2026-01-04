@@ -7,16 +7,22 @@ const { pageTitle } = Astro.props;
 	<head>
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
+		<meta property="og:image" content="https://www.mytungsten.net/web-app-manifest-512x512.png" />
+		<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="shortcut icon" href="/favicon.ico" />
+		<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+		<link rel="manifest" href="/site.webmanifest" />
 		<link rel="preconnect" href="https://fonts.googleapis.com">
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-		<link href="https://fonts.googleapis.com/css2?family=Radio+Canada+Big:ital,wght@0,400..700;1,400..700&family=Radio+Canada:wdth@87.5&display=swap" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wdth,wght@0,95,400..700;1,95,400..700&display=swap" rel="stylesheet">
 		<link
       rel='stylesheet'
       href='https://unpkg.com/leaflet@1.8.0/dist/leaflet.css'
       integrity='sha512-hoalWLoI8r4UszCkZ5kL8vayOGVae1oxXe/2A4AO6J9+580uKHDO3JdHb7NzwwzK5xr/Fs0W40kiNHxM9vyTtQ=='
       crossorigin=''
     />
+		<slot name="head" />
 		<title>{pageTitle} College Football Report | MyTungsten</title>
 	</head>
 	<body>
@@ -31,23 +37,27 @@ const { pageTitle } = Astro.props;
 </html>
 
 <style is:global>
+
 	:root {
-		--light-color: #F7F9FB;
-		--dark-color: #0D19A3;
-		--alt-color: #080F5B
+		--lightColor: #F1FAFB;
+		--lightColorAlt: #d3e0ea;
+		--darkColor: #2b3a6b;
+		--darkColorAlt: #3A70B7;
+		--bodyLink: #1E88E5;
 	}
 
  body {
 	margin: 0;
-	font-family: "Radio Canada", sans-serif;
-	font-optical-sizing: auto;
-	font-weight: 400;
-	font-style: normal;
-	font-variation-settings: "wdth" 87.5;
-	background-color: var(--light-color);
+	font-family: "Instrument Sans", sans-serif;
+		font-optical-sizing: auto;
+		font-weight: 500;
+		font-style: normal;
+		font-variation-settings:
+			"wdth" 95;
+	background-color: var(--lightColor);
  }
  a {
-	color: var(--dark-color);
+	color: var(--darkColor);
 	text-decoration: none;
 	&:hover {
 		text-decoration: underline;
@@ -59,14 +69,13 @@ const { pageTitle } = Astro.props;
 	flex-direction:row;
 	align-items:center;
 	padding: 10px;
-	font-family: "Radio Canada Big", sans-serif;
-	background-color: var(--dark-color);
+	background-color: var(--darkColor);
 	.site-title {
 		font-size: 1.4rem;
 		font-weight: 700;
 	}
 	a {
-		color: var(--light-color);
+		color: var(--lightColor);
 		text-decoration: none;
 	}
 	ul {
@@ -77,9 +86,6 @@ const { pageTitle } = Astro.props;
 			
 		}
 	}
- }
- h1, h2, h3 {
-	font-family: 'Radio Canada Big', sans-serif;
  }
 
  .page-content {
