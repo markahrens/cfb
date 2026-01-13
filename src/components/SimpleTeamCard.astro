@@ -3,7 +3,7 @@ import { getTeamById } from '../lib/db';
 import slugify from 'slugify';
 
 
-const { id, year_joined, showLogo = true, linkedName = false } = Astro.props;
+const { id, yearJoined, yearLeft, showLogo = true, linkedName = false } = Astro.props;
 
 
 const team = getTeamById(id);
@@ -23,10 +23,15 @@ mascot = team.mascot }
     {(showLogo) && <div class="logo"><img src={`/logos/small/${team.id}.png`} width="40" /></div>}
     
     <div class="name">
-      {linkedName && <a href={`/${slugify(school, {lower: true})} `}><span class="teamcard__title">{school}</span></a>}
-      {!linkedName && <span class="teamcard__title">{school}</span>}
-      {mascot} 
-      {(year_joined > 1850) && <span> | Joined: {year_joined}</span>}
+      {linkedName && <a href={`/${slugify(school, {lower: true})} `}><div class="teamcard_title">{school}</div></a>}
+      {!linkedName && <div class="teamcard_title">{school}</div>}
+      <div class="teamcard_mascot">
+        {mascot}
+        {(yearJoined > 1850) && <span> · {yearJoined}</span>}
+        {(yearLeft) && <span> - {yearLeft}</span>}
+      </div>
+       
+      
     </div>
 
     
@@ -48,9 +53,14 @@ mascot = team.mascot }
           }
           .name {
             grid-area: name;
-            .teamcard__title {
-              font-size: 1.4rem;
+            .teamcard_title {
+              font-size: 1.3rem;
               font-weight: 500;
+            }
+            .teamcard_mascot {
+              font-size: 1rem;
+              font-weight: 400;
+              font-variation-settings: "wdth" 90;
             }
           }
           

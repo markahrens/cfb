@@ -29,23 +29,25 @@ console.log(pastTeams.length)
           {currentTeams.length > 0 && (
             <>
             <h2>Current Teams</h2>
+            <div class="team-list">
             {currentTeams.sort().map(team => (
-                <SimpleTeamCard id={team.id} year_joined={team.year_joined}/>
+                <SimpleTeamCard id={team.id}  yearJoined={team.year_joined} yearLeft={team.year_left}/>
             ))}
+            </div>
             </>
           )}
-          
         </div>
         <div class="past">
           {pastTeams.length > 0 && (
             <>
               <h2>Past Teams</h2>
+              <div class="team-list">
               {pastTeams.sort().map(team => (
                 <div class="past-team">
-                  <SimpleTeamCard id={team.id} />
-                  <div>{team.year_joined} - {team.year_left}</div>
+                  <SimpleTeamCard id={team.id}  yearJoined={team.year_joined} yearLeft={team.year_left} />
                 </div>
               ))}
+              </div>
             </>
           )}
         </div>
@@ -59,16 +61,26 @@ console.log(pastTeams.length)
 </BaseLayout>
 
 <style is:global>
-  .conference-page {
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 40px;
+   .conference-page {
+    display: flex;
+    flex-direction: column-reverse;
+    
   }
-  .past-team {
-    margin-bottom: 10px;
+  .team-list{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 10px;
+  }
+
+  @media (width > 1024px) {
+    .conference-page {
+      display: grid;
+      grid-template-columns: 1.5fr 2fr;
+      column-gap: 20px;
+    }
   }
    .map-container {
-    height: 600px;
+    height: 500px;
     width: 100%;
   }
   .name-tooltip {
