@@ -18,7 +18,11 @@ mascot = team.mascot }
 
 ---
 
-<div class="teamcard">
+<div 
+  class="teamcard"
+  onmouseenter={`window.dispatchEvent(new CustomEvent('teamHover', { detail: { teamId: '${team.id}', action: 'enter' }}))`}
+  onmouseleave={`window.dispatchEvent(new CustomEvent('teamHover', { detail: { teamId: '${team.id}', action: 'leave' }}))`}
+>
 
     {(showLogo) && <div class="logo"><img src={`/logos/small/${team.id}.png`} width="40" /></div>}
     

@@ -4,8 +4,6 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import SimpleTeamCard from '../../components/SimpleTeamCard.astro'
 import ConferenceMap from '../../components/ConferenceMap.jsx';
 
-import slugify from 'slugify';
-
 
 export const prerender = true
 
@@ -66,10 +64,14 @@ console.log(pastTeams.length)
     flex-direction: column-reverse;
     
   }
-  .team-list{
+  .team-list {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 10px;
+  }
+
+  .current .teamcard {
+    cursor: pointer;
   }
 
   @media (width > 1024px) {
@@ -92,6 +94,8 @@ console.log(pastTeams.length)
     box-shadow: none;
     opacity: 1 !important;
   }
+
+  
 
   .leaflet-tooltip-top:before,
   .leaflet-tooltip-bottom:before,
